@@ -1,9 +1,23 @@
-def plot_fire(fire_event_name):
-    urls = test.json().get('coarse_severity_cog_urls')
+import pandas as pd
+import geopandas as gpd
+import requests
+import rasterio as rio
+from matplotlib import pyplot as plt
+from rasterio.plot import show_hist
+import numpy as np
+from rasterio.warp import calculate_default_transform, reproject, Resampling
+
+
+def plot_fire(fire_name, fire_days, fire_polygon, fires):
+
+    fire_event_name = fires.loc[(fires['fire_name'] == fire_name) & (fires['post_fire_days'] == fire_days), 'fire_event_name'].values[0]
+    job_id = fires.loc[fires['fire_event_name'] == fire_event_name, 'job_id'].values[0]
+
+    request = requests.get(f"https://fire-recovery-backend-dev-113009620257.us-central1.run.app/fire-recovery/result/analyze_fire_severity/{fire_event_name}/{job_id}")
+
+    urls = request.json().get('coarse_severity_cog_urls')
     dnbr_url = urls.get('dnbr')
     rdnbr_url = urls.get('rdnbr')
-
-    fire_polygon = calfire[calfire['FIRE_NAME'] == 'COFFEE POT'].to_crs(epsg=4326)
 
     # Reproject dNBR to lat/lon
     with rio.open(dnbr_url) as src:
@@ -55,7 +69,7 @@ def plot_fire(fire_event_name):
     fire_polygon.boundary.plot(ax=axes[0], color='cyan', linewidth=2, zorder=2)
     axes[0].set_xlim(dnbr_extent[0], dnbr_extent[1])
     axes[0].set_ylim(dnbr_extent[2], dnbr_extent[3])
-    axes[0].set_title('dNBR (fixed scale -1 to 1)')
+    axes[0].set_title(f'dNBR ({fire_event_name})')
     axes[0].set_xlabel('Longitude')
     axes[0].set_ylabel('Latitude')
     plt.colorbar(im1, ax=axes[0])
@@ -66,7 +80,7 @@ def plot_fire(fire_event_name):
     fire_polygon.boundary.plot(ax=axes[1], color='cyan', linewidth=2, zorder=2)
     axes[1].set_xlim(rdnbr_extent[0], rdnbr_extent[1])
     axes[1].set_ylim(rdnbr_extent[2], rdnbr_extent[3])
-    axes[1].set_title('RdNBR (fixed scale -1 to 1)')
+    axes[1].set_title(f'RdNBR ({fire_event_name})')
     axes[1].set_xlabel('Longitude')
     axes[1].set_ylabel('Latitude')
     plt.colorbar(im2, ax=axes[1])

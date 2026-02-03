@@ -6,14 +6,14 @@ library(sf)
 
 df = st_read("validation_metrics.gpkg")
 
-ggplot() + theme_bw() +
-  geom_point(data = df, aes(x = fire_days, y = boundary_mean_dnbr)) +
-  geom_line(data = df, aes(x = fire_days, y = boundary_mean_dnbr, group = fire_name))
+ggplot() + theme_bw() + facet_wrap(~metric) +
+  geom_point(data = df, aes(x = fire_days, y = filtered_mean)) +
+  geom_line(data = df, aes(x = fire_days, y = filtered_mean, group = fire_name))
 
 # area overlap
 
 df_filtered = df %>%
-  select(fire_name, fire_days, geom) %>%
+  select(fire_name, fire_days, metric, geom) %>%
   st_make_valid()
 
 calfire = st_read('Validation_Fire_Perimeters_2015_2024.shp') %>%
@@ -22,8 +22,7 @@ calfire = st_read('Validation_Fire_Perimeters_2015_2024.shp') %>%
   st_make_valid() %>%
   st_transform(crs = st_crs(df_filtered))
 
-# Calculate overlap for each fire/fire_days combination
-overlap_results = map_dfr(1:nrow(df_filtered), function(i) {
+calculate_intersection = function(i) {
   row = df_filtered[i, ]
   cal_poly = calfire %>% filter(fire_name == row$fire_name)
   
@@ -36,6 +35,7 @@ overlap_results = map_dfr(1:nrow(df_filtered), function(i) {
     return(data.frame(
       fire_name = row$fire_name,
       fire_days = row$fire_days,
+      metric = row$metric,
       percent_overlap = 0
     ))
   }
@@ -44,16 +44,27 @@ overlap_results = map_dfr(1:nrow(df_filtered), function(i) {
   intersection_area = sum(st_area(intersection))
   calfire_area = sum(st_area(cal_poly))
   
-  # Cap at 100% (intersection can't exceed calfire area)
   pct = min(100, as.numeric(intersection_area / calfire_area * 100))
   
   data.frame(
     fire_name = row$fire_name,
     fire_days = row$fire_days,
+    metric = row$metric,
     percent_overlap = pct
   )
-}) %>%
-  crossing(metric = c("dnbr", "rdnbr"))
+}
 
-overlap_results 
-  
+overlap_results = map_dfr(1:nrow(df_filtered), calculate_intersection)
+
+ggplot() + theme_bw() +
+  geom_boxplot(data = overlap_results, aes(x = factor(metric), y = percent_overlap, fill = metric))
+###
+df_variance = df %>%
+  select(fire_name, fire_days, metric, calfire_var) %>%
+  sf::st_drop_geometry() %>%
+  pivot_wider(names_from = metric, values_from = calfire_var)
+
+ggplot() + theme_bw() +
+  geom_point(data = df_variance, aes(color = fire_days, x =  dnbr, y = rdnbr))
+
+df_test = sf::st_drop  

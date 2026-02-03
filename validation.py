@@ -24,7 +24,7 @@ def plot_fire(fire_name, fire_days, fire_polygon, fires):
     job_id = fires.loc[fires['fire_event_name'] == fire_event_name, 'job_id'].values[0]
 
     request = requests.get(f"https://fire-recovery-backend-dev-113009620257.us-central1.run.app/fire-recovery/result/analyze_fire_severity/{fire_event_name}/{job_id}")
-
+    print(request)
     urls = request.json().get('coarse_severity_cog_urls')
     dnbr_url = urls.get('dnbr')
     rdnbr_url = urls.get('rdnbr')
@@ -90,7 +90,7 @@ def plot_fire(fire_name, fire_days, fire_polygon, fires):
     fire_polygon.boundary.plot(ax=axes[1], color='cyan', linewidth=2, zorder=2)
     axes[1].set_xlim(rdnbr_extent[0], rdnbr_extent[1])
     axes[1].set_ylim(rdnbr_extent[2], rdnbr_extent[3])
-    axes[1].set_title(f'RdNBR ({fire_event_name})')
+    axes[1].set_title(f'RdNBR ({fire_event_name} after {fire_days} days)')
     axes[1].set_xlabel('Longitude')
     axes[1].set_ylabel('Latitude')
     plt.colorbar(im2, ax=axes[1])
@@ -99,18 +99,12 @@ def plot_fire(fire_name, fire_days, fire_polygon, fires):
     plt.show()
 
 
-def valculate_fire_variables(fire_name, fire_days, fires, calfire):
+def process_fire_metrics(fire_name, fire_days, fires, calfire):
     """
     Process fire severity metrics for a given fire and post-fire days.
     
-    Parameters:
-    - fire_name: str, name of the fire
-    - fire_days: int, post-fire days
-    - fires: DataFrame with fire processing jobs
-    - calfire: GeoDataFrame with CalFire boundaries
-    
     Returns:
-    - dict with metrics for both dNBR and RdNBR, or False if job not complete/error
+    - list of dicts (one per metric: dnbr, rdnbr), or False if job not complete/error
     """
     
     # Get fire_event_name and job_id
@@ -121,8 +115,6 @@ def valculate_fire_variables(fire_name, fire_days, fires, calfire):
     
     fire_event_name = fire_rows['fire_event_name'].values[0]
     job_id = fire_rows['job_id'].values[0]
-    
-    print(f"Processing {fire_event_name}...")
     
     # Get fire polygon
     fire_polygon = calfire[calfire['FIRE_NAME'] == fire_name]
@@ -136,7 +128,7 @@ def valculate_fire_variables(fire_name, fire_days, fires, calfire):
         response_data = request.json()
         
         if response_data.get('status') != 'complete':
-            print(f"  Job {fire_event_name} not completed yet.")
+            print(f"  Job {fire_event_name} is {response_data.get('status')}")
             return False
         
         urls = response_data.get('coarse_severity_cog_urls')
@@ -146,8 +138,8 @@ def valculate_fire_variables(fire_name, fire_days, fires, calfire):
         print(f"  Error fetching URLs: {e}")
         return False
     
-    # Store results for both metrics
-    results = {}
+    # Store results - one row per metric
+    results = []
     
     # Process both dNBR and RdNBR
     for metric_name, metric_url in [('dnbr', dnbr_url), ('rdnbr', rdnbr_url)]:
@@ -156,7 +148,7 @@ def valculate_fire_variables(fire_name, fire_days, fires, calfire):
                 # Reproject fire polygon to raster CRS
                 fire_poly_reproj = fire_polygon.to_crs(src.crs)
                 
-                # 1) Crop to CalFire boundary
+                # Crop to CalFire boundary
                 geoms = [mapping(geom) for geom in fire_poly_reproj.geometry]
                 cropped, cropped_transform = mask(src, geoms, crop=True, nodata=np.nan)
                 cropped_data = cropped[0]
@@ -164,58 +156,65 @@ def valculate_fire_variables(fire_name, fire_days, fires, calfire):
                 # Remove nodata values
                 valid_data = cropped_data[~np.isnan(cropped_data)]
                 
-                # 1a) Mean of all pixels in boundary
-                boundary_mean = np.mean(valid_data) if len(valid_data) > 0 else np.nan
+                # CalFire metrics (all pixels in boundary)
+                # Filter out pixels with abs(x) > 1
+                calfire_total = len(valid_data)
+                calfire_data_filtered = valid_data[np.abs(valid_data) <= 1]
+                calfire_n_removed = calfire_total - len(calfire_data_filtered)
+                calfire_pct_removed = (calfire_n_removed / calfire_total * 100) if calfire_total > 0 else 0
                 
-                # 1b) Variance of all pixels in boundary
-                boundary_var = np.var(valid_data) if len(valid_data) > 0 else np.nan
+                calfire_mean = np.mean(calfire_data_filtered) if len(calfire_data_filtered) > 0 else np.nan
+                calfire_var = np.var(calfire_data_filtered) if len(calfire_data_filtered) > 0 else np.nan
                 
-                # 2) Filter to pixels > 0
-                burned_data = valid_data[valid_data > 0]
+                # Filtered metrics (pixels > 0)
+                # First filter to pixels > 0, then filter out abs(x) > 1
+                filtered_positive = valid_data[valid_data > 0]
+                filtered_total = len(filtered_positive)
+                filtered_data = filtered_positive[np.abs(filtered_positive) <= 1]
+                filtered_n_removed = filtered_total - len(filtered_data)
+                filtered_pct_removed = (filtered_n_removed / filtered_total * 100) if filtered_total > 0 else 0
                 
-                # 2a) Mean of burned pixels
-                burned_mean = np.mean(burned_data) if len(burned_data) > 0 else np.nan
+                filtered_mean = np.mean(filtered_data) if len(filtered_data) > 0 else np.nan
+                filtered_var = np.var(filtered_data) if len(filtered_data) > 0 else np.nan
                 
-                # 2b) Variance of burned pixels
-                burned_var = np.var(burned_data) if len(burned_data) > 0 else np.nan
-                
-                # Create polygon from burned pixels (pixels > 0)
-                burned_mask = cropped_data > 0
-                
-                # Convert raster mask to polygon using rasterio features
+                # Create polygon from filtered pixels (pixels > 0)
+                filtered_mask = cropped_data > 0
                 shapes_gen = features.shapes(
-                    burned_mask.astype(np.int16),
-                    mask=burned_mask,
+                    filtered_mask.astype(np.int16),
+                    mask=filtered_mask,
                     transform=cropped_transform
                 )
                 
                 # Combine all polygons
-                burned_polygons = [shape(geom) for geom, val in shapes_gen if val == 1]
+                filtered_polygons = [shape(geom) for geom, val in shapes_gen if val == 1]
                 
-                if len(burned_polygons) > 0:
-                    burned_polygon = unary_union(burned_polygons)
-                    # Convert back to lat/lon
-                    burned_gdf = gpd.GeoDataFrame([1], geometry=[burned_polygon], crs=src.crs)
-                    burned_polygon_latlon = burned_gdf.to_crs(epsg=4326).geometry.values[0]
+                if len(filtered_polygons) > 0:
+                    filtered_polygon = unary_union(filtered_polygons)
+                    filtered_gdf = gpd.GeoDataFrame([1], geometry=[filtered_polygon], crs=src.crs)
+                    filtered_gdf_latlon = filtered_gdf.to_crs('EPSG:4326')
+                    filtered_polygon_latlon = filtered_gdf_latlon.geometry.values[0]
                 else:
-                    burned_polygon_latlon = None
+                    filtered_polygon_latlon = None
                 
-                # Store results for this metric
-                results[metric_name] = {
-                    'boundary_mean': boundary_mean,
-                    'boundary_var': boundary_var,
-                    'burned_mean': burned_mean,
-                    'burned_var': burned_var,
-                    'burned_polygon': burned_polygon_latlon
-                }
+                # Append row for this metric
+                results.append({
+                    'fire_name': fire_name,
+                    'fire_days': fire_days,
+                    'fire_event_name': fire_event_name,
+                    'metric': metric_name,
+                    'calfire_mean': calfire_mean,
+                    'calfire_var': calfire_var,
+                    'calfire_n_removed': calfire_n_removed,
+                    'calfire_pct_removed': calfire_pct_removed,
+                    'filtered_mean': filtered_mean,
+                    'filtered_var': filtered_var,
+                    'filtered_n_removed': filtered_n_removed,
+                    'filtered_pct_removed': filtered_pct_removed,
+                    'filtered_polygon': filtered_polygon_latlon
+                })
                 
         except Exception as e:
             print(f"  Error processing {metric_name}: {e}")
             return False
-    
-    # Add metadata
-    results['fire_name'] = fire_name
-    results['fire_days'] = fire_days
-    results['fire_event_name'] = fire_event_name
     
     return results

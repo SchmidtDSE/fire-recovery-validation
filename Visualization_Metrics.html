@@ -167,6 +167,29 @@ Joining with `by = join_by(fire_name)`</code></pre>
 </div>
 </div>
 </section>
+<section id="what-up-with-the-high-numbers" class="level3">
+<h3 class="anchored" data-anchor-id="what-up-with-the-high-numbers">What up with the high numbers?</h3>
+<div class="cell">
+<div class="sourceCode cell-code" id="cb8"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb8-1"><a href="#cb8-1" aria-hidden="true" tabindex="-1"></a><span class="fu">diagnostics</span>(df_rdnbr, calfire)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output cell-output-stderr">
+<pre><code>Joining with `by = join_by(fire_name)`</code></pre>
+</div>
+<div class="cell-output cell-output-stderr">
+<pre><code>Warning in left_join(., select(calfire, c("fire_name", "UNIT_ID"))): Detected an unexpected many-to-many relationship between `x` and `y`.
+ℹ Row 17 of `x` matches multiple rows in `y`.
+ℹ Row 1 of `y` matches multiple rows in `x`.
+ℹ If a many-to-many relationship is expected, set `relationship =
+  "many-to-many"` to silence this warning.</code></pre>
+</div>
+<div class="cell-output-display">
+<div>
+<figure class="figure">
+<p><img src="Visualization_Metrics_files/figure-html/unnamed-chunk-5-1.png" class="img-fluid figure-img" width="672"></p>
+</figure>
+</div>
+</div>
+</div>
+</section>
 </section>
 
 </main>

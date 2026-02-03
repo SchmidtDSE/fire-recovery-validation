@@ -12,7 +12,7 @@ setwd("~/Desktop/NPS/Fireseverity/Validation")
 source('validation.R')
 
 df_dnbr = st_read("validation_metrics_dnbr.gpkg", quiet = T)
-df_rdnbr = st_read("validation_metrics_rdnbr.gpkg", quiet = T)
+df_rbr = st_read("validation_metrics_rbr.gpkg", quiet = T)
 
 calfire = st_read('Validation_Fire_Perimeters_2015_2024.shp', quiet = T) %>%
   rename(fire_name = FIRE_NAME) %>%
@@ -25,9 +25,9 @@ calfire = st_read('Validation_Fire_Perimeters_2015_2024.shp', quiet = T) %>%
 *This is calculated with 30 days of data after the detection date and using the Calfire boundaries*
 
 ```{r}
-#| fig-height: 7
+#| fig-height: 8
 #| fig-width: 6
-compare_metrics(df_dnbr, df_rdnbr)
+compare_metrics(df_dnbr, df_rbr)
 ```
 
 ### 3. Do our boundaries and those from CalFire match?
@@ -44,5 +44,11 @@ calculate_overlap(df_dnbr, calfire)
 #| warning: false
 #| fig-height: 7
 #| fig-width: 7
-time_sensitivity(df_dnbr)
+time_sensitivity(df_rbr)
+```
+
+### What up with the high numbers?
+
+```{r}
+diagnostics(df_rbr, calfire)
 ```

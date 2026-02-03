@@ -27,7 +27,7 @@ def plot_fire(fire_name, fire_days, fire_polygon, fires):
     print(request)
     urls = request.json().get('coarse_severity_cog_urls')
     dnbr_url = urls.get('dnbr')
-    rdnbr_url = urls.get('rdnbr')
+    rbr_url = urls.get('rbr')
 
     # Reproject dNBR to lat/lon
     with rio.open(dnbr_url) as src:
@@ -49,23 +49,23 @@ def plot_fire(fire_name, fire_days, fire_polygon, fires):
         bounds = rio.transform.array_bounds(height, width, transform)
         dnbr_extent = [bounds[0], bounds[2], bounds[1], bounds[3]]  # [left, right, bottom, top]
 
-    # Reproject RdNBR to lat/lon
-    with rio.open(rdnbr_url) as src:
+    # Reproject RBR to lat/lon
+    with rio.open(rbr_url) as src:
         transform, width, height = calculate_default_transform(
             src.crs, 'EPSG:4326', src.width, src.height, *src.bounds)
         
-        rdnbr_reproj = np.empty((height, width), dtype=src.dtypes[0])
+        rbr_reproj = np.empty((height, width), dtype=src.dtypes[0])
         
         reproject(
             source=rio.band(src, 1),
-            destination=rdnbr_reproj,
+            destination=rbr_reproj,
             src_transform=src.transform,
             src_crs=src.crs,
             dst_transform=transform,
             dst_crs='EPSG:4326',
             resampling=Resampling.bilinear)
         
-        rdnbr_extent = [bounds[0], bounds[2], bounds[1], bounds[3]]
+        rbr_extent = [bounds[0], bounds[2], bounds[1], bounds[3]]
 
     # Plot reprojected rasters with polygon overlay (fixed color scale)
     fig, axes = plt.subplots(1, 2, figsize=(14, 6))
@@ -84,13 +84,13 @@ def plot_fire(fire_name, fire_days, fire_polygon, fires):
     axes[0].set_ylabel('Latitude')
     plt.colorbar(im1, ax=axes[0])
 
-    # RdNBR
-    im2 = axes[1].imshow(rdnbr_reproj, cmap='RdYlGn_r', vmin=vmin, vmax=vmax,
-                        extent=rdnbr_extent, origin='upper', zorder=1)
+    # RBR
+    im2 = axes[1].imshow(rbr_reproj, cmap='RdYlGn_r', vmin=vmin, vmax=vmax,
+                        extent=rbr_extent, origin='upper', zorder=1)
     fire_polygon.boundary.plot(ax=axes[1], color='cyan', linewidth=2, zorder=2)
-    axes[1].set_xlim(rdnbr_extent[0], rdnbr_extent[1])
-    axes[1].set_ylim(rdnbr_extent[2], rdnbr_extent[3])
-    axes[1].set_title(f'RdNBR ({fire_event_name} after {fire_days} days)')
+    axes[1].set_xlim(rbr_extent[0], rbr_extent[1])
+    axes[1].set_ylim(rbr_extent[2], rbr_extent[3])
+    axes[1].set_title(f'RBR ({fire_event_name} after {fire_days} days)')
     axes[1].set_xlabel('Longitude')
     axes[1].set_ylabel('Latitude')
     plt.colorbar(im2, ax=axes[1])
@@ -104,7 +104,7 @@ def process_fire_metrics(fire_name, fire_days, fires, calfire):
     Process fire severity metrics for a given fire and post-fire days.
     
     Returns:
-    - list of dicts (one per metric: dnbr, rdnbr), or False if job not complete/error
+    - list of dicts (one per metric: dnbr, rbr), or False if job not complete/error
     """
     
     # Get fire_event_name and job_id
@@ -133,7 +133,7 @@ def process_fire_metrics(fire_name, fire_days, fires, calfire):
         
         urls = response_data.get('coarse_severity_cog_urls')
         dnbr_url = urls.get('dnbr')
-        rdnbr_url = urls.get('rdnbr')
+        rbr_url = urls.get('rbr')
     except Exception as e:
         print(f"  Error fetching URLs: {e}")
         return False
@@ -141,8 +141,8 @@ def process_fire_metrics(fire_name, fire_days, fires, calfire):
     # Store results - one row per metric
     results = []
     
-    # Process both dNBR and RdNBR
-    for metric_name, metric_url in [('dnbr', dnbr_url), ('rdnbr', rdnbr_url)]:
+    # Process both dNBR and RBR
+    for metric_name, metric_url in [('dnbr', dnbr_url), ('rbr', rbr_url)]:
         try:
             with rio.open(metric_url) as src:
                 # Reproject fire polygon to raster CRS

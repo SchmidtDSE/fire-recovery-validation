@@ -192,7 +192,8 @@ def process_fire_metrics(fire_name, fire_days, fires, calfire):
                     filtered_polygon = unary_union(filtered_polygons)
                     filtered_gdf = gpd.GeoDataFrame([1], geometry=[filtered_polygon], crs=src.crs)
                     filtered_gdf_latlon = filtered_gdf.to_crs('EPSG:4326')
-                    filtered_polygon_latlon = filtered_gdf_latlon.geometry.values[0]
+                    # Create a deep copy to avoid reference issues between metrics
+                    filtered_polygon_latlon = shape(mapping(filtered_gdf_latlon.geometry.values[0]))
                 else:
                     filtered_polygon_latlon = None
                 

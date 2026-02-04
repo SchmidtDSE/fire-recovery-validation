@@ -30,8 +30,6 @@ calfire = st_read('Validation_Fire_Perimeters_2015_2024.shp', quiet = T) %>%
 *This is calculated with 30 days of data after the detection date and using the Calfire boundaries*
 
 ```{r pressure, echo=FALSE}
-#| fig-height: 8
-#| fig-width: 6
 compare_metrics(df_dnbr, df_rbr)
 ```
 
@@ -48,8 +46,6 @@ calculate_overlap(df_dnbr, calfire)
 
 ```{r}
 #| warning: false
-#| fig-height: 7
-#| fig-width: 7
 time_sensitivity(df_rbr)
 ```
 

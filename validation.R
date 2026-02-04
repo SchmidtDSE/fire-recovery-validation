@@ -103,7 +103,7 @@ label_data = results %>%
 
 (p = ggplot() + theme_bw() +
     ggtitle('Comparison of dNBR and RBR') +
-    facet_wrap(~name, ncol = 1, scales = 'free') +
+    facet_wrap(~name, ncol = 2, scales = 'free') +
     geom_boxplot(data = results, aes(x = UNIT_ID, y = value, fill = UNIT_ID, color = metric), fill = 'grey80') +
     geom_boxplot(data = results_parks, aes(x = UNIT_ID, y = value, fill = UNIT_ID, color = metric)) +
     geom_text(data = label_data, aes(x = UNIT_ID, y = y_pos, label = label_text, color = metric),

@@ -1,329 +1,657 @@
-fire_event_name,job_id,fire_name,post_fire_days,status,job_status
-COFFEE POT_2024-08-03_5,573421be-412c-403d-9d72-b591de886c43,COFFEE POT,5,success,complete
-COFFEE POT_2024-08-03_10,eb5075d7-06b1-401d-9aa5-ba94efebc8e0,COFFEE POT,10,success,complete
-COFFEE POT_2024-08-03_15,743d5692-aafc-4230-9e57-f9db89bade40,COFFEE POT,15,success,complete
-COFFEE POT_2024-08-03_21,83abcfa3-75c4-4350-855d-12c4af526810,COFFEE POT,21,success,complete
-COFFEE POT_2024-08-03_30,a269a19f-a8ee-49e7-80d9-836497cf96fe,COFFEE POT,30,success,complete
-COFFEE POT_2024-08-03_45,0e885e28-4994-4b3a-9e58-89786837ac37,COFFEE POT,45,success,complete
-COFFEE POT_2024-08-03_60,a78457b1-bbe0-4ebf-aa29-710c5e18885e,COFFEE POT,60,success,complete
-COFFEE POT_2024-08-03_90,dd0065d0-cb5e-4d86-94bb-1e28bb6eb510,COFFEE POT,90,success,complete
-SENTINEL_2024-07-14_5,341a7fbb-517c-4e7a-aefc-fb5fdd5e9e4d,SENTINEL,5,success,complete
-SENTINEL_2024-07-14_10,1523d5ba-6894-4f52-b769-f3d18fcb01b0,SENTINEL,10,success,complete
-SENTINEL_2024-07-14_15,cf296422-5771-4189-bcff-e6502214e79d,SENTINEL,15,success,complete
-SENTINEL_2024-07-14_21,672dbb6f-2e37-4e5c-a6f4-f0cc28189784,SENTINEL,21,success,complete
-SENTINEL_2024-07-14_30,693d29ca-35d0-4144-bfdd-284de0b66cdc,SENTINEL,30,success,complete
-SENTINEL_2024-07-14_45,76a189b9-7204-4a19-bc45-e2d9fee7a06a,SENTINEL,45,success,complete
-SENTINEL_2024-07-14_60,d47a7707-5026-4220-8c37-d97c8e4264c7,SENTINEL,60,success,complete
-SENTINEL_2024-07-14_90,d086d61f-8a22-4c2c-a0c7-2991e76ee9e3,SENTINEL,90,success,complete
-SIMPSON_2024-07-26_5,2bbd63c0-cc36-40ad-b6b2-8f80de17feec,SIMPSON,5,success,complete
-SIMPSON_2024-07-26_10,8ab7e397-4086-4e1e-ad49-820e0a775d04,SIMPSON,10,success,complete
-SIMPSON_2024-07-26_15,9166143c-7747-4573-931d-939e214d41f0,SIMPSON,15,success,complete
-SIMPSON_2024-07-26_21,a3efb512-c117-4c3d-a8cc-a921cbc20188,SIMPSON,21,success,complete
-SIMPSON_2024-07-26_30,57725313-520f-4f86-8a65-715f460bdacc,SIMPSON,30,success,complete
-SIMPSON_2024-07-26_45,46ad03af-3287-4a49-9eb4-c261d2353c01,SIMPSON,45,success,complete
-SIMPSON_2024-07-26_60,52f2ab15-1ed8-4b25-ac9c-949eb2a5bff6,SIMPSON,60,success,complete
-SIMPSON_2024-07-26_90,29384603-aec5-436e-b83a-0dae0fbd7e79,SIMPSON,90,success,complete
-YORK_2023-07-28_5,33dc95cc-04f4-41f1-9c99-9d41de693be8,YORK,5,success,pending
-YORK_2023-07-28_10,d8118337-99db-4447-937c-117d962812c3,YORK,10,success,pending
-YORK_2023-07-28_15,f096ecad-975a-4c0c-a080-2b92e1a31689,YORK,15,success,pending
-YORK_2023-07-28_21,2c45dc4f-1d89-4bc3-8149-79a97e45a5d6,YORK,21,success,pending
-YORK_2023-07-28_30,550c4e90-824f-4899-a2df-c84f35d8aace,YORK,30,success,pending
-YORK_2023-07-28_45,6e0a4fe9-b73b-484d-9d84-812fbe81f8b0,YORK,45,success,pending
-YORK_2023-07-28_60,10a139bc-96ab-43d1-978f-b44f55b13ec8,YORK,60,success,pending
-YORK_2023-07-28_90,06b80e98-8247-4dd6-9e0c-544272feee3d,YORK,90,success,pending
-REDWOOD_2023-08-15_5,91b78fb4-ea7f-4de3-ab8d-863b152022af,REDWOOD,5,success,complete
-REDWOOD_2023-08-15_10,e896fa04-0a35-4757-bbb8-cc96afdac18f,REDWOOD,10,success,complete
-REDWOOD_2023-08-15_15,59f22b61-8dc5-4cda-b79b-be5cbdda5ce6,REDWOOD,15,success,complete
-REDWOOD_2023-08-15_21,2cc7f046-dec3-41d4-bf97-5a655d9966c4,REDWOOD,21,success,complete
-REDWOOD_2023-08-15_30,44df8d7c-1f76-4ae5-ad22-dd9e740734f8,REDWOOD,30,success,complete
-REDWOOD_2023-08-15_45,71eb4642-ffaf-41e8-acb7-b0ca7f70a4a3,REDWOOD,45,success,complete
-REDWOOD_2023-08-15_60,3628c136-67ef-4f58-a377-6d651d7706df,REDWOOD,60,success,complete
-REDWOOD_2023-08-15_90,86e6be69-bb7e-42fc-8a54-edddfe6817f9,REDWOOD,90,success,complete
-GEOLOGY_2023-06-10_5,1e9bad8d-3e2b-47ee-9d10-539c609af107,GEOLOGY,5,success,complete
-GEOLOGY_2023-06-10_10,d5751455-9f39-4e16-a740-86c48af4033f,GEOLOGY,10,success,complete
-GEOLOGY_2023-06-10_15,7f358491-73e1-4676-abc6-7aa6c8ade728,GEOLOGY,15,success,complete
-GEOLOGY_2023-06-10_21,87a84ba6-7e35-459f-a5d0-7c77fc643d39,GEOLOGY,21,success,complete
-GEOLOGY_2023-06-10_30,a36cab95-00df-41d3-a1ef-14ca9f724735,GEOLOGY,30,success,complete
-GEOLOGY_2023-06-10_45,46e06949-0d83-468a-9657-75d80c252fa5,GEOLOGY,45,success,complete
-GEOLOGY_2023-06-10_60,ce36ec10-dcb4-4655-82ac-d3e7ce49a31d,GEOLOGY,60,success,complete
-GEOLOGY_2023-06-10_90,8648d676-0e97-403a-a831-0852381738fa,GEOLOGY,90,success,complete
-VALLEY_2023-06-17_5,e70a139d-5421-41b5-bc71-90c016ffc434,VALLEY,5,success,complete
-VALLEY_2023-06-17_10,7a944ec1-c866-4fa3-b9c4-ad1d6f5e7b8f,VALLEY,10,success,complete
-VALLEY_2023-06-17_15,de0e3c1c-caeb-4476-990c-0c8ccacf50b3,VALLEY,15,success,complete
-VALLEY_2023-06-17_21,85d78e7f-a439-460e-883c-883eda386638,VALLEY,21,success,complete
-VALLEY_2023-06-17_30,c2bb8e60-b10e-479c-8655-1a9201497a2d,VALLEY,30,success,complete
-VALLEY_2023-06-17_45,b39687b0-0368-43d1-9c8e-69be920ba839,VALLEY,45,success,complete
-VALLEY_2023-06-17_60,b553cf58-d795-4627-9acc-336453ec6fea,VALLEY,60,success,complete
-VALLEY_2023-06-17_90,106a12b1-5808-40ce-8773-896276ce7122,VALLEY,90,success,complete
-SYCAMORE_2023-10-16_5,3241218f-9108-4a1f-be2f-4a9dad101cc4,SYCAMORE,5,success,complete
-SYCAMORE_2023-10-16_10,0f41c41c-8d9c-44d9-a888-4fdb5a93ebdf,SYCAMORE,10,success,complete
-SYCAMORE_2023-10-16_15,b7d33c65-fc2a-4c42-92a8-a6971afbdc55,SYCAMORE,15,success,complete
-SYCAMORE_2023-10-16_21,4276cd2b-717c-4cf6-abaf-cf780316a555,SYCAMORE,21,success,complete
-SYCAMORE_2023-10-16_30,6f40ae4d-44a5-4d0b-a47e-c56a626816d3,SYCAMORE,30,success,complete
-SYCAMORE_2023-10-16_45,0d2a12dc-ea1a-4fe9-9ecd-b69940cd7278,SYCAMORE,45,success,complete
-SYCAMORE_2023-10-16_60,316c6a2b-3bf5-4ccf-a684-b3db422cf48f,SYCAMORE,60,success,complete
-SYCAMORE_2023-10-16_90,0576792d-c382-44de-a486-ada2e62d002c,SYCAMORE,90,success,complete
-SUMMIT_2022-08-03_5,fea596ae-b44f-4d4f-ad0f-59ef3f762192,SUMMIT,5,success,complete
-SUMMIT_2022-08-03_10,a20d3589-d2b1-4d1f-b6f1-d6f4afb0c148,SUMMIT,10,success,complete
-SUMMIT_2022-08-03_15,7dd977f1-a58e-44a3-a038-0ea053d2c453,SUMMIT,15,success,complete
-SUMMIT_2022-08-03_21,0af9146f-f35b-46a5-92e3-fd5c68eb2f76,SUMMIT,21,success,complete
-SUMMIT_2022-08-03_30,8da933f2-1d65-4064-b215-0750e2d79f81,SUMMIT,30,success,complete
-SUMMIT_2022-08-03_45,24a11fc3-2c1c-452c-803a-6c355145fa28,SUMMIT,45,success,complete
-SUMMIT_2022-08-03_60,a9dd73af-0412-4a75-a36a-7ee7f941a96b,SUMMIT,60,success,complete
-SUMMIT_2022-08-03_90,13ba2c7f-840a-4461-bc42-65f47c3e1057,SUMMIT,90,success,complete
-ELK TRAIL_2022-05-26_5,84c03f0b-49f1-4ab0-8f72-76e101db5805,ELK TRAIL,5,success,complete
-ELK TRAIL_2022-05-26_10,25faaad4-8c21-419a-a92d-c46e2c80e298,ELK TRAIL,10,success,complete
-ELK TRAIL_2022-05-26_15,43d91347-7d65-4efe-ab08-9837f1785c9b,ELK TRAIL,15,success,complete
-ELK TRAIL_2022-05-26_21,e7079176-b537-4526-9c46-59d649124021,ELK TRAIL,21,success,complete
-ELK TRAIL_2022-05-26_30,479cc1d6-6869-4625-b4b6-21583ce54b0d,ELK TRAIL,30,success,complete
-ELK TRAIL_2022-05-26_45,4dc360c0-fa5d-49b7-af95-f42168d65b58,ELK TRAIL,45,success,complete
-ELK TRAIL_2022-05-26_60,147055d4-f870-493c-a457-0a5d815d699b,ELK TRAIL,60,success,complete
-ELK TRAIL_2022-05-26_90,e0313a83-5ec6-4796-8aaa-9e8550a5bdd9,ELK TRAIL,90,success,complete
-AVALANCHE_2022-07-18_5,1d6eb4ff-d47a-46fe-a6c0-e91477a0b4cc,AVALANCHE,5,success,complete
-AVALANCHE_2022-07-18_10,aa061252-b547-4d59-b5c9-b1ccf9d55d75,AVALANCHE,10,success,complete
-AVALANCHE_2022-07-18_15,76f9cdbb-4d13-47d1-92ca-ac1856ff708a,AVALANCHE,15,success,complete
-AVALANCHE_2022-07-18_21,29ec4dab-25fe-4537-a904-f430d3dd8f24,AVALANCHE,21,success,complete
-AVALANCHE_2022-07-18_30,bd823682-494f-4ef9-9526-ec0a0ac8b3fd,AVALANCHE,30,success,complete
-AVALANCHE_2022-07-18_45,3cf284fe-8637-4f7b-b2e3-6c17c34c7ea0,AVALANCHE,45,success,complete
-AVALANCHE_2022-07-18_60,e1cc5166-6d26-46cd-b24a-79600c2c5dea,AVALANCHE,60,success,complete
-AVALANCHE_2022-07-18_90,736e0143-f113-4c0c-86db-f0e2f0e90670,AVALANCHE,90,success,complete
-KNP Complex_2021-09-10_5,8c593408-0061-4a4e-a941-0686caa175c4,KNP Complex,5,success,pending
-KNP Complex_2021-09-10_10,81ca7d6b-6fb1-4302-b5f4-c81092d37e39,KNP Complex,10,success,pending
-KNP Complex_2021-09-10_15,8afacc15-3d4a-4eb5-a5f8-57bec1bb00e5,KNP Complex,15,success,pending
-KNP Complex_2021-09-10_21,3b105295-9fa0-4bd1-9f57-77fbd60c768a,KNP Complex,21,success,pending
-KNP Complex_2021-09-10_30,aecf9013-2351-45e1-9aa0-3a7d5e916a09,KNP Complex,30,success,pending
-,,KNP Complex,45,failed_504,999
-,,KNP Complex,60,failed_504,999
-,,KNP Complex,90,failed_504,999
-,,MOJAVE,5,failed_504,999
-MOJAVE_2021-06-17_10,d767d56c-ae00-465f-b43e-7f572b370070,MOJAVE,10,success,complete
-MOJAVE_2021-06-17_15,61f2647c-655b-4ac0-a100-8e21cffa7457,MOJAVE,15,success,complete
-MOJAVE_2021-06-17_21,7e5d06d5-efcd-4e32-bd43-cf4c4d4b721e,MOJAVE,21,success,complete
-MOJAVE_2021-06-17_30,33f8ab2a-7eb4-4f15-821e-84d34b379b2b,MOJAVE,30,success,complete
-MOJAVE_2021-06-17_45,7f7c4976-8c76-40e9-9972-1ac291ffec77,MOJAVE,45,success,complete
-MOJAVE_2021-06-17_60,f2fd3671-aa14-486a-8041-6ce7873f68e1,MOJAVE,60,success,complete
-MOJAVE_2021-06-17_90,d069ad43-afc4-4a4a-85cb-ba2c375dce54,MOJAVE,90,success,complete
-POND_2021-08-30_5,44917726-b677-46c4-a9a3-63a589542d59,POND,5,success,complete
-POND_2021-08-30_10,2845918e-533f-4ec8-8013-3dcdcebd93ae,POND,10,success,complete
-POND_2021-08-30_15,7a961022-1391-4b79-966b-aaa58803bc51,POND,15,success,complete
-POND_2021-08-30_21,ebc81368-a17a-4ddd-887a-0c1e8ee6eb6c,POND,21,success,complete
-POND_2021-08-30_30,65c6501b-17da-4dd2-aec2-8f95c7b509eb,POND,30,success,complete
-POND_2021-08-30_45,ab1a6b2a-831c-47a6-a090-684b0f0f70d9,POND,45,success,complete
-POND_2021-08-30_60,e5bec593-4e19-4a0f-b067-1325bb179171,POND,60,success,complete
-POND_2021-08-30_90,ad921b81-cc81-4e75-bf63-d71166a39250,POND,90,success,complete
-LOST_2021-07-10_5,c11b8cc3-5cb4-496f-a2f8-390ab976799f,LOST,5,success,complete
-LOST_2021-07-10_10,47982c80-6fb2-411d-b5df-1d8ad90bcec8,LOST,10,success,complete
-LOST_2021-07-10_15,572fab9d-82ea-4429-bde2-865d6bb88efa,LOST,15,success,complete
-LOST_2021-07-10_21,be42cc10-959d-4f53-8cd2-65d94334a97b,LOST,21,success,complete
-LOST_2021-07-10_30,903c7b5a-acc9-46f6-ae08-11fb48bbe2fa,LOST,30,success,complete
-LOST_2021-07-10_45,e359d065-7eae-43da-9fd4-5c6ddb834cf0,LOST,45,success,complete
-LOST_2021-07-10_60,992613f7-9967-44c0-802f-d3b65c6d3d0c,LOST,60,success,complete
-LOST_2021-07-10_90,a74a7f42-cc7e-42bb-bebc-00f04c25fd74,LOST,90,success,complete
-HART_2021-08-31_5,4849ee59-c130-4e75-b597-8382c083b76c,HART,5,success,complete
-HART_2021-08-31_10,6b0ed1ea-dc50-480d-b22d-ba973ecaa636,HART,10,success,complete
-HART_2021-08-31_15,1b91e6e9-4aae-4385-b7a5-b75b724d9109,HART,15,success,complete
-HART_2021-08-31_21,b43d7dcd-69f8-4bc7-8343-2cdd870a01a2,HART,21,success,complete
-HART_2021-08-31_30,b4127ed0-47f1-48b3-8fd2-6fab6e5bc355,HART,30,success,complete
-HART_2021-08-31_45,232cab0e-daaa-41d1-aa52-2eac4e29b4c5,HART,45,success,complete
-HART_2021-08-31_60,0123bce5-56d6-44b6-a523-674843209f4f,HART,60,success,complete
-HART_2021-08-31_90,a5b27851-3b6a-4af9-a90b-bff5e280af3c,HART,90,success,complete
-CASTLE_2021-03-19_5,a86dc37e-8868-41e0-abe2-ff0fd6b1c4fd,CASTLE,5,success,complete
-CASTLE_2021-03-19_10,e25459a3-07c9-4430-be06-2a623bf1f7ee,CASTLE,10,success,complete
-CASTLE_2021-03-19_15,abc45318-4253-4f8f-8462-bfdb520ba083,CASTLE,15,success,complete
-CASTLE_2021-03-19_21,d663b8e4-3d56-42aa-8342-d27554041f39,CASTLE,21,success,complete
-CASTLE_2021-03-19_30,cb074ce2-0f47-4493-b501-31318bf2f80c,CASTLE,30,success,complete
-CASTLE_2021-03-19_45,78a9580b-1481-44a6-8624-4b7cd459c35d,CASTLE,45,success,complete
-CASTLE_2021-03-19_60,7c126b24-9773-4fe4-a486-cc3fe43e86d8,CASTLE,60,success,complete
-CASTLE_2021-03-19_90,69138078-c644-4b29-a229-248fc5deb235,CASTLE,90,success,complete
-DOME_2020-08-15_5,76316e0d-7e26-4338-92e2-74bc4cec2d5e,DOME,5,success,pending
-DOME_2020-08-15_10,b894a4f4-0079-4cfa-92e4-2e5e615ba46b,DOME,10,success,pending
-DOME_2020-08-15_15,0db01913-3c84-4063-bad7-aa7ae56d7cc6,DOME,15,success,pending
-DOME_2020-08-15_21,4b13cf42-93cf-4f8e-91c1-6db3fa329ee9,DOME,21,success,pending
-DOME_2020-08-15_30,5f013976-e406-42c4-a1ff-addbcc860dcb,DOME,30,success,pending
-DOME_2020-08-15_45,f7d32602-2fde-4681-a7b2-0de603b47bbd,DOME,45,success,pending
-DOME_2020-08-15_60,f9fa5459-57f7-4835-b0bc-f4cdbb0a6b49,DOME,60,success,pending
-DOME_2020-08-15_90,ce9e9b34-aaf9-40bb-a2c9-3da7a48bc61f,DOME,90,success,pending
-RATTLESNAKE_2020-08-16_5,ac822ee9-ff7f-404f-8a05-dad6b63bf31c,RATTLESNAKE,5,success,complete
-RATTLESNAKE_2020-08-16_10,897e1fc6-9fd7-4773-a010-9a066abd223c,RATTLESNAKE,10,success,complete
-RATTLESNAKE_2020-08-16_15,06ea86d6-4759-487a-a3b7-3d333fc989fa,RATTLESNAKE,15,success,complete
-RATTLESNAKE_2020-08-16_21,da9e5b49-43d8-4c59-b268-1eb5ece52c46,RATTLESNAKE,21,success,complete
-RATTLESNAKE_2020-08-16_30,dab30f82-7c46-40b5-aeef-277bb7537d0c,RATTLESNAKE,30,success,complete
-RATTLESNAKE_2020-08-16_45,6077ec53-cb34-4627-9ed3-5c7a31570d2f,RATTLESNAKE,45,success,complete
-RATTLESNAKE_2020-08-16_60,e01115fc-f43f-46df-a8bd-70e9929b5770,RATTLESNAKE,60,success,complete
-RATTLESNAKE_2020-08-16_90,67148070-4e65-40ba-89cd-ae1b07e70da1,RATTLESNAKE,90,success,complete
-SCORPION_2020-05-31_5,1abab312-c33f-4e5d-9176-e522f3b21f93,SCORPION,5,success,complete
-SCORPION_2020-05-31_10,60499fb0-8afe-47c9-886c-2dcf6a725c04,SCORPION,10,success,complete
-SCORPION_2020-05-31_15,2d92cbd5-9915-442a-97f6-6fa9f7536ccf,SCORPION,15,success,complete
-SCORPION_2020-05-31_21,bb230660-dd3c-4d90-a193-f06654d6f67a,SCORPION,21,success,complete
-SCORPION_2020-05-31_30,34d2773c-6cef-423f-929b-e62846546f89,SCORPION,30,success,complete
-SCORPION_2020-05-31_45,328b6ec6-426e-46f3-9d75-5ea388ed3eef,SCORPION,45,success,complete
-SCORPION_2020-05-31_60,92c65f84-fc50-4666-a56f-e015b108f326,SCORPION,60,success,complete
-SCORPION_2020-05-31_90,b96d2e60-e744-433a-9f65-02dc075e3a47,SCORPION,90,success,complete
-MORAINE_2020-08-21_5,f6f377a9-3d40-438e-8ad2-f9a334a68095,MORAINE,5,success,complete
-MORAINE_2020-08-21_10,4e2962c9-11ee-4d97-8a77-4623ae461099,MORAINE,10,success,complete
-MORAINE_2020-08-21_15,0cd9ac58-fa9a-45fb-b80c-a49a665a1e5f,MORAINE,15,success,complete
-MORAINE_2020-08-21_21,c9b45461-97c3-47db-8771-62c1fb7d51c0,MORAINE,21,success,complete
-MORAINE_2020-08-21_30,ac4a52ed-6fa2-4f7c-a5ad-2e15f0e8ce31,MORAINE,30,success,complete
-MORAINE_2020-08-21_45,2311ef83-0312-4f76-82be-de446f4b6083,MORAINE,45,success,complete
-MORAINE_2020-08-21_60,e7f838ae-2d10-4352-b821-f71171284d01,MORAINE,60,success,complete
-MORAINE_2020-08-21_90,4a88dd36-b6a6-4be3-a97d-8cc1b2bd7c3f,MORAINE,90,success,complete
-IVANPAH_2020-06-22_5,03eddd09-e238-4f31-8978-f95755131407,IVANPAH,5,success,complete
-IVANPAH_2020-06-22_10,fc6cd7ba-583e-4c74-b798-175c9bd849cc,IVANPAH,10,success,complete
-IVANPAH_2020-06-22_15,c46c7993-0584-48ad-ba62-ecd37100ea5b,IVANPAH,15,success,complete
-IVANPAH_2020-06-22_21,857f1a99-54cb-4b91-ac3e-d26507503ec5,IVANPAH,21,success,complete
-IVANPAH_2020-06-22_30,aa363dea-6a28-414f-8767-d0dd85f0fcce,IVANPAH,30,success,complete
-IVANPAH_2020-06-22_45,ded86d94-bd65-40de-95e1-8fc2b91a8407,IVANPAH,45,success,complete
-IVANPAH_2020-06-22_60,17c3cda9-13bd-4f55-9e39-ff39eb06a4af,IVANPAH,60,success,complete
-IVANPAH_2020-06-22_90,d1ffca03-eab7-425c-b01a-e98cd4869265,IVANPAH,90,success,complete
-BULL_2020-09-05_5,5b3e6ebd-6293-4915-a525-6c8e26b9682c,BULL,5,success,complete
-BULL_2020-09-05_10,beb4c4eb-6321-4501-9b39-4bfc90d8b637,BULL,10,success,complete
-BULL_2020-09-05_15,b535c4e3-8f6a-40aa-9efb-e4f2cd64e8aa,BULL,15,success,complete
-BULL_2020-09-05_21,ebfd1734-0bc5-48c8-be23-fbc1ba11a396,BULL,21,success,complete
-BULL_2020-09-05_30,028703c8-da4d-4ac9-9f43-29172d421e68,BULL,30,success,complete
-BULL_2020-09-05_45,2e1e17b7-6d7a-40ea-b2bd-1f5118206432,BULL,45,success,complete
-BULL_2020-09-05_60,50075d86-7162-4f60-a815-351bce789232,BULL,60,success,complete
-BULL_2020-09-05_90,1a050aee-919f-4877-a373-29702b8a1139,BULL,90,success,complete
-WENDY_2019-10-10_5,cba0fea7-f3b5-4b2d-b5c6-1fa3ff96098d,WENDY,5,success,complete
-WENDY_2019-10-10_10,aea14f89-5eb7-4e9a-8cf4-d5095ba5a84b,WENDY,10,success,complete
-WENDY_2019-10-10_15,2eb54ab5-64eb-4065-9c2a-cad76f8fad69,WENDY,15,success,complete
-WENDY_2019-10-10_21,b1b59e2c-8837-4193-be32-69f8d1c1b15e,WENDY,21,success,complete
-WENDY_2019-10-10_30,5ae9ee74-ca21-4cec-9e01-e6419e761593,WENDY,30,success,complete
-WENDY_2019-10-10_45,df8dd0f0-cc7b-4447-a6e2-ccd76e353ab4,WENDY,45,success,complete
-WENDY_2019-10-10_60,9fd47733-3ac1-4c9a-8a20-bbaf0a0ade78,WENDY,60,success,complete
-WENDY_2019-10-10_90,23f92faa-0b60-4f41-8421-f87b05e19945,WENDY,90,success,complete
-STAR_1899-12-30_5,236d4e58-d7b4-437c-80a4-c4d72e7d1974,STAR,5,success,pending
-STAR_1899-12-30_10,7cdee52a-c25d-4e4c-9ba0-4c92f2350f2c,STAR,10,success,pending
-STAR_1899-12-30_15,9f9e265b-1c68-45d7-bda1-1e0f95eeae58,STAR,15,success,pending
-STAR_1899-12-30_21,19c338b0-1e33-43d6-b598-dc39734fc3af,STAR,21,success,pending
-STAR_1899-12-30_30,c1546a97-ef72-4c98-8cff-2a365be896c9,STAR,30,success,pending
-STAR_1899-12-30_45,7a796deb-035d-4820-ba9c-9099e4cad8e7,STAR,45,success,pending
-STAR_1899-12-30_60,a47d161a-64b4-4608-893e-59e2729610ed,STAR,60,success,pending
-STAR_1899-12-30_90,b1dab491-7b89-4202-be9e-d798248f3d30,STAR,90,success,pending
-EDEN_2018-10-04_5,f2c5b182-fe2f-43e9-aca1-932786a849d6,EDEN,5,success,complete
-EDEN_2018-10-04_10,200477eb-d74c-41ba-9fde-37bce67a8bbd,EDEN,10,success,complete
-EDEN_2018-10-04_15,c8b2b776-edba-4622-9920-dad77097daf1,EDEN,15,success,complete
-EDEN_2018-10-04_21,4be8d2d3-1de7-4722-82c5-f9512f376a14,EDEN,21,success,complete
-EDEN_2018-10-04_30,d05c5b38-f064-45e3-bedb-71d2b1ab5608,EDEN,30,success,complete
-EDEN_2018-10-04_45,49191233-ccb4-49eb-91dd-2a469493520a,EDEN,45,success,complete
-EDEN_2018-10-04_60,a365d7e7-5f47-458c-b72e-e8a7b1bf8192,EDEN,60,success,complete
-EDEN_2018-10-04_90,df524eb0-6e31-4a9a-b22c-a80d74754b0a,EDEN,90,success,complete
-SANTA CRUZ_2018-03-27_5,d0e1d577-f11d-4757-8cf5-c41816e997f1,SANTA CRUZ,5,success,complete
-SANTA CRUZ_2018-03-27_10,469d1787-9a49-4ecd-9cb4-76f7da520414,SANTA CRUZ,10,success,complete
-SANTA CRUZ_2018-03-27_15,2a9388ba-dbd2-4f19-b657-563ce6075af9,SANTA CRUZ,15,success,complete
-SANTA CRUZ_2018-03-27_21,0afd9e34-52dd-4ec1-a2c4-fd828b0ccaea,SANTA CRUZ,21,success,complete
-SANTA CRUZ_2018-03-27_30,1cd31c37-de99-49b9-bb4d-b82fbd0cd0ca,SANTA CRUZ,30,success,complete
-SANTA CRUZ_2018-03-27_45,9fc11c2c-ae2f-45a0-ac9d-388c80163809,SANTA CRUZ,45,success,complete
-SANTA CRUZ_2018-03-27_60,45703bb6-abf1-4a7b-ac27-b6b5b2c3b815,SANTA CRUZ,60,success,complete
-SANTA CRUZ_2018-03-27_90,74513eff-d9b8-4dff-a8ab-0f3d3a0a37a3,SANTA CRUZ,90,success,complete
-NORTH BUBBS_2018-08-01_5,a87a10fe-3bb2-4453-abab-4ea2e5a96842,NORTH BUBBS,5,success,complete
-NORTH BUBBS_2018-08-01_10,dabb113d-d6d7-4e53-9e0d-58eb2fb095c6,NORTH BUBBS,10,success,complete
-NORTH BUBBS_2018-08-01_15,c53bc74d-4493-4642-a5e9-db9a04134f26,NORTH BUBBS,15,success,complete
-NORTH BUBBS_2018-08-01_21,6a25d0c4-3248-4916-bfda-188e390edb59,NORTH BUBBS,21,success,complete
-NORTH BUBBS_2018-08-01_30,272f30e7-a797-4c99-8b9b-64b97a42701f,NORTH BUBBS,30,success,complete
-NORTH BUBBS_2018-08-01_45,01e2f594-703f-4f38-83ff-99bab0bcf54b,NORTH BUBBS,45,success,complete
-NORTH BUBBS_2018-08-01_60,3fa707b4-16d0-4a77-85cc-e49a90996bea,NORTH BUBBS,60,success,complete
-NORTH BUBBS_2018-08-01_90,2d0e6b9b-4736-4f50-b6aa-1b32e5f54b02,NORTH BUBBS,90,success,complete
-DENNISON_2018-10-13_5,40cf27f5-04c5-4c79-9c81-d927f4ad5cfe,DENNISON,5,success,complete
-DENNISON_2018-10-13_10,7b2d5ebf-ea5e-4287-b9f1-d57e848ae57b,DENNISON,10,success,complete
-DENNISON_2018-10-13_15,de989ad1-ea3c-424d-8450-1122e4cb09f4,DENNISON,15,success,complete
-DENNISON_2018-10-13_21,6c5acd2c-8f5d-4b57-a248-eecc776d9e03,DENNISON,21,success,complete
-DENNISON_2018-10-13_30,4f24f602-739f-4ebb-9b08-7010bce1569e,DENNISON,30,success,complete
-DENNISON_2018-10-13_45,254c7f1c-eb59-4e56-a625-40d3b0ec8b35,DENNISON,45,success,complete
-DENNISON_2018-10-13_60,3060638c-f6ae-4bc1-bd5b-50720a1db23e,DENNISON,60,success,complete
-DENNISON_2018-10-13_90,b879ec61-7b84-4252-819b-765a12ccb82a,DENNISON,90,success,complete
-HORSE CREEK_2018-07-19_5,0c1d707b-49cb-4b81-a696-46355619384a,HORSE CREEK,5,success,complete
-HORSE CREEK_2018-07-19_10,e690a72f-aad6-43df-9510-471a8e79e24a,HORSE CREEK,10,success,complete
-HORSE CREEK_2018-07-19_15,39ab87c9-a6f0-4987-9a62-49c27756d343,HORSE CREEK,15,success,complete
-HORSE CREEK_2018-07-19_21,08134d88-ccf9-4f03-a1ff-78675e0b4ed9,HORSE CREEK,21,success,complete
-HORSE CREEK_2018-07-19_30,855e1aab-f025-4ac7-aee5-8c6dabb63087,HORSE CREEK,30,success,complete
-HORSE CREEK_2018-07-19_45,5d99331c-c90a-4f41-b724-bd63ff82e1b0,HORSE CREEK,45,success,complete
-HORSE CREEK_2018-07-19_60,36ff9475-c1c4-4e7d-8611-6682a64c4fd3,HORSE CREEK,60,success,complete
-HORSE CREEK_2018-07-19_90,ab542c93-c35c-4ba1-9a4c-64fab07a3aef,HORSE CREEK,90,success,complete
-SERRA_2018-01-29_5,eafebba2-232c-4a97-8ec6-f2acca9ff540,SERRA,5,success,complete
-SERRA_2018-01-29_10,e7ac6205-b1b7-4c30-ad4a-fee8c468f321,SERRA,10,success,complete
-SERRA_2018-01-29_15,1a479f9f-e5b9-485d-a6c4-452e2996becb,SERRA,15,success,complete
-SERRA_2018-01-29_21,a838f05a-209f-4248-80d4-ddc423255a88,SERRA,21,success,complete
-SERRA_2018-01-29_30,ca48f035-fe9b-46f7-b88e-396ee6f1e88f,SERRA,30,success,complete
-SERRA_2018-01-29_45,a5b65b45-73ab-4984-9ad6-b547daec45f3,SERRA,45,success,complete
-SERRA_2018-01-29_60,e9f7af03-c7b8-4f1d-a000-30ea7e7f4c9f,SERRA,60,success,complete
-SERRA_2018-01-29_90,f67ae9bc-df48-408a-8c75-c47a9ced23f3,SERRA,90,success,complete
-THARPS_2018-10-12_5,de9bc1d8-afd3-4a93-9346-5ca02fa7a021,THARPS,5,success,complete
-THARPS_2018-10-12_10,ce3d2eb1-7481-4f9e-a83f-28d7d9506225,THARPS,10,success,complete
-THARPS_2018-10-12_15,7f928fcd-e15c-48ff-a16f-cf08f3de46ca,THARPS,15,success,complete
-THARPS_2018-10-12_21,c9d57dec-89e1-4b17-afa0-8d747c780b62,THARPS,21,success,complete
-THARPS_2018-10-12_30,aa927759-d92d-4b32-925d-b7de41aba39e,THARPS,30,success,complete
-THARPS_2018-10-12_45,854fc1be-4964-4e1f-b12b-0fdad602eb4e,THARPS,45,success,complete
-THARPS_2018-10-12_60,35346ac4-8797-4bfc-bc0d-0d9cc305edde,THARPS,60,success,complete
-THARPS_2018-10-12_90,b9eb1f5c-e9d5-49b0-ae2c-eb4f43f107b6,THARPS,90,success,complete
-KNOLLS_2018-10-19_5,e7183bd9-369c-478c-82ef-1c3fbabd0f5b,KNOLLS,5,success,complete
-KNOLLS_2018-10-19_10,62dd7728-cdfc-4963-819a-c1bb558645bb,KNOLLS,10,success,complete
-KNOLLS_2018-10-19_15,ce4c76fa-5ecf-4cd7-9daa-95a07a320e45,KNOLLS,15,success,complete
-KNOLLS_2018-10-19_21,4e9f0ad5-544c-422e-b868-e70418c36bde,KNOLLS,21,success,complete
-KNOLLS_2018-10-19_30,2f17bbaf-37d5-4ef8-9896-de9a6571ad0c,KNOLLS,30,success,complete
-KNOLLS_2018-10-19_45,cb142ffb-ee73-4ba5-9475-fab4b6c34850,KNOLLS,45,success,complete
-KNOLLS_2018-10-19_60,1ce14d7b-fc6b-4924-b236-1e061e49b140,KNOLLS,60,success,complete
-KNOLLS_2018-10-19_90,63a4ad29-9987-4111-9cbe-51b520728c4b,KNOLLS,90,success,complete
-CORNELL_2018-05-29_5,2190b6aa-7e07-4b55-813f-9110828b7cc9,CORNELL,5,success,complete
-CORNELL_2018-05-29_10,7f2a0b60-5d63-44ee-a721-a458e3edd1f7,CORNELL,10,success,complete
-CORNELL_2018-05-29_15,1ea76e86-5e41-4376-b6af-1240b23f84dc,CORNELL,15,success,complete
-CORNELL_2018-05-29_21,1d274870-9089-4898-9141-1ccea57a4a5e,CORNELL,21,success,complete
-CORNELL_2018-05-29_30,48ebc7a4-1305-4655-8ed3-31e30824c2fc,CORNELL,30,success,complete
-CORNELL_2018-05-29_45,f2080521-8eeb-463e-a80b-f7cfb0849521,CORNELL,45,success,complete
-CORNELL_2018-05-29_60,c05bcee0-fa06-4446-9ff0-69d82f7b3d88,CORNELL,60,success,complete
-CORNELL_2018-05-29_90,c31704d7-0607-4fd3-b3b9-0bebd3dfcc3a,CORNELL,90,success,complete
-NORTH GUARD_2017-07-18_5,b2821947-52a0-4636-ac15-389614249c9b,NORTH GUARD,5,success,complete
-NORTH GUARD_2017-07-18_10,eb7efbe8-d61e-48a9-81d4-445beddf4cbf,NORTH GUARD,10,success,complete
-NORTH GUARD_2017-07-18_15,8feda9aa-3428-413a-90ca-a4323c598fb3,NORTH GUARD,15,success,complete
-NORTH GUARD_2017-07-18_21,23f325a5-bba7-42ca-88b8-ed64e78b0c8b,NORTH GUARD,21,success,complete
-NORTH GUARD_2017-07-18_30,b0e90b5a-a155-432d-96cb-cb5945c0a185,NORTH GUARD,30,success,complete
-NORTH GUARD_2017-07-18_45,97a4c64f-43d5-4664-a913-740a5164202e,NORTH GUARD,45,success,complete
-NORTH GUARD_2017-07-18_60,dd43c454-48f1-4f1b-9326-dd4a15cf6c57,NORTH GUARD,60,success,complete
-NORTH GUARD_2017-07-18_90,9217d637-0fce-41f0-8922-2b5c88de857a,NORTH GUARD,90,success,complete
-GRANITE_2017-07-08_5,6b4c1a43-67cd-49e5-a1d6-7030b50501ab,GRANITE,5,success,complete
-GRANITE_2017-07-08_10,b2061830-c5d9-4bbc-96d4-2f3575d2b41d,GRANITE,10,success,complete
-GRANITE_2017-07-08_15,7bbd626e-a978-47f2-afd4-a07062443477,GRANITE,15,success,complete
-GRANITE_2017-07-08_21,3a4a19bc-c10c-44d5-ac2b-ac356128135c,GRANITE,21,success,complete
-GRANITE_2017-07-08_30,213fba05-973c-452e-bc40-e4425242defd,GRANITE,30,success,complete
-GRANITE_2017-07-08_45,b6bed03f-df74-41ce-9c9b-f61579d08096,GRANITE,45,success,complete
-GRANITE_2017-07-08_60,c3332a18-afa5-43c8-9fce-3af76d6ef4c4,GRANITE,60,success,complete
-GRANITE_2017-07-08_90,54a72253-a217-4b5a-8498-5f546c046d61,GRANITE,90,success,complete
-FORD LAKE_2017-07-10_5,1f5414ee-9235-4765-a179-501ff689d9da,FORD LAKE,5,success,complete
-FORD LAKE_2017-07-10_10,876894d6-beed-4ae1-be17-3bb08d136fc6,FORD LAKE,10,success,complete
-FORD LAKE_2017-07-10_15,e5a24625-5690-4dd1-8b65-be8ce8015cc6,FORD LAKE,15,success,complete
-FORD LAKE_2017-07-10_21,11206c23-4268-41d1-b82d-7c00ebe02f09,FORD LAKE,21,success,complete
-FORD LAKE_2017-07-10_30,0dc8d3f5-769d-4a2e-ba27-3a1fdd6234ce,FORD LAKE,30,success,complete
-FORD LAKE_2017-07-10_45,a73415bb-5903-4dc9-ab08-ea206b651a0f,FORD LAKE,45,success,complete
-FORD LAKE_2017-07-10_60,90458753-84ec-4402-886f-0294429e75c9,FORD LAKE,60,success,complete
-FORD LAKE_2017-07-10_90,23e4adac-0768-45a1-a30c-411fba973824,FORD LAKE,90,success,complete
-YUCCA_2016-11-05_5,ba4d9134-c0df-4d8e-bac7-3a08826ab3ea,YUCCA,5,success,complete
-YUCCA_2016-11-05_10,b7cfc57b-4d10-4e08-9387-4165f3f1ca62,YUCCA,10,success,complete
-YUCCA_2016-11-05_15,293c2a55-1928-4cc5-a399-781eae98a1a0,YUCCA,15,success,complete
-YUCCA_2016-11-05_21,3e913907-6127-463f-9ec8-ab0772fd6711,YUCCA,21,success,complete
-YUCCA_2016-11-05_30,9e8fa30c-716a-4cf3-9fe6-72ee097b28d3,YUCCA,30,success,complete
-YUCCA_2016-11-05_45,625ac70b-d00c-404c-a098-4141ab88d88e,YUCCA,45,success,complete
-YUCCA_2016-11-05_60,e1967d41-7526-4bae-ab6e-492da90da209,YUCCA,60,success,complete
-YUCCA_2016-11-05_90,418c73d7-18b0-480c-918a-64aa55312fd6,YUCCA,90,success,pending
-MULHOLLAND_2016-02-25_5,d1659057-8866-4a94-8f5d-a152f3872394,MULHOLLAND,5,success,pending
-MULHOLLAND_2016-02-25_10,cda08732-9648-44c8-b11d-15cf7e7fe1da,MULHOLLAND,10,success,pending
-MULHOLLAND_2016-02-25_15,59c0e205-b7b0-4ed6-a9dc-335d3d949dc3,MULHOLLAND,15,success,pending
-MULHOLLAND_2016-02-25_21,eeda15b3-d9c7-4f41-9a6f-53c8c187cc1f,MULHOLLAND,21,success,complete
-MULHOLLAND_2016-02-25_30,327102ff-9c0e-4ba0-b9e3-320139b669e7,MULHOLLAND,30,success,complete
-MULHOLLAND_2016-02-25_45,eb53eb5f-bf81-48ea-bc8b-2d78095c95c2,MULHOLLAND,45,success,complete
-MULHOLLAND_2016-02-25_60,1dc0eb89-f043-4c2a-a384-0159d737405f,MULHOLLAND,60,success,complete
-MULHOLLAND_2016-02-25_90,1b6189ed-cfe9-44c2-91da-15f1c36d4f0b,MULHOLLAND,90,success,complete
-COAST_2016-12-02_5,edb3802e-83f5-4536-a1f7-a3e7f7e1bf64,COAST,5,success,complete
-COAST_2016-12-02_10,c320f31d-edcd-4485-8a9a-010271aa73af,COAST,10,success,complete
-COAST_2016-12-02_15,be18b112-6f06-42b0-8f0f-a2b974d3d6e3,COAST,15,success,complete
-COAST_2016-12-02_21,6190d020-e0bb-49d6-ac96-a9c22aa74edb,COAST,21,success,complete
-COAST_2016-12-02_30,7b77efce-2d54-44b8-817b-ccb11be87e53,COAST,30,success,complete
-COAST_2016-12-02_45,9df2e66a-d85e-4b9f-88d6-50101199a8f3,COAST,45,success,pending
-COAST_2016-12-02_60,a77aa094-bd6c-4b2e-ab7c-7179a23d5d00,COAST,60,success,pending
-COAST_2016-12-02_90,d22295b8-0e4c-4f14-a568-4fc44abb7266,COAST,90,success,pending
-LIBERTY CANYON_2016-11-05_5,cd54916b-3913-4b0c-a72b-ecdda1167f7b,LIBERTY CANYON,5,success,complete
-LIBERTY CANYON_2016-11-05_10,a698995d-afd4-4c13-b70b-a7147aa0f8b9,LIBERTY CANYON,10,success,complete
-LIBERTY CANYON_2016-11-05_15,70909577-0502-49e3-8e93-7446151eb32d,LIBERTY CANYON,15,success,complete
-LIBERTY CANYON_2016-11-05_21,bc3d5e99-a7e4-4488-a092-04a0df1fc0b2,LIBERTY CANYON,21,success,complete
-LIBERTY CANYON_2016-11-05_30,49f3b8c1-c577-44a2-bdfc-740b1317a557,LIBERTY CANYON,30,success,complete
-LIBERTY CANYON_2016-11-05_45,cac865be-7853-4609-a9e3-ff4904a8888c,LIBERTY CANYON,45,success,complete
-LIBERTY CANYON_2016-11-05_60,f92febfb-6aa7-4aaa-a283-33d25ec3e39f,LIBERTY CANYON,60,success,pending
-LIBERTY CANYON_2016-11-05_90,50f98997-4bcd-4063-bb07-4d99e7a78f12,LIBERTY CANYON,90,success,pending
+fire_event_name,job_id,fire_name,date_mode,post_fire_days,status,job_status
+COFFEE POT_date2024-08-03_range5_modealarm,674b9f1e-0dd5-43b6-9717-998a5c8b10e9,COFFEE POT,alarm,5,success,complete
+COFFEE POT_date2024-08-03_range10_modealarm,36dce962-a982-4e60-af53-eb061e0c6428,COFFEE POT,alarm,10,success,complete
+COFFEE POT_date2024-08-03_range15_modealarm,7baa9569-e731-4d08-8869-7d2fcdbac731,COFFEE POT,alarm,15,success,complete
+COFFEE POT_date2024-08-03_range21_modealarm,9b02f9a0-3373-4a8c-8743-1c58ab2f8b5c,COFFEE POT,alarm,21,success,complete
+COFFEE POT_date2024-08-03_range30_modealarm,eadd650b-94ba-4088-8b3f-9a3666ff4e1b,COFFEE POT,alarm,30,success,complete
+COFFEE POT_date2024-08-03_range45_modealarm,ddec762b-de4d-4670-a73d-12a53ac300da,COFFEE POT,alarm,45,success,complete
+COFFEE POT_date2024-08-03_range60_modealarm,85002f05-85cf-47f7-8107-1c9173263016,COFFEE POT,alarm,60,success,complete
+COFFEE POT_date2024-08-03_range90_modealarm,9c90c82e-1e02-443c-86c3-6fb44eedacf4,COFFEE POT,alarm,90,success,complete
+COFFEE POT_date2024-12-16_range5_modecont,f6c77f6a-c251-4b58-9ff7-bd0ab2791b61,COFFEE POT,cont,5,success,complete
+COFFEE POT_date2024-12-16_range10_modecont,2e73c62b-1cae-406f-931d-57a63dcd288e,COFFEE POT,cont,10,success,complete
+COFFEE POT_date2024-12-16_range15_modecont,8e1c2515-8071-415d-b9f6-541719c209b6,COFFEE POT,cont,15,success,complete
+COFFEE POT_date2024-12-16_range21_modecont,3eece749-1f67-4008-b030-80c3dedcf79b,COFFEE POT,cont,21,success,complete
+COFFEE POT_date2024-12-16_range30_modecont,45f60628-3113-485a-bc9d-df3783113ecd,COFFEE POT,cont,30,success,complete
+COFFEE POT_date2024-12-16_range45_modecont,cbae0be9-978a-4f26-a4bf-3d069b19679e,COFFEE POT,cont,45,success,complete
+COFFEE POT_date2024-12-16_range60_modecont,5dd1f78f-713e-461f-96d2-9035045ae60a,COFFEE POT,cont,60,success,complete
+COFFEE POT_date2024-12-16_range90_modecont,18ab5f83-9f29-4fd3-ad00-f1cbcd52007b,COFFEE POT,cont,90,success,complete
+SENTINEL_date2024-07-14_range5_modealarm,6188fe33-d50d-41f5-9d08-2d446945bacd,SENTINEL,alarm,5,success,complete
+SENTINEL_date2024-07-14_range10_modealarm,a573b98a-eaa7-421f-96cb-4b8096b04c6f,SENTINEL,alarm,10,success,complete
+SENTINEL_date2024-07-14_range15_modealarm,028587b6-754d-4215-9588-d1cf6706b1ac,SENTINEL,alarm,15,success,complete
+SENTINEL_date2024-07-14_range21_modealarm,9850a737-5679-43d6-bd2e-7803191c0951,SENTINEL,alarm,21,success,complete
+SENTINEL_date2024-07-14_range30_modealarm,cf5b6bf5-34be-4204-af7b-6078f68af6e2,SENTINEL,alarm,30,success,complete
+SENTINEL_date2024-07-14_range45_modealarm,b15b6e91-e846-4b3c-871a-9db35dfbf6ab,SENTINEL,alarm,45,success,complete
+SENTINEL_date2024-07-14_range60_modealarm,bd468e18-c224-497e-a64e-d1a9da65e444,SENTINEL,alarm,60,success,complete
+SENTINEL_date2024-07-14_range90_modealarm,cc96b483-f3d4-4695-a34c-9813cca9a1bd,SENTINEL,alarm,90,success,complete
+SENTINEL_date2024-11-08_range5_modecont,c0055acf-fe07-4550-befc-b805ba553cff,SENTINEL,cont,5,success,complete
+SENTINEL_date2024-11-08_range10_modecont,a0f23e7b-271f-4f4d-ac36-9d3fede47fef,SENTINEL,cont,10,success,complete
+SENTINEL_date2024-11-08_range15_modecont,303b11a7-cb15-42a3-9a0a-f257e84e2509,SENTINEL,cont,15,success,complete
+SENTINEL_date2024-11-08_range21_modecont,a78f6cb0-390f-4d0d-8eb5-c533e2ccc866,SENTINEL,cont,21,success,complete
+SENTINEL_date2024-11-08_range30_modecont,b143a40e-0392-4f10-9397-2336f776a582,SENTINEL,cont,30,success,complete
+SENTINEL_date2024-11-08_range45_modecont,3755b83e-726a-41f2-bf55-1e8c3594734f,SENTINEL,cont,45,success,complete
+SENTINEL_date2024-11-08_range60_modecont,5ddcc59e-0615-4c4a-ab9b-534f7d6d62bd,SENTINEL,cont,60,success,complete
+SENTINEL_date2024-11-08_range90_modecont,afae00fa-3ca5-447d-9be5-52d0120b41bc,SENTINEL,cont,90,success,complete
+SIMPSON_date2024-07-26_range5_modealarm,90ec353b-b3ce-493f-a1c0-498cacdd1dbb,SIMPSON,alarm,5,success,complete
+SIMPSON_date2024-07-26_range10_modealarm,7e40b5d5-817e-4f3f-bef2-1ede4a04bdf5,SIMPSON,alarm,10,success,complete
+SIMPSON_date2024-07-26_range15_modealarm,d8d83ea3-667e-4cc8-b749-38d173e3a5fb,SIMPSON,alarm,15,success,complete
+SIMPSON_date2024-07-26_range21_modealarm,8ca6adde-7059-487f-9624-ebe218bd510c,SIMPSON,alarm,21,success,complete
+SIMPSON_date2024-07-26_range30_modealarm,0f90ab6d-475a-4ee3-98c6-f0c25e0b1d5e,SIMPSON,alarm,30,success,complete
+SIMPSON_date2024-07-26_range45_modealarm,df671949-619d-4317-b7e8-4e987ddbe369,SIMPSON,alarm,45,success,complete
+SIMPSON_date2024-07-26_range60_modealarm,c21cc9ca-d3d6-474f-8bd8-4ba8db9db68a,SIMPSON,alarm,60,success,complete
+SIMPSON_date2024-07-26_range90_modealarm,06a55cac-746a-4506-bdf4-6e240cc8b2ea,SIMPSON,alarm,90,success,complete
+SIMPSON_date2024-09-02_range5_modecont,f0c8bff8-3c46-4b73-a7c3-dac2b5aeeb5d,SIMPSON,cont,5,success,complete
+SIMPSON_date2024-09-02_range10_modecont,c724b371-f8b6-4214-a613-378406497b9d,SIMPSON,cont,10,success,complete
+SIMPSON_date2024-09-02_range15_modecont,6f2921c2-3354-4d5c-9519-8169dccdb593,SIMPSON,cont,15,success,complete
+SIMPSON_date2024-09-02_range21_modecont,eedaaa5d-2f31-4666-924a-ef03aa1caed3,SIMPSON,cont,21,success,complete
+SIMPSON_date2024-09-02_range30_modecont,b53914a8-7bd2-4418-85c5-7b731e4d3d2e,SIMPSON,cont,30,success,complete
+SIMPSON_date2024-09-02_range45_modecont,985e5507-380e-4e43-9fa5-2a49e437c4ae,SIMPSON,cont,45,success,complete
+SIMPSON_date2024-09-02_range60_modecont,a65f2174-52ef-443b-bbcf-82f387b6878a,SIMPSON,cont,60,success,complete
+SIMPSON_date2024-09-02_range90_modecont,c6a1e104-5bb6-48ef-823f-89e4e2f381a9,SIMPSON,cont,90,success,complete
+YORK_date2023-07-28_range5_modealarm,48331507-8b39-44e3-9241-680c5caef9e3,YORK,alarm,5,success,failed
+YORK_date2023-07-28_range10_modealarm,69b0a4eb-c7fa-4821-ba98-1f7614779e0d,YORK,alarm,10,success,failed
+YORK_date2023-07-28_range15_modealarm,81db95ad-90d0-4c38-90ba-3871edbcb023,YORK,alarm,15,success,failed
+YORK_date2023-07-28_range21_modealarm,49e71da3-0e95-4db4-99b8-7eb1949ac8ce,YORK,alarm,21,success,failed
+YORK_date2023-07-28_range30_modealarm,58c282e8-93db-474b-8243-79624eaba88d,YORK,alarm,30,success,failed
+YORK_date2023-07-28_range45_modealarm,a77e049a-342d-4ed7-8651-0ca29f01da6a,YORK,alarm,45,success,failed
+YORK_date2023-07-28_range60_modealarm,f036e36c-d909-4bac-a198-e4489c2660cb,YORK,alarm,60,success,failed
+YORK_date2023-07-28_range90_modealarm,0d8771dd-f013-443c-ada2-7cac62fc82a5,YORK,alarm,90,success,failed
+YORK_date2023-08-20_range5_modecont,b62c4e9b-5b94-4114-95c6-d66526f1b0cb,YORK,cont,5,success,failed
+YORK_date2023-08-20_range10_modecont,2644bb19-bff8-49c2-8174-b40d8424fa00,YORK,cont,10,success,failed
+YORK_date2023-08-20_range15_modecont,b4ef741d-e087-4b26-adf3-1de7a1229ca1,YORK,cont,15,success,failed
+YORK_date2023-08-20_range21_modecont,76a95241-ef11-4eae-8915-fa3628ffe336,YORK,cont,21,success,failed
+YORK_date2023-08-20_range30_modecont,38a539dc-0218-4da4-9c01-72a2ef9aa823,YORK,cont,30,success,failed
+YORK_date2023-08-20_range45_modecont,5096f06e-5521-45d5-863f-19e49eca60cb,YORK,cont,45,success,failed
+YORK_date2023-08-20_range60_modecont,9706f76f-ffa4-4264-8cbf-71d4849e474b,YORK,cont,60,success,failed
+YORK_date2023-08-20_range90_modecont,22bfddb7-b3b9-4756-bf24-3b1d744c6ce2,YORK,cont,90,success,failed
+REDWOOD_date2023-08-15_range5_modealarm,b3b3582e-9cd8-4740-a3c3-8f02b76205d0,REDWOOD,alarm,5,success,complete
+REDWOOD_date2023-08-15_range10_modealarm,69f41192-a3b4-426b-9b05-ab83aa97c118,REDWOOD,alarm,10,success,complete
+REDWOOD_date2023-08-15_range15_modealarm,d3ccfaa4-0268-4143-82b2-4e39bbdba063,REDWOOD,alarm,15,success,complete
+REDWOOD_date2023-08-15_range21_modealarm,1c867177-7ada-4435-b239-73ddf18a63fa,REDWOOD,alarm,21,success,complete
+REDWOOD_date2023-08-15_range30_modealarm,ec4aa066-7c2a-4637-852f-1b54650b31c2,REDWOOD,alarm,30,success,complete
+REDWOOD_date2023-08-15_range45_modealarm,26caeec3-b292-4248-b1ae-9f4901d0a3cb,REDWOOD,alarm,45,success,complete
+REDWOOD_date2023-08-15_range60_modealarm,a9dcb7ed-888f-4669-bf16-e53c98589821,REDWOOD,alarm,60,success,complete
+REDWOOD_date2023-08-15_range90_modealarm,e79123d5-132e-416d-a1d5-c405ae0264d4,REDWOOD,alarm,90,success,complete
+REDWOOD_date2023-12-14_range5_modecont,7f871865-a963-487c-9f53-1a5c43f29efb,REDWOOD,cont,5,success,complete
+REDWOOD_date2023-12-14_range10_modecont,9a4b0beb-6093-4491-80f5-c6cbccef464b,REDWOOD,cont,10,success,complete
+REDWOOD_date2023-12-14_range15_modecont,10ec52dd-6c26-4439-9c08-b02314ae9873,REDWOOD,cont,15,success,complete
+REDWOOD_date2023-12-14_range21_modecont,42781ae8-b5cb-48d1-9251-d825a13c87e3,REDWOOD,cont,21,success,complete
+REDWOOD_date2023-12-14_range30_modecont,266f2f2d-3f36-4f55-9e56-1b4d94666265,REDWOOD,cont,30,success,complete
+REDWOOD_date2023-12-14_range45_modecont,62807f44-1869-4fca-809c-a12b187a87f1,REDWOOD,cont,45,success,complete
+REDWOOD_date2023-12-14_range60_modecont,f9945a9a-d499-48a1-add7-55c1e3e1da0a,REDWOOD,cont,60,success,complete
+REDWOOD_date2023-12-14_range90_modecont,b9235011-5af0-485b-a5a4-def3479c31e7,REDWOOD,cont,90,success,complete
+GEOLOGY_date2023-06-10_range5_modealarm,9e43a061-fc76-4e96-9e18-0bd595b31343,GEOLOGY,alarm,5,success,complete
+GEOLOGY_date2023-06-10_range10_modealarm,b93dbc6b-0bbe-4dd8-b2ed-2e0a57252ffe,GEOLOGY,alarm,10,success,complete
+GEOLOGY_date2023-06-10_range15_modealarm,5c89f437-dc1d-42a7-9a05-660d8eb8475d,GEOLOGY,alarm,15,success,complete
+GEOLOGY_date2023-06-10_range21_modealarm,ba086e34-6a7f-4ccf-a585-3e7f72de2bad,GEOLOGY,alarm,21,success,complete
+GEOLOGY_date2023-06-10_range30_modealarm,7c39efec-3665-4376-9a06-661b480785f3,GEOLOGY,alarm,30,success,complete
+GEOLOGY_date2023-06-10_range45_modealarm,1aef7fee-83d4-467f-9b30-b6f99bab8fdb,GEOLOGY,alarm,45,success,complete
+GEOLOGY_date2023-06-10_range60_modealarm,2cb9dfc2-0310-43e9-879f-852b385a6b7b,GEOLOGY,alarm,60,success,complete
+GEOLOGY_date2023-06-10_range90_modealarm,029fdfdb-bd97-4c10-a413-f72aa853ade8,GEOLOGY,alarm,90,success,complete
+GEOLOGY_date2023-06-18_range5_modecont,b60316bc-b620-4146-9bbc-67a8a2abb177,GEOLOGY,cont,5,success,complete
+GEOLOGY_date2023-06-18_range10_modecont,a902fadd-1423-46c9-ae08-697ae5e6688b,GEOLOGY,cont,10,success,complete
+GEOLOGY_date2023-06-18_range15_modecont,efcce049-0f69-4284-838e-8557906a039f,GEOLOGY,cont,15,success,complete
+GEOLOGY_date2023-06-18_range21_modecont,ec6d3fa2-7579-4165-b9a3-6177cc676183,GEOLOGY,cont,21,success,complete
+GEOLOGY_date2023-06-18_range30_modecont,e65da15f-d9df-4234-9773-bf333a092c0e,GEOLOGY,cont,30,success,complete
+GEOLOGY_date2023-06-18_range45_modecont,247feb0f-2ca8-4ce1-b74d-ef06b8158b07,GEOLOGY,cont,45,success,complete
+GEOLOGY_date2023-06-18_range60_modecont,491cf58a-7204-4949-9b37-4afc3d80fe1d,GEOLOGY,cont,60,success,complete
+GEOLOGY_date2023-06-18_range90_modecont,980231f5-fe50-4ab6-a166-7f5f974002ee,GEOLOGY,cont,90,success,complete
+VALLEY_date2023-06-17_range5_modealarm,ee2cbb40-cb9c-4b14-a261-5fde259a707f,VALLEY,alarm,5,success,complete
+VALLEY_date2023-06-17_range10_modealarm,f9eb4fc5-22e6-465a-8dae-3a83f8dfc5ea,VALLEY,alarm,10,success,complete
+VALLEY_date2023-06-17_range15_modealarm,600a6902-de7b-4f97-8509-cfb14d5ead87,VALLEY,alarm,15,success,complete
+VALLEY_date2023-06-17_range21_modealarm,0613a585-1581-4918-9964-c10e3fc0751e,VALLEY,alarm,21,success,complete
+VALLEY_date2023-06-17_range30_modealarm,c3f6cb7f-0676-40f8-b31b-0fc3cf85dc69,VALLEY,alarm,30,success,complete
+VALLEY_date2023-06-17_range45_modealarm,35f15ca5-f00b-4093-b5de-31af155b6e4c,VALLEY,alarm,45,success,complete
+VALLEY_date2023-06-17_range60_modealarm,83a21f63-ac12-4691-bbf6-ad082a19be61,VALLEY,alarm,60,success,complete
+VALLEY_date2023-06-17_range90_modealarm,1f725f69-0aea-4c4e-aeb9-15459c8176ef,VALLEY,alarm,90,success,complete
+VALLEY_date2023-06-23_range5_modecont,337c9cb5-52fb-4c55-8938-630fb159ea07,VALLEY,cont,5,success,complete
+VALLEY_date2023-06-23_range10_modecont,c5839219-652a-4ac5-b215-d163ba1b8b66,VALLEY,cont,10,success,complete
+VALLEY_date2023-06-23_range15_modecont,61c0c179-3500-4b8e-9b73-c1f4ccf873ed,VALLEY,cont,15,success,complete
+VALLEY_date2023-06-23_range21_modecont,ac45d51e-8a46-4c39-ba3e-121a70cc8110,VALLEY,cont,21,success,complete
+VALLEY_date2023-06-23_range30_modecont,b415f261-7cf8-40ca-8304-bfe7456bd2d8,VALLEY,cont,30,success,complete
+VALLEY_date2023-06-23_range45_modecont,a55d0572-faa6-4581-838a-b54f72408fcd,VALLEY,cont,45,success,complete
+VALLEY_date2023-06-23_range60_modecont,e1ede536-4340-4cf6-9bb6-513d44ed74c9,VALLEY,cont,60,success,complete
+VALLEY_date2023-06-23_range90_modecont,b97067c7-4097-4fa7-9fa8-7a98ae80675f,VALLEY,cont,90,success,complete
+SYCAMORE_date2023-10-16_range5_modealarm,63a6c6e6-e625-46eb-9ea8-ba57963507d9,SYCAMORE,alarm,5,success,complete
+SYCAMORE_date2023-10-16_range10_modealarm,f5385f31-0082-4720-9b4f-1f69459c677f,SYCAMORE,alarm,10,success,complete
+SYCAMORE_date2023-10-16_range15_modealarm,d51e2e9a-7703-4ca4-b217-360bc26b42c0,SYCAMORE,alarm,15,success,complete
+SYCAMORE_date2023-10-16_range21_modealarm,b16e9850-3209-4ccf-9ba1-e5dd073c9e54,SYCAMORE,alarm,21,success,complete
+SYCAMORE_date2023-10-16_range30_modealarm,ac85f5a7-5446-4b82-9ac0-b45f8b42f205,SYCAMORE,alarm,30,success,complete
+SYCAMORE_date2023-10-16_range45_modealarm,23f33cf3-92f3-4b98-827a-9ab6aae44a01,SYCAMORE,alarm,45,success,complete
+SYCAMORE_date2023-10-16_range60_modealarm,7f671309-e9ad-4736-ac42-331e272bd8f5,SYCAMORE,alarm,60,success,complete
+SYCAMORE_date2023-10-16_range90_modealarm,c3fea720-13d5-4e1c-8fe5-50ed8359a3b1,SYCAMORE,alarm,90,success,complete
+SYCAMORE_date2023-10-20_range5_modecont,e2b47b64-4211-4842-b030-2094f8bf0392,SYCAMORE,cont,5,success,failed
+SYCAMORE_date2023-10-20_range10_modecont,bfff33a1-4e66-444a-a5e1-01a40e44abee,SYCAMORE,cont,10,success,complete
+SYCAMORE_date2023-10-20_range15_modecont,8731a6df-af09-4723-8862-4046958da28f,SYCAMORE,cont,15,success,complete
+SYCAMORE_date2023-10-20_range21_modecont,eafe367e-2e6f-4bf4-b227-955fed588a16,SYCAMORE,cont,21,success,complete
+SYCAMORE_date2023-10-20_range30_modecont,e086770a-919e-4568-a0fc-d909f2a28fe2,SYCAMORE,cont,30,success,complete
+SYCAMORE_date2023-10-20_range45_modecont,dcf0f142-356f-476c-9fe5-34d53495f601,SYCAMORE,cont,45,success,complete
+SYCAMORE_date2023-10-20_range60_modecont,3f515382-281f-49e4-b178-a020869b5347,SYCAMORE,cont,60,success,complete
+SYCAMORE_date2023-10-20_range90_modecont,8c9753cd-b3b0-4239-8154-a8730458343f,SYCAMORE,cont,90,success,complete
+SUMMIT_date2022-08-03_range5_modealarm,5da22535-2777-426d-b969-9c37068b4423,SUMMIT,alarm,5,success,complete
+SUMMIT_date2022-08-03_range10_modealarm,0a7b710c-e70a-4b05-b90e-ebf9bcca222b,SUMMIT,alarm,10,success,complete
+SUMMIT_date2022-08-03_range15_modealarm,813f47b1-cff5-44e4-8f0d-3055a4b0f89f,SUMMIT,alarm,15,success,complete
+SUMMIT_date2022-08-03_range21_modealarm,5ab0b291-d070-49ec-90df-16d6b18f3888,SUMMIT,alarm,21,success,complete
+SUMMIT_date2022-08-03_range30_modealarm,58879d2d-435b-4e30-9d3d-8696e7ff78f1,SUMMIT,alarm,30,success,complete
+SUMMIT_date2022-08-03_range45_modealarm,3e2b2bee-715a-4da0-b65f-441825b8ea30,SUMMIT,alarm,45,success,complete
+SUMMIT_date2022-08-03_range60_modealarm,52042bf4-af78-49c6-a79b-135880b47aaf,SUMMIT,alarm,60,success,complete
+SUMMIT_date2022-08-03_range90_modealarm,3b60231a-7e73-49b7-90cf-ca435edaddd7,SUMMIT,alarm,90,success,complete
+SUMMIT_date2022-10-19_range5_modecont,d74aa962-0887-41d6-a698-649fdbcbea39,SUMMIT,cont,5,success,complete
+SUMMIT_date2022-10-19_range10_modecont,c56744b9-8065-4c55-928a-9a0b277819bc,SUMMIT,cont,10,success,complete
+SUMMIT_date2022-10-19_range15_modecont,5950de15-e27c-4492-b3c4-cbeeb9b8cacb,SUMMIT,cont,15,success,complete
+SUMMIT_date2022-10-19_range21_modecont,c8f27b4f-b91d-45ef-8817-1b5db7f15c58,SUMMIT,cont,21,success,complete
+SUMMIT_date2022-10-19_range30_modecont,6bbb791f-82d9-427e-b93c-e67cbd1d6244,SUMMIT,cont,30,success,complete
+SUMMIT_date2022-10-19_range45_modecont,0f001e52-d1a8-4865-9641-dbe1eb42dcae,SUMMIT,cont,45,success,complete
+SUMMIT_date2022-10-19_range60_modecont,a005ca08-2d2b-41f5-ae6e-1ebe03c2b364,SUMMIT,cont,60,success,complete
+SUMMIT_date2022-10-19_range90_modecont,56396899-0477-4a15-aa5e-413118417a9f,SUMMIT,cont,90,success,complete
+ELK TRAIL_date2022-05-26_range5_modealarm,4c456f13-8a2c-44f3-91ed-d11088d1bb0e,ELK TRAIL,alarm,5,success,complete
+ELK TRAIL_date2022-05-26_range10_modealarm,eb7fe45a-722c-4db8-a8a8-37b3b6876745,ELK TRAIL,alarm,10,success,complete
+ELK TRAIL_date2022-05-26_range15_modealarm,9e75b34a-aba3-4526-b854-8a03391d3eb6,ELK TRAIL,alarm,15,success,complete
+ELK TRAIL_date2022-05-26_range21_modealarm,819b55e9-43d1-4f29-bdaf-8e27362dfb7b,ELK TRAIL,alarm,21,success,complete
+ELK TRAIL_date2022-05-26_range30_modealarm,95d1da63-f38c-4e80-ba09-a9fb3eb9474d,ELK TRAIL,alarm,30,success,complete
+ELK TRAIL_date2022-05-26_range45_modealarm,9b52c312-fb85-49c2-b19b-2d865f1d75d8,ELK TRAIL,alarm,45,success,complete
+ELK TRAIL_date2022-05-26_range60_modealarm,931bc26a-1e6b-4bca-a22d-e181b8dc5dcb,ELK TRAIL,alarm,60,success,complete
+ELK TRAIL_date2022-05-26_range90_modealarm,198cbb07-ee98-49b1-ab8a-aa683e9843f5,ELK TRAIL,alarm,90,success,complete
+ELK TRAIL_date2022-05-31_range5_modecont,7dedd85e-971b-4cc9-9e3d-b3f30a453e1d,ELK TRAIL,cont,5,success,complete
+ELK TRAIL_date2022-05-31_range10_modecont,5dfc8a4e-a421-4bc1-bbfa-a7f707501c10,ELK TRAIL,cont,10,success,complete
+ELK TRAIL_date2022-05-31_range15_modecont,a2205680-8eff-42a7-abd5-696ca956c681,ELK TRAIL,cont,15,success,complete
+ELK TRAIL_date2022-05-31_range21_modecont,6f10de61-f1bd-4b49-9fda-7048838b7b97,ELK TRAIL,cont,21,success,complete
+ELK TRAIL_date2022-05-31_range30_modecont,1e0163ed-7523-4c1a-8b8a-a1c60de7d0e4,ELK TRAIL,cont,30,success,complete
+ELK TRAIL_date2022-05-31_range45_modecont,cf1b6709-ec2f-4ae7-b1cf-14a3aadb363a,ELK TRAIL,cont,45,success,complete
+ELK TRAIL_date2022-05-31_range60_modecont,230225d2-b848-49d8-b5ac-c7442f13a912,ELK TRAIL,cont,60,success,complete
+ELK TRAIL_date2022-05-31_range90_modecont,44731555-a1a3-45b0-aba5-eea7567ea09a,ELK TRAIL,cont,90,success,complete
+AVALANCHE_date2022-07-18_range5_modealarm,78cc07b7-041b-4e7a-a649-c3b117c765c8,AVALANCHE,alarm,5,success,complete
+AVALANCHE_date2022-07-18_range10_modealarm,c18f50b3-e435-4c24-9b4f-055472c23189,AVALANCHE,alarm,10,success,complete
+AVALANCHE_date2022-07-18_range15_modealarm,88e8c2dd-fb90-40f7-bea4-0f20e1476fd3,AVALANCHE,alarm,15,success,complete
+AVALANCHE_date2022-07-18_range21_modealarm,5b600ddc-1245-4a9b-a8ff-0020f34ffc50,AVALANCHE,alarm,21,success,complete
+AVALANCHE_date2022-07-18_range30_modealarm,7ae03833-17ac-4c46-9cf4-d56d416eb40e,AVALANCHE,alarm,30,success,complete
+AVALANCHE_date2022-07-18_range45_modealarm,8f2b9011-af5f-42fe-9a8f-4cb1bf7fc247,AVALANCHE,alarm,45,success,complete
+AVALANCHE_date2022-07-18_range60_modealarm,36ec5950-8c5c-42de-a9dc-6e36272dce07,AVALANCHE,alarm,60,success,complete
+AVALANCHE_date2022-07-18_range90_modealarm,6936bf27-53c5-4aa2-854a-cd320da10396,AVALANCHE,alarm,90,success,complete
+AVALANCHE_date2022-11-10_range5_modecont,4d5726e7-e3c5-4399-bf8e-77a849ffd770,AVALANCHE,cont,5,success,complete
+AVALANCHE_date2022-11-10_range10_modecont,268e7dc0-47c9-4318-991d-a74f0f2d496c,AVALANCHE,cont,10,success,complete
+AVALANCHE_date2022-11-10_range15_modecont,3a0d8e33-643d-4a2c-a8ad-15b58a727645,AVALANCHE,cont,15,success,complete
+AVALANCHE_date2022-11-10_range21_modecont,8789a0c1-d3fd-4741-8f00-db1ebdbec283,AVALANCHE,cont,21,success,complete
+AVALANCHE_date2022-11-10_range30_modecont,909728f9-6993-4a9c-b47b-40063639b05f,AVALANCHE,cont,30,success,complete
+AVALANCHE_date2022-11-10_range45_modecont,4c5f388d-5347-4e76-8fea-0d508f3d4268,AVALANCHE,cont,45,success,complete
+AVALANCHE_date2022-11-10_range60_modecont,3b4c6b7c-e14f-4da4-bffc-d3e7388dca87,AVALANCHE,cont,60,success,complete
+AVALANCHE_date2022-11-10_range90_modecont,aecc72b8-74d7-46a5-ad8d-2704ec942ed2,AVALANCHE,cont,90,success,complete
+KNP Complex_date2021-09-10_range5_modealarm,ece8c370-d841-40fc-bcf2-3e1091750a0c,KNP Complex,alarm,5,success,failed
+KNP Complex_date2021-09-10_range10_modealarm,842de757-35c1-44c3-a0a6-0936001246ca,KNP Complex,alarm,10,success,failed
+KNP Complex_date2021-09-10_range15_modealarm,a5962f92-f09f-430c-8945-e4c05a65ce88,KNP Complex,alarm,15,success,failed
+KNP Complex_date2021-09-10_range21_modealarm,bef2f899-046f-4d23-bc5c-afb405d4ce3b,KNP Complex,alarm,21,success,failed
+KNP Complex_date2021-09-10_range30_modealarm,377fefc0-159e-4e24-aab0-9420eed9e59b,KNP Complex,alarm,30,success,failed
+,,KNP Complex,alarm,45,failed_504,999
+,,KNP Complex,alarm,60,failed_504,999
+,,KNP Complex,alarm,90,failed_504,999
+,,KNP Complex,cont,5,failed_504,999
+,,KNP Complex,cont,10,failed_504,999
+KNP Complex_date2021-12-16_range15_modecont,45a6ef55-0121-4252-9a5e-14b6b7340368,KNP Complex,cont,15,success,failed
+KNP Complex_date2021-12-16_range21_modecont,3cadd4fc-6013-49b9-97eb-467e2334a8a7,KNP Complex,cont,21,success,failed
+KNP Complex_date2021-12-16_range30_modecont,3916b161-5233-4e9f-a136-ebe7b3edebb4,KNP Complex,cont,30,success,failed
+KNP Complex_date2021-12-16_range45_modecont,db995c9d-aeea-461c-9087-b3c2ae8d8f61,KNP Complex,cont,45,success,failed
+,,KNP Complex,cont,60,failed_504,999
+,,KNP Complex,cont,90,failed_504,999
+MOJAVE_date2021-06-17_range5_modealarm,2a5b2428-726f-41fe-8914-bf25561bae29,MOJAVE,alarm,5,success,complete
+MOJAVE_date2021-06-17_range10_modealarm,0009a24d-0bfa-4ca9-914d-ca9a3d0bd262,MOJAVE,alarm,10,success,complete
+MOJAVE_date2021-06-17_range15_modealarm,7d7e682c-c45a-4cda-9188-ba693cc02d1d,MOJAVE,alarm,15,success,complete
+MOJAVE_date2021-06-17_range21_modealarm,76e422aa-bbb3-4ea5-b2f1-1d33e4dff1ea,MOJAVE,alarm,21,success,complete
+MOJAVE_date2021-06-17_range30_modealarm,5509be52-0bcb-4f38-8758-ccda443ebc22,MOJAVE,alarm,30,success,complete
+MOJAVE_date2021-06-17_range45_modealarm,cfed1cc3-1f08-47f5-bb4b-cd3a475d758c,MOJAVE,alarm,45,success,complete
+MOJAVE_date2021-06-17_range60_modealarm,06575950-7da7-413b-8a23-ca8130b0c18e,MOJAVE,alarm,60,success,complete
+MOJAVE_date2021-06-17_range90_modealarm,fb6a09f1-92b9-4ec1-b16f-790e30ebf62f,MOJAVE,alarm,90,success,complete
+MOJAVE_date2021-06-25_range5_modecont,46c12812-bce9-414c-a528-9fc1e6af5e25,MOJAVE,cont,5,success,complete
+MOJAVE_date2021-06-25_range10_modecont,4a9db8b3-cb0a-41d3-a879-38c6f2a3bae1,MOJAVE,cont,10,success,complete
+MOJAVE_date2021-06-25_range15_modecont,1dddcd9d-1a5d-461e-aada-33be1215b757,MOJAVE,cont,15,success,complete
+MOJAVE_date2021-06-25_range21_modecont,77b53d2b-b611-4959-b93b-9b1b6b7fa213,MOJAVE,cont,21,success,complete
+MOJAVE_date2021-06-25_range30_modecont,2f160650-6d2d-4125-8e01-2f845d40ae23,MOJAVE,cont,30,success,complete
+MOJAVE_date2021-06-25_range45_modecont,fa29c553-09bc-4473-b998-f6ed732093af,MOJAVE,cont,45,success,complete
+MOJAVE_date2021-06-25_range60_modecont,c140efd3-1f15-4052-9052-06401edb6668,MOJAVE,cont,60,success,complete
+MOJAVE_date2021-06-25_range90_modecont,789f19a9-15ec-4d20-9ccb-68b953bc5525,MOJAVE,cont,90,success,complete
+POND_date2021-08-30_range5_modealarm,421ac574-e0e5-404c-82d7-d44ba8a2b6e6,POND,alarm,5,success,complete
+POND_date2021-08-30_range10_modealarm,7585d977-0e47-49e0-8b2c-00ec3c3656e7,POND,alarm,10,success,complete
+POND_date2021-08-30_range15_modealarm,7a1ed16c-4ce8-46be-96ea-fd81809aab85,POND,alarm,15,success,complete
+POND_date2021-08-30_range21_modealarm,9a7e5cd2-75ec-45a8-8241-bf6c82e3e526,POND,alarm,21,success,complete
+POND_date2021-08-30_range30_modealarm,0d83ccf5-a7ab-4f30-a4c4-397e89d24763,POND,alarm,30,success,complete
+POND_date2021-08-30_range45_modealarm,a13abc8c-59d0-427b-ad90-098a72c5bf07,POND,alarm,45,success,complete
+POND_date2021-08-30_range60_modealarm,486b5714-f7ba-4a13-b006-2f9beeffad94,POND,alarm,60,success,complete
+POND_date2021-08-30_range90_modealarm,5446a955-d11a-431d-81ef-5e421860f53e,POND,alarm,90,success,complete
+POND_date2021-09-04_range5_modecont,898d582e-6795-47ba-ad81-ab5f20e87824,POND,cont,5,success,complete
+POND_date2021-09-04_range10_modecont,ce2c2eea-2cca-4f4e-93e2-9c46f755c7be,POND,cont,10,success,complete
+POND_date2021-09-04_range15_modecont,c7852129-b6f3-42a5-bc36-c366bda137b2,POND,cont,15,success,complete
+POND_date2021-09-04_range21_modecont,8e1ff23e-b451-45ca-a803-5dd2eb294c09,POND,cont,21,success,complete
+POND_date2021-09-04_range30_modecont,4dd2c7a5-6d4f-4175-80fa-b7a015438e1f,POND,cont,30,success,complete
+POND_date2021-09-04_range45_modecont,d2aea8eb-dbf8-4731-a103-b934ccfa5be2,POND,cont,45,success,complete
+POND_date2021-09-04_range60_modecont,afbb659b-8fda-489e-a77f-9a51e00058c5,POND,cont,60,success,complete
+POND_date2021-09-04_range90_modecont,4ada9a9f-e152-40b2-8d63-5f99e45fa594,POND,cont,90,success,complete
+LOST_date2021-07-10_range5_modealarm,544628e1-8ee0-4bcc-b9e6-8b934a4e5ad1,LOST,alarm,5,success,complete
+LOST_date2021-07-10_range10_modealarm,613003a5-ca8c-42a2-b436-d20028e80c4c,LOST,alarm,10,success,complete
+LOST_date2021-07-10_range15_modealarm,f6950e99-ab61-4a41-8179-6353cf12ed30,LOST,alarm,15,success,complete
+LOST_date2021-07-10_range21_modealarm,a8f4f749-417e-426f-8f79-344f988f39cf,LOST,alarm,21,success,complete
+LOST_date2021-07-10_range30_modealarm,d05a7c49-9a2c-4991-9e8f-c800222208a9,LOST,alarm,30,success,complete
+LOST_date2021-07-10_range45_modealarm,3fe93c89-1a5b-4cc8-88fd-d25c8f82678d,LOST,alarm,45,success,complete
+LOST_date2021-07-10_range60_modealarm,ef5fc19c-3e57-4781-a8a4-6edee7f0931b,LOST,alarm,60,success,complete
+LOST_date2021-07-10_range90_modealarm,0d920abc-8234-418f-9c35-e10b11f0bbda,LOST,alarm,90,success,complete
+LOST_date2021-07-18_range5_modecont,834dcc3d-66ac-435e-88a7-66f5073d0279,LOST,cont,5,success,complete
+LOST_date2021-07-18_range10_modecont,0d3e1f45-5ff7-41ad-841c-01ad06c53c7f,LOST,cont,10,success,complete
+LOST_date2021-07-18_range15_modecont,d588e5fc-6046-4384-a7eb-59d48b2e80af,LOST,cont,15,success,complete
+LOST_date2021-07-18_range21_modecont,73ca648f-aa38-4615-a1ad-37912f631d29,LOST,cont,21,success,complete
+LOST_date2021-07-18_range30_modecont,c0566548-bb2a-40fc-b338-84c1491938db,LOST,cont,30,success,complete
+LOST_date2021-07-18_range45_modecont,fb2ff590-0b58-49da-be9c-04f3cfcad2d4,LOST,cont,45,success,complete
+LOST_date2021-07-18_range60_modecont,2a61fa4e-f634-42ca-883a-d04c94d3cc28,LOST,cont,60,success,complete
+LOST_date2021-07-18_range90_modecont,c31a1746-4b2f-4a20-a724-e2cf7777fbe5,LOST,cont,90,success,complete
+HART_date2021-08-31_range5_modealarm,846511a0-7f42-4706-accd-0a9c96b170a5,HART,alarm,5,success,complete
+HART_date2021-08-31_range10_modealarm,62d8856d-682c-4034-83c6-2337f2c8d8b9,HART,alarm,10,success,complete
+HART_date2021-08-31_range15_modealarm,58d318b7-7541-4c2f-bec6-61858bfc38fe,HART,alarm,15,success,complete
+HART_date2021-08-31_range21_modealarm,1f4d5407-f6d8-49ff-8664-15330f28ca6e,HART,alarm,21,success,complete
+HART_date2021-08-31_range30_modealarm,4d129264-d72b-4fb0-b0c9-925275e9f539,HART,alarm,30,success,complete
+HART_date2021-08-31_range45_modealarm,d58f60d1-b449-4d95-b132-d1d2f669dff9,HART,alarm,45,success,complete
+HART_date2021-08-31_range60_modealarm,0c79dadb-7563-4a6e-8170-208b78622d64,HART,alarm,60,success,complete
+HART_date2021-08-31_range90_modealarm,55fdaf95-63b5-4bc0-902d-d78523fe153b,HART,alarm,90,success,complete
+HART_date2021-09-04_range5_modecont,3578c988-38a4-45fd-bcc6-696b8357f5fb,HART,cont,5,success,complete
+HART_date2021-09-04_range10_modecont,199eb32b-7996-43f0-950a-0e8ad0aab665,HART,cont,10,success,complete
+HART_date2021-09-04_range15_modecont,b5674a02-6f7e-4021-8db4-ec6ab75ea15c,HART,cont,15,success,complete
+HART_date2021-09-04_range21_modecont,9c5ebdbc-96d9-42b1-a3e4-efd64116291e,HART,cont,21,success,complete
+HART_date2021-09-04_range30_modecont,98f0fa1e-380f-4202-8154-01465b756395,HART,cont,30,success,complete
+HART_date2021-09-04_range45_modecont,f6bf3682-9884-4a1a-abc2-cc83ed4449f8,HART,cont,45,success,complete
+HART_date2021-09-04_range60_modecont,0c809a8a-10de-47dd-930c-fc6d59fc7e4c,HART,cont,60,success,complete
+HART_date2021-09-04_range90_modecont,3d7c5134-40e2-4ec5-8fb7-157cf07067e9,HART,cont,90,success,complete
+CASTLE_date2021-03-19_range5_modealarm,77793904-e8e0-45bd-8427-5bc028bbcf36,CASTLE,alarm,5,success,complete
+CASTLE_date2021-03-19_range10_modealarm,97118dcb-b7cc-48a2-bb69-164e5a7c7532,CASTLE,alarm,10,success,complete
+CASTLE_date2021-03-19_range15_modealarm,e72266a4-3fb0-4a88-ba87-5493eb4c956c,CASTLE,alarm,15,success,complete
+CASTLE_date2021-03-19_range21_modealarm,702e14ed-8189-49c4-85bf-68fdd4d9d536,CASTLE,alarm,21,success,complete
+CASTLE_date2021-03-19_range30_modealarm,c870f06c-2a17-4e0b-9612-fcc9ea1b71b2,CASTLE,alarm,30,success,complete
+CASTLE_date2021-03-19_range45_modealarm,4139c4ba-4832-425d-b6f8-1fe52e0d05eb,CASTLE,alarm,45,success,complete
+CASTLE_date2021-03-19_range60_modealarm,45f30080-5b05-4f9c-90e2-ae031bda7d5d,CASTLE,alarm,60,success,complete
+CASTLE_date2021-03-19_range90_modealarm,ddddf547-ae4c-4cad-bb78-7eabc0cfa042,CASTLE,alarm,90,success,complete
+CASTLE_date2021-03-21_range5_modecont,0088101b-4fb2-4a98-a99d-a0d085075540,CASTLE,cont,5,success,complete
+CASTLE_date2021-03-21_range10_modecont,821ddb67-e027-4a0c-a096-d9deb555394b,CASTLE,cont,10,success,complete
+CASTLE_date2021-03-21_range15_modecont,ba2b0e94-7ddb-42ce-b1d5-5f236d2c390a,CASTLE,cont,15,success,complete
+CASTLE_date2021-03-21_range21_modecont,fbb6fe90-10ec-44ea-a444-f89222434514,CASTLE,cont,21,success,complete
+CASTLE_date2021-03-21_range30_modecont,f6435391-b4c8-45bc-8f5e-5c851753f32f,CASTLE,cont,30,success,complete
+CASTLE_date2021-03-21_range45_modecont,e3d4e7d1-dc33-4285-9579-e0090c476281,CASTLE,cont,45,success,complete
+CASTLE_date2021-03-21_range60_modecont,6c9315d2-5c9a-4ac1-a6a0-1d1a3bd728e4,CASTLE,cont,60,success,complete
+CASTLE_date2021-03-21_range90_modecont,f431fb34-d894-40f8-a975-58b6a7c1bf20,CASTLE,cont,90,success,complete
+DOME_date2020-08-15_range5_modealarm,dd141d17-1179-4ffb-b2e3-ecb2f90063f3,DOME,alarm,5,success,failed
+DOME_date2020-08-15_range10_modealarm,95287012-146d-4df9-b2f9-1cbcf56bf212,DOME,alarm,10,success,failed
+DOME_date2020-08-15_range15_modealarm,6e7bbc9e-d5b2-4dbe-9d51-20bb900ab61b,DOME,alarm,15,success,failed
+DOME_date2020-08-15_range21_modealarm,294cc7d2-db14-4a31-af95-ac83339a6c1e,DOME,alarm,21,success,failed
+DOME_date2020-08-15_range30_modealarm,51c82a0a-2ae1-4d61-a820-9d79b3632c62,DOME,alarm,30,success,failed
+DOME_date2020-08-15_range45_modealarm,12553891-3d09-49ac-8753-20c42827ecf7,DOME,alarm,45,success,failed
+DOME_date2020-08-15_range60_modealarm,2999d245-809b-4c20-8cfa-7ba3ac69fe69,DOME,alarm,60,success,failed
+DOME_date2020-08-15_range90_modealarm,68b98888-3b3e-4e48-a736-514952a148dd,DOME,alarm,90,success,failed
+DOME_date2020-09-12_range5_modecont,cfd1ffda-9d81-4aa6-aa8a-0fc85677e2bc,DOME,cont,5,success,failed
+DOME_date2020-09-12_range10_modecont,df0c6939-b41c-444d-839a-0010f7acbcc2,DOME,cont,10,success,failed
+DOME_date2020-09-12_range15_modecont,ab78aaa0-82e8-4c6e-9fb6-bbe5a0dbed50,DOME,cont,15,success,failed
+DOME_date2020-09-12_range21_modecont,d7b83505-feb1-4d83-afe3-1cd3d726995c,DOME,cont,21,success,failed
+DOME_date2020-09-12_range30_modecont,9a74d63f-2ad3-4063-b005-bb1e5f4469cc,DOME,cont,30,success,failed
+DOME_date2020-09-12_range45_modecont,a43ba94b-3a3b-4163-90e4-94aa58216064,DOME,cont,45,success,failed
+DOME_date2020-09-12_range60_modecont,9a816902-ae7d-46bc-90f1-a871a8b9ae94,DOME,cont,60,success,failed
+DOME_date2020-09-12_range90_modecont,fffaee60-23c3-498e-a1a4-6f4658ca5beb,DOME,cont,90,success,failed
+RATTLESNAKE_date2020-08-16_range5_modealarm,87e3b0de-607f-4370-ad2e-b13cb55ee863,RATTLESNAKE,alarm,5,success,complete
+RATTLESNAKE_date2020-08-16_range10_modealarm,f29d7d1b-068e-4eba-a569-e0ccdce924b2,RATTLESNAKE,alarm,10,success,complete
+RATTLESNAKE_date2020-08-16_range15_modealarm,f0f1edb5-1cd7-45a9-8190-90504947dc57,RATTLESNAKE,alarm,15,success,complete
+RATTLESNAKE_date2020-08-16_range21_modealarm,d95bc2e2-00b8-41c0-8284-5fdfeb5a806b,RATTLESNAKE,alarm,21,success,complete
+RATTLESNAKE_date2020-08-16_range30_modealarm,d80b0524-360b-45db-b977-29007c5a5d35,RATTLESNAKE,alarm,30,success,complete
+RATTLESNAKE_date2020-08-16_range45_modealarm,6de434fe-27c8-4dff-9831-4266116ace82,RATTLESNAKE,alarm,45,success,complete
+RATTLESNAKE_date2020-08-16_range60_modealarm,958289c5-cd1e-436c-9a9f-e97b5ee05085,RATTLESNAKE,alarm,60,success,complete
+RATTLESNAKE_date2020-08-16_range90_modealarm,1436ca9b-c810-4a1a-9dd4-2342c73e08a7,RATTLESNAKE,alarm,90,success,complete
+RATTLESNAKE_date2020-12-28_range5_modecont,7c24245a-3985-4052-a34f-b0622c77e210,RATTLESNAKE,cont,5,success,complete
+RATTLESNAKE_date2020-12-28_range10_modecont,72c9c809-afcf-4865-824c-f2b00737df5c,RATTLESNAKE,cont,10,success,complete
+RATTLESNAKE_date2020-12-28_range15_modecont,bff30cb2-359f-4bf4-bae0-8d8edce59a07,RATTLESNAKE,cont,15,success,complete
+RATTLESNAKE_date2020-12-28_range21_modecont,58aad421-998d-4161-8c3d-2f3e0474fce7,RATTLESNAKE,cont,21,success,complete
+RATTLESNAKE_date2020-12-28_range30_modecont,46a4dd6d-f1c7-4f85-ba68-882be099ad33,RATTLESNAKE,cont,30,success,complete
+RATTLESNAKE_date2020-12-28_range45_modecont,684dcc15-1774-4572-8dd8-c7e22536bf19,RATTLESNAKE,cont,45,success,complete
+RATTLESNAKE_date2020-12-28_range60_modecont,d7401683-6d5e-4214-ab63-a57fd4a7bde2,RATTLESNAKE,cont,60,success,complete
+RATTLESNAKE_date2020-12-28_range90_modecont,e0a6b626-8304-487a-8e8f-e55fb134ea20,RATTLESNAKE,cont,90,success,complete
+SCORPION_date2020-05-31_range5_modealarm,cc15f7b0-4fa6-47d0-825e-09daa3877914,SCORPION,alarm,5,success,complete
+SCORPION_date2020-05-31_range10_modealarm,4b735c0e-8354-4ab3-9a2c-bb21b8fd0a2d,SCORPION,alarm,10,success,complete
+SCORPION_date2020-05-31_range15_modealarm,075f7cea-4a26-41eb-8cc4-916998b8a3e8,SCORPION,alarm,15,success,complete
+SCORPION_date2020-05-31_range21_modealarm,f730da53-506b-40be-b984-8a9aa2b1fc27,SCORPION,alarm,21,success,complete
+SCORPION_date2020-05-31_range30_modealarm,9a3c4741-3764-4dbc-b27f-73f229ad06cf,SCORPION,alarm,30,success,complete
+SCORPION_date2020-05-31_range45_modealarm,b56bb966-b8c2-49e5-8037-7930ff4be90e,SCORPION,alarm,45,success,complete
+SCORPION_date2020-05-31_range60_modealarm,7ee79d99-610a-4a1b-8fd0-d485ec56ba3d,SCORPION,alarm,60,success,complete
+SCORPION_date2020-05-31_range90_modealarm,04da3c87-4fce-4c0a-8c40-42740551e739,SCORPION,alarm,90,success,complete
+SCORPION_date2020-06-05_range5_modecont,527d17a4-5357-4bb1-9a08-9b72ff32883c,SCORPION,cont,5,success,complete
+SCORPION_date2020-06-05_range10_modecont,326f8f0f-0a13-4109-86c1-832297959f9b,SCORPION,cont,10,success,complete
+SCORPION_date2020-06-05_range15_modecont,793a25f1-ab98-4014-9c0d-d8f7a043a3ab,SCORPION,cont,15,success,complete
+SCORPION_date2020-06-05_range21_modecont,c388f50d-d21e-4a8b-9b71-be38cc124986,SCORPION,cont,21,success,complete
+SCORPION_date2020-06-05_range30_modecont,b597f8bb-16b7-4b3b-b736-01fd9cb7dde9,SCORPION,cont,30,success,complete
+SCORPION_date2020-06-05_range45_modecont,8a6f2226-7b6a-4320-b4bd-95acf667601c,SCORPION,cont,45,success,complete
+SCORPION_date2020-06-05_range60_modecont,300cc236-baa8-4363-930b-b58274a8d754,SCORPION,cont,60,success,complete
+SCORPION_date2020-06-05_range90_modecont,42de0cec-f6d1-40b5-9875-b4531c6b662c,SCORPION,cont,90,success,complete
+MORAINE_date2020-08-21_range5_modealarm,c54d72a7-2ad5-4a91-8e4c-d5b3a5b495c3,MORAINE,alarm,5,success,complete
+MORAINE_date2020-08-21_range10_modealarm,889bd838-4d84-4f9c-8897-969d401b1d88,MORAINE,alarm,10,success,complete
+MORAINE_date2020-08-21_range15_modealarm,9b865b53-ed88-47ec-b44d-3bf2db8a0419,MORAINE,alarm,15,success,complete
+MORAINE_date2020-08-21_range21_modealarm,044b42de-1f65-4777-8971-0ab6de1b4f24,MORAINE,alarm,21,success,complete
+MORAINE_date2020-08-21_range30_modealarm,dbf1b8ac-923d-4231-89ed-b3a793fb80dc,MORAINE,alarm,30,success,complete
+MORAINE_date2020-08-21_range45_modealarm,12bb611e-bb4e-4384-a3f8-fb82985a0f76,MORAINE,alarm,45,success,complete
+MORAINE_date2020-08-21_range60_modealarm,f442b919-1fac-4a59-b690-95c04071efdf,MORAINE,alarm,60,success,complete
+MORAINE_date2020-08-21_range90_modealarm,93fb057b-5912-473d-b00b-847e3764f76c,MORAINE,alarm,90,success,complete
+MORAINE_date2020-12-29_range5_modecont,9d76cfd5-c33f-4507-a698-b8ac1a161f8b,MORAINE,cont,5,success,complete
+MORAINE_date2020-12-29_range10_modecont,d7018254-e3cd-434a-9233-04e21a40dcc1,MORAINE,cont,10,success,complete
+MORAINE_date2020-12-29_range15_modecont,0bd99691-94d2-45da-bf5b-4067db14be59,MORAINE,cont,15,success,complete
+MORAINE_date2020-12-29_range21_modecont,cac7d925-03e9-4522-a4a5-79269f540e99,MORAINE,cont,21,success,complete
+MORAINE_date2020-12-29_range30_modecont,ae1b1497-f3c9-4a22-921e-47419a4754f0,MORAINE,cont,30,success,complete
+MORAINE_date2020-12-29_range45_modecont,ac3dea77-d1ce-4dea-8259-cbe5b479b100,MORAINE,cont,45,success,complete
+MORAINE_date2020-12-29_range60_modecont,ec434f83-e1a9-42d3-83d1-9785efcb9f09,MORAINE,cont,60,success,complete
+MORAINE_date2020-12-29_range90_modecont,3e0d7867-41da-40c1-9b94-434d1ce75c47,MORAINE,cont,90,success,complete
+IVANPAH_date2020-06-22_range5_modealarm,2c75c719-5cc8-48a3-a931-bc7ffec18f53,IVANPAH,alarm,5,success,complete
+IVANPAH_date2020-06-22_range10_modealarm,ac661e20-0b0d-4e9d-8fe7-656f6671e2c2,IVANPAH,alarm,10,success,complete
+IVANPAH_date2020-06-22_range15_modealarm,32d1714d-a744-4aa5-ae36-e32c82a404b5,IVANPAH,alarm,15,success,complete
+IVANPAH_date2020-06-22_range21_modealarm,e3f98907-13c6-4e1d-afa0-1f1e9c9bbeac,IVANPAH,alarm,21,success,complete
+IVANPAH_date2020-06-22_range30_modealarm,73bc078d-df9a-4ed2-887e-b79dd2153370,IVANPAH,alarm,30,success,complete
+IVANPAH_date2020-06-22_range45_modealarm,f703e938-3941-421e-bc1b-827f80c622a9,IVANPAH,alarm,45,success,complete
+IVANPAH_date2020-06-22_range60_modealarm,cd768a51-b65c-4547-9956-75f937861638,IVANPAH,alarm,60,success,complete
+IVANPAH_date2020-06-22_range90_modealarm,f7f137f8-8a67-4029-8b06-3668fc39d52f,IVANPAH,alarm,90,success,complete
+IVANPAH_date2020-06-26_range5_modecont,e7a6fe8f-f0b4-4cf6-83e1-bdd748219a3a,IVANPAH,cont,5,success,complete
+IVANPAH_date2020-06-26_range10_modecont,fb842366-47fc-4985-8694-44d352c055f1,IVANPAH,cont,10,success,complete
+IVANPAH_date2020-06-26_range15_modecont,61af887c-ff65-4289-96e8-dd107e8f0efa,IVANPAH,cont,15,success,complete
+IVANPAH_date2020-06-26_range21_modecont,b585a29c-b90c-4d7b-8649-4f56cd2532e0,IVANPAH,cont,21,success,complete
+IVANPAH_date2020-06-26_range30_modecont,4d3a7584-86d7-480f-b83e-c58c3acc1023,IVANPAH,cont,30,success,complete
+IVANPAH_date2020-06-26_range45_modecont,2d8656f8-2f83-4079-862a-2696fc4092f5,IVANPAH,cont,45,success,complete
+IVANPAH_date2020-06-26_range60_modecont,e87fd57c-33ec-4fde-b243-1278e4ea0ce2,IVANPAH,cont,60,success,complete
+IVANPAH_date2020-06-26_range90_modecont,4c1f77ad-5d8d-4ec1-a040-d6051467942a,IVANPAH,cont,90,success,complete
+BULL_date2020-09-05_range5_modealarm,4d610b9e-435e-47fe-a5c5-f11276d99bf0,BULL,alarm,5,success,complete
+BULL_date2020-09-05_range10_modealarm,840e2886-888f-4426-9368-45216d7517ba,BULL,alarm,10,success,complete
+BULL_date2020-09-05_range15_modealarm,60213777-a989-45b1-90b7-97181ef3f531,BULL,alarm,15,success,complete
+BULL_date2020-09-05_range21_modealarm,d6fcf9c7-9a8a-4b95-8e10-18a98d2d4791,BULL,alarm,21,success,complete
+BULL_date2020-09-05_range30_modealarm,93ed3f40-aa8a-4ecf-a4ab-c117a06b3fc6,BULL,alarm,30,success,complete
+BULL_date2020-09-05_range45_modealarm,5fbd30dc-337b-4c20-b5b6-8ddf18496cb1,BULL,alarm,45,success,complete
+BULL_date2020-09-05_range60_modealarm,65dc013a-5da5-485c-a5f4-4295febdfdcb,BULL,alarm,60,success,complete
+BULL_date2020-09-05_range90_modealarm,9f973557-1183-4d7d-8314-d7b19e34fad4,BULL,alarm,90,success,complete
+BULL_date2020-09-05_range5_modecont,115238e8-90bc-4acc-904c-3bbcd3deecf2,BULL,cont,5,success,complete
+BULL_date2020-09-05_range10_modecont,f1419eed-3832-47d9-93a2-98115ec6fc76,BULL,cont,10,success,complete
+BULL_date2020-09-05_range15_modecont,e655a88a-a830-4876-be17-b1a6aacaa81a,BULL,cont,15,success,complete
+BULL_date2020-09-05_range21_modecont,5ddb7af3-83cf-414d-b1ef-faa52f43020e,BULL,cont,21,success,complete
+BULL_date2020-09-05_range30_modecont,f30195d4-8349-481a-8a08-130a2727a6be,BULL,cont,30,success,complete
+BULL_date2020-09-05_range45_modecont,a93d1748-65a9-4125-8ad8-636bfe0a3ae7,BULL,cont,45,success,complete
+BULL_date2020-09-05_range60_modecont,4c208714-0027-4565-9d3c-c7498f685584,BULL,cont,60,success,complete
+BULL_date2020-09-05_range90_modecont,a7e02e99-5bfd-4a1b-b254-12582e4952af,BULL,cont,90,success,complete
+WENDY_date2019-10-10_range5_modealarm,4aa61154-d30f-47f0-a686-caecac9c027f,WENDY,alarm,5,success,complete
+WENDY_date2019-10-10_range10_modealarm,f5e4ed07-b1a4-4cd3-b1e8-54a1e7b288f2,WENDY,alarm,10,success,complete
+WENDY_date2019-10-10_range15_modealarm,66856b50-fd5c-4d8a-a9b3-32fd74845d9a,WENDY,alarm,15,success,complete
+WENDY_date2019-10-10_range21_modealarm,a97bc9f3-da21-4af5-a936-d2d69a9404a7,WENDY,alarm,21,success,complete
+WENDY_date2019-10-10_range30_modealarm,c46cda3f-05f1-40a9-8f8e-e9d06f86884a,WENDY,alarm,30,success,complete
+WENDY_date2019-10-10_range45_modealarm,63076e81-6fe7-43d5-ac14-2e3753618924,WENDY,alarm,45,success,complete
+WENDY_date2019-10-10_range60_modealarm,da7635d4-2c7b-4f64-b70f-39944fb7a223,WENDY,alarm,60,success,complete
+WENDY_date2019-10-10_range90_modealarm,88825ce2-2455-4b17-8c9d-2e51b29c84cf,WENDY,alarm,90,success,complete
+WENDY_date2019-10-14_range5_modecont,fba3c8c7-6297-434d-9d96-f078e9b5e201,WENDY,cont,5,success,complete
+WENDY_date2019-10-14_range10_modecont,523c4872-5852-46ce-be56-15d5c8462f18,WENDY,cont,10,success,complete
+WENDY_date2019-10-14_range15_modecont,e8f63deb-8f28-4427-811e-c572e8e9557d,WENDY,cont,15,success,complete
+WENDY_date2019-10-14_range21_modecont,707d4d43-9830-49e4-b03a-3f2f66169270,WENDY,cont,21,success,complete
+WENDY_date2019-10-14_range30_modecont,e0e5e578-f6f2-4ae9-94b9-eb3028c13d17,WENDY,cont,30,success,complete
+WENDY_date2019-10-14_range45_modecont,0f305566-14ee-49fd-81fb-bd5b8793081b,WENDY,cont,45,success,complete
+WENDY_date2019-10-14_range60_modecont,97feae7d-f7be-456b-b00c-bdb78de19473,WENDY,cont,60,success,complete
+WENDY_date2019-10-14_range90_modecont,1fd62b34-4fdd-4e80-89be-d37b13a92e16,WENDY,cont,90,success,complete
+STAR_date1899-12-30_range5_modealarm,2f126cb0-bca4-4ff5-a47c-48062329ddbd,STAR,alarm,5,success,failed
+STAR_date1899-12-30_range10_modealarm,34460c34-2c76-4080-ad3e-e4ce653564b6,STAR,alarm,10,success,failed
+STAR_date1899-12-30_range15_modealarm,8b82360c-0871-4b5b-8018-b9e545c22702,STAR,alarm,15,success,failed
+STAR_date1899-12-30_range21_modealarm,6d30e658-18b7-451d-8d1e-02dcc201909b,STAR,alarm,21,success,failed
+STAR_date1899-12-30_range30_modealarm,959c1cd7-3c96-4f6c-8724-4a37cda048e8,STAR,alarm,30,success,failed
+STAR_date1899-12-30_range45_modealarm,306f7756-ec78-40a3-99dd-5cc87e8b351d,STAR,alarm,45,success,failed
+STAR_date1899-12-30_range60_modealarm,f5ac2079-2aa4-45ed-b5d3-eb7d34b0f336,STAR,alarm,60,success,failed
+STAR_date1899-12-30_range90_modealarm,aebbeff8-3f1f-4caa-b2b0-0cfbfc4d8ac1,STAR,alarm,90,success,failed
+STAR_date1899-12-30_range5_modecont,1f3b76fa-050c-436a-a666-ffdafcb2c255,STAR,cont,5,success,failed
+STAR_date1899-12-30_range10_modecont,bfc05b34-b034-4a83-8aa7-73eb6aecee35,STAR,cont,10,success,failed
+STAR_date1899-12-30_range15_modecont,a56ef5c0-dab4-461e-8cfd-fff555e6a401,STAR,cont,15,success,failed
+STAR_date1899-12-30_range21_modecont,f16c0669-119d-44c4-ab74-b28ab523a9ed,STAR,cont,21,success,failed
+STAR_date1899-12-30_range30_modecont,9838dac9-2f84-41fc-96fd-a4eb588e9881,STAR,cont,30,success,failed
+STAR_date1899-12-30_range45_modecont,c4ab5f3d-76f5-43c1-8a9c-93fad3716e10,STAR,cont,45,success,failed
+STAR_date1899-12-30_range60_modecont,f6398b13-fdc2-4280-8632-f0d854dfaa68,STAR,cont,60,success,failed
+STAR_date1899-12-30_range90_modecont,88bbcb4b-ac14-44f9-ae5f-d6101bc890fb,STAR,cont,90,success,failed
+EDEN_date2018-10-04_range5_modealarm,4e4bcafa-d759-4c37-b84e-176b5416acc6,EDEN,alarm,5,success,complete
+EDEN_date2018-10-04_range10_modealarm,9b8819bb-caca-4b8a-80e1-6cdf7bf40203,EDEN,alarm,10,success,complete
+EDEN_date2018-10-04_range15_modealarm,5eae959c-bab6-49c1-9752-e95248f0386b,EDEN,alarm,15,success,complete
+EDEN_date2018-10-04_range21_modealarm,b3420c96-8596-45d3-944a-632a76216af4,EDEN,alarm,21,success,complete
+EDEN_date2018-10-04_range30_modealarm,0f00d158-863a-4856-94a3-5bd0c216e1ee,EDEN,alarm,30,success,complete
+EDEN_date2018-10-04_range45_modealarm,5df1ac46-64ae-4735-81c2-2401a9314266,EDEN,alarm,45,success,complete
+EDEN_date2018-10-04_range60_modealarm,6f9acd6b-5da6-4ca4-a6e7-718b63f179cf,EDEN,alarm,60,success,complete
+EDEN_date2018-10-04_range90_modealarm,4b005a46-6365-413c-8a5d-ee8cd1ca355c,EDEN,alarm,90,success,complete
+EDEN_date2018-12-04_range5_modecont,db2738b2-e191-4c31-b693-748e6e945fd2,EDEN,cont,5,success,complete
+EDEN_date2018-12-04_range10_modecont,d7b87d3c-63f0-42eb-b15e-8624c8cf9d78,EDEN,cont,10,success,complete
+EDEN_date2018-12-04_range15_modecont,cdb0dd85-f4ed-401f-a251-c9199c0671fc,EDEN,cont,15,success,complete
+EDEN_date2018-12-04_range21_modecont,d3289d14-20f4-4bec-8a99-3f50090c1e02,EDEN,cont,21,success,complete
+EDEN_date2018-12-04_range30_modecont,fbe053e6-c8b9-408c-a216-bdb468b3d990,EDEN,cont,30,success,complete
+EDEN_date2018-12-04_range45_modecont,7546ae54-9992-4699-80ea-0aaf2b9f700d,EDEN,cont,45,success,complete
+EDEN_date2018-12-04_range60_modecont,d68e6053-4cd0-45fa-b863-2caff094d205,EDEN,cont,60,success,complete
+EDEN_date2018-12-04_range90_modecont,88130550-f76a-451b-96fe-f942e779c561,EDEN,cont,90,success,complete
+SANTA CRUZ_date2018-03-27_range5_modealarm,0ed134f9-bee3-4745-9a7d-02b0197cab66,SANTA CRUZ,alarm,5,success,complete
+SANTA CRUZ_date2018-03-27_range10_modealarm,b6c4f3f4-104e-4c1c-ac87-3eb95345f2eb,SANTA CRUZ,alarm,10,success,complete
+SANTA CRUZ_date2018-03-27_range15_modealarm,35d8755d-58c4-4b3a-a3ea-5bd67b7c23c5,SANTA CRUZ,alarm,15,success,complete
+SANTA CRUZ_date2018-03-27_range21_modealarm,cf0ac56b-ebae-4f26-903f-57ce56565825,SANTA CRUZ,alarm,21,success,complete
+SANTA CRUZ_date2018-03-27_range30_modealarm,dce71346-555a-4a9f-bec5-6119e2202063,SANTA CRUZ,alarm,30,success,complete
+SANTA CRUZ_date2018-03-27_range45_modealarm,a4f703d5-5dc0-4335-8dc7-eb21db97284a,SANTA CRUZ,alarm,45,success,complete
+SANTA CRUZ_date2018-03-27_range60_modealarm,6c507c44-2ce1-4a53-9ec7-0ca235086258,SANTA CRUZ,alarm,60,success,complete
+SANTA CRUZ_date2018-03-27_range90_modealarm,4feab670-5d5c-4035-bb62-20e5231d54fb,SANTA CRUZ,alarm,90,success,complete
+SANTA CRUZ_date2018-04-05_range5_modecont,6beb2bef-4d06-4f0c-8b19-611e857d65e1,SANTA CRUZ,cont,5,success,complete
+SANTA CRUZ_date2018-04-05_range10_modecont,0925a44a-f8cd-46ad-9b1b-87b65d5d70d5,SANTA CRUZ,cont,10,success,complete
+SANTA CRUZ_date2018-04-05_range15_modecont,821732f8-9e06-42bd-bbe1-4dcf9c9888f5,SANTA CRUZ,cont,15,success,complete
+SANTA CRUZ_date2018-04-05_range21_modecont,9a98c7e9-a035-4000-beff-9416f1a5a2c7,SANTA CRUZ,cont,21,success,complete
+SANTA CRUZ_date2018-04-05_range30_modecont,7874f2d8-7466-4dc4-be4a-92f8f857348c,SANTA CRUZ,cont,30,success,complete
+SANTA CRUZ_date2018-04-05_range45_modecont,eb82c516-22d3-4326-a442-eae3fdea15d0,SANTA CRUZ,cont,45,success,complete
+SANTA CRUZ_date2018-04-05_range60_modecont,50e4d455-d39f-48d5-9faa-6ec7d35df875,SANTA CRUZ,cont,60,success,complete
+SANTA CRUZ_date2018-04-05_range90_modecont,743e28f1-4e53-49df-8d2f-50e890a48738,SANTA CRUZ,cont,90,success,complete
+NORTH BUBBS_date2018-08-01_range5_modealarm,af5172c3-5a9f-4d94-b0b1-d0f5f053fdd2,NORTH BUBBS,alarm,5,success,complete
+NORTH BUBBS_date2018-08-01_range10_modealarm,f9bb2e23-4cd8-4e23-bfab-9b0af4238c57,NORTH BUBBS,alarm,10,success,complete
+NORTH BUBBS_date2018-08-01_range15_modealarm,c51002e2-df71-4a03-bda6-4657b2c2fe8b,NORTH BUBBS,alarm,15,success,complete
+NORTH BUBBS_date2018-08-01_range21_modealarm,1f98b7c6-73d3-4f5e-87e1-891c131fe49e,NORTH BUBBS,alarm,21,success,complete
+NORTH BUBBS_date2018-08-01_range30_modealarm,b364e3cb-52aa-4e53-9ad5-dc7ef6fbb446,NORTH BUBBS,alarm,30,success,complete
+NORTH BUBBS_date2018-08-01_range45_modealarm,a91680ce-7f8a-4b01-a8ef-6e7fd794c210,NORTH BUBBS,alarm,45,success,complete
+NORTH BUBBS_date2018-08-01_range60_modealarm,1796c344-90ba-4d8b-99fb-9520b302afea,NORTH BUBBS,alarm,60,success,complete
+NORTH BUBBS_date2018-08-01_range90_modealarm,b6f8b4e6-9762-4c99-92d2-171183c01ef2,NORTH BUBBS,alarm,90,success,complete
+NORTH BUBBS_date2018-09-06_range5_modecont,721ef2bc-7dfd-4664-9623-66ed865f571c,NORTH BUBBS,cont,5,success,complete
+NORTH BUBBS_date2018-09-06_range10_modecont,5a8c6386-7b04-41b7-a19e-ede464163dab,NORTH BUBBS,cont,10,success,complete
+NORTH BUBBS_date2018-09-06_range15_modecont,2e2d036d-b652-4a05-98df-cec6e5108954,NORTH BUBBS,cont,15,success,complete
+NORTH BUBBS_date2018-09-06_range21_modecont,2fc2a025-d257-4469-8270-9bce48b59fc0,NORTH BUBBS,cont,21,success,complete
+NORTH BUBBS_date2018-09-06_range30_modecont,e0dc56ad-5457-4f13-909b-8d9d2f73ac56,NORTH BUBBS,cont,30,success,complete
+NORTH BUBBS_date2018-09-06_range45_modecont,3d4555b7-7040-4d4a-8fa4-0b487bb4435f,NORTH BUBBS,cont,45,success,complete
+NORTH BUBBS_date2018-09-06_range60_modecont,071d935a-854c-4602-a880-7a9c4ca8872a,NORTH BUBBS,cont,60,success,complete
+NORTH BUBBS_date2018-09-06_range90_modecont,14291011-5418-4d24-9bcc-5ed143da0e4b,NORTH BUBBS,cont,90,success,complete
+DENNISON_date2018-10-13_range5_modealarm,8d21d9dd-02e9-44ba-8253-6e81030c596b,DENNISON,alarm,5,success,complete
+DENNISON_date2018-10-13_range10_modealarm,33904149-da89-49dc-8033-379dc4f4b2e5,DENNISON,alarm,10,success,complete
+DENNISON_date2018-10-13_range15_modealarm,da8d2522-0e38-4fa0-842d-bc121e1f6825,DENNISON,alarm,15,success,complete
+DENNISON_date2018-10-13_range21_modealarm,f304879e-a9fc-41f4-a1d2-fb3e1d53d01f,DENNISON,alarm,21,success,complete
+DENNISON_date2018-10-13_range30_modealarm,bf84d1ae-16b5-4a2c-90cd-623c69602e66,DENNISON,alarm,30,success,complete
+DENNISON_date2018-10-13_range45_modealarm,4fc15652-90e0-4a71-8cbe-b2d0aefe672e,DENNISON,alarm,45,success,complete
+DENNISON_date2018-10-13_range60_modealarm,cb8ab19b-c5c6-49b7-b8c9-11e41cba07fd,DENNISON,alarm,60,success,complete
+DENNISON_date2018-10-13_range90_modealarm,d5bff6f6-a561-41e9-b2fc-e26a74c93249,DENNISON,alarm,90,success,complete
+DENNISON_date2018-12-04_range5_modecont,f4648034-af71-4a6a-97ec-3c8ec003cd7e,DENNISON,cont,5,success,complete
+DENNISON_date2018-12-04_range10_modecont,6a1bf706-1920-46c9-8d0e-4bfeb79ae59f,DENNISON,cont,10,success,complete
+DENNISON_date2018-12-04_range15_modecont,e7dd9bbc-14c1-48cf-b6e9-34f6abfba3c9,DENNISON,cont,15,success,complete
+DENNISON_date2018-12-04_range21_modecont,a2a8f300-2720-4f68-a7eb-6b69c6fdc49e,DENNISON,cont,21,success,complete
+DENNISON_date2018-12-04_range30_modecont,45dd79eb-c65d-4052-a167-2280401d7a08,DENNISON,cont,30,success,complete
+DENNISON_date2018-12-04_range45_modecont,7f19fee1-4fb2-4576-94eb-d06e7dcc55af,DENNISON,cont,45,success,complete
+DENNISON_date2018-12-04_range60_modecont,a03af2f2-08aa-4943-920b-081e2f08ce36,DENNISON,cont,60,success,complete
+DENNISON_date2018-12-04_range90_modecont,86db3d0d-242f-4b39-8613-0ae99d0c181a,DENNISON,cont,90,success,complete
+HORSE CREEK_date2018-07-19_range5_modealarm,1c3ba944-1b75-4423-966d-ad2b7ca4a7cd,HORSE CREEK,alarm,5,success,complete
+HORSE CREEK_date2018-07-19_range10_modealarm,5a480462-52e8-437e-a983-48d49e1f9fd3,HORSE CREEK,alarm,10,success,complete
+HORSE CREEK_date2018-07-19_range15_modealarm,5ab05003-92d0-4002-8d1d-461a5bc53746,HORSE CREEK,alarm,15,success,complete
+HORSE CREEK_date2018-07-19_range21_modealarm,4b9fa103-c71e-4e17-b824-f7240fcde343,HORSE CREEK,alarm,21,success,complete
+HORSE CREEK_date2018-07-19_range30_modealarm,0b996150-24bf-4a85-9c92-a6ba86fd4717,HORSE CREEK,alarm,30,success,complete
+HORSE CREEK_date2018-07-19_range45_modealarm,4690830e-8bc8-48b4-94b4-9de47d637a35,HORSE CREEK,alarm,45,success,complete
+HORSE CREEK_date2018-07-19_range60_modealarm,4649d701-3d42-4a86-94f0-d13e375b2031,HORSE CREEK,alarm,60,success,complete
+HORSE CREEK_date2018-07-19_range90_modealarm,2de6782b-3f8c-4cf3-aacb-108a75ae3c95,HORSE CREEK,alarm,90,success,complete
+HORSE CREEK_date2018-09-06_range5_modecont,16ee687d-918d-4345-b8cc-d5b4d78fd39b,HORSE CREEK,cont,5,success,complete
+HORSE CREEK_date2018-09-06_range10_modecont,7dce5be6-f7c6-40f8-bed8-d97e5db530b4,HORSE CREEK,cont,10,success,complete
+HORSE CREEK_date2018-09-06_range15_modecont,d9efdb93-27a6-4a1a-bfd7-b6d358473b53,HORSE CREEK,cont,15,success,complete
+HORSE CREEK_date2018-09-06_range21_modecont,aed516d6-b6fe-4f66-8f20-580699d0c2b1,HORSE CREEK,cont,21,success,complete
+HORSE CREEK_date2018-09-06_range30_modecont,512836fa-ca74-4a3c-8040-9c5d21b10e3f,HORSE CREEK,cont,30,success,complete
+HORSE CREEK_date2018-09-06_range45_modecont,82d73959-22eb-4432-a756-0ca8f88ed7d9,HORSE CREEK,cont,45,success,complete
+HORSE CREEK_date2018-09-06_range60_modecont,6f64d7c1-c9b8-43f9-b61a-97be9b361986,HORSE CREEK,cont,60,success,complete
+HORSE CREEK_date2018-09-06_range90_modecont,9620f330-3435-4688-aebf-909d3ef3d641,HORSE CREEK,cont,90,success,complete
+SERRA_date2018-01-29_range5_modealarm,9311c738-5297-4a79-8a04-7c20cfcb0012,SERRA,alarm,5,success,complete
+SERRA_date2018-01-29_range10_modealarm,bd51fa41-5154-4504-b056-f59a309b68e9,SERRA,alarm,10,success,complete
+SERRA_date2018-01-29_range15_modealarm,046b0bfc-c965-4990-b267-8eb72e54bad3,SERRA,alarm,15,success,complete
+SERRA_date2018-01-29_range21_modealarm,84e6e733-8a0c-4792-a7a1-4de48c664c37,SERRA,alarm,21,success,complete
+SERRA_date2018-01-29_range30_modealarm,6af61d00-a4e4-4fe7-b745-769a8099d2a7,SERRA,alarm,30,success,complete
+SERRA_date2018-01-29_range45_modealarm,9a17d8e0-a431-41ec-af6f-3e8325b83583,SERRA,alarm,45,success,complete
+SERRA_date2018-01-29_range60_modealarm,8d273540-9d57-4743-b3f3-b3b0aab8ffda,SERRA,alarm,60,success,complete
+SERRA_date2018-01-29_range90_modealarm,a0c7b6b1-e5f1-4eec-976b-b3539695e3ce,SERRA,alarm,90,success,complete
+SERRA_date2018-01-30_range5_modecont,007a6ac7-ef08-4523-a348-49ee83a1895d,SERRA,cont,5,success,complete
+SERRA_date2018-01-30_range10_modecont,96b1e936-2abe-4f03-909d-cc9ed06e9630,SERRA,cont,10,success,complete
+SERRA_date2018-01-30_range15_modecont,7f1b7049-c5d8-4af9-94f3-1eefbee8904c,SERRA,cont,15,success,complete
+SERRA_date2018-01-30_range21_modecont,3825198d-dd9b-4ff3-a723-de920eea5be4,SERRA,cont,21,success,complete
+SERRA_date2018-01-30_range30_modecont,5f330bdc-b7d3-4288-a7e9-eb6fc2ba29b7,SERRA,cont,30,success,complete
+SERRA_date2018-01-30_range45_modecont,e874311c-86a1-4286-bc8c-b48b865ad7f7,SERRA,cont,45,success,complete
+SERRA_date2018-01-30_range60_modecont,6fe44221-6349-4a99-b967-b7579c512438,SERRA,cont,60,success,complete
+SERRA_date2018-01-30_range90_modecont,3ca2d8f1-7a69-47c1-8ea9-9390a3ea65fe,SERRA,cont,90,success,complete
+THARPS_date2018-10-12_range5_modealarm,f8504887-5a16-45e2-a8b5-0c6e936885c4,THARPS,alarm,5,success,complete
+THARPS_date2018-10-12_range10_modealarm,6f764fd6-0a71-4dd9-bfe7-0dd659c3c2f2,THARPS,alarm,10,success,complete
+THARPS_date2018-10-12_range15_modealarm,81359a8e-3a73-452f-b02e-7b9e173a7111,THARPS,alarm,15,success,complete
+THARPS_date2018-10-12_range21_modealarm,16dbd057-f947-4c34-8063-be1e1de2ac76,THARPS,alarm,21,success,complete
+THARPS_date2018-10-12_range30_modealarm,33029bb6-7517-4151-b028-ccd0317948f5,THARPS,alarm,30,success,complete
+THARPS_date2018-10-12_range45_modealarm,0a041510-4653-4608-90a1-217d81e886f1,THARPS,alarm,45,success,complete
+THARPS_date2018-10-12_range60_modealarm,312bb14d-cb48-4677-8736-2a51c385f39b,THARPS,alarm,60,success,complete
+THARPS_date2018-10-12_range90_modealarm,aa360e06-df50-494a-9218-32b0adf799a0,THARPS,alarm,90,success,complete
+THARPS_date2018-11-28_range5_modecont,6aeb0afb-7e39-45b6-9421-576a652dfb6a,THARPS,cont,5,success,complete
+THARPS_date2018-11-28_range10_modecont,d2b85468-6185-43a0-9145-ea38325e524e,THARPS,cont,10,success,complete
+THARPS_date2018-11-28_range15_modecont,3cb43e00-9896-4e7f-9041-7cfde143316a,THARPS,cont,15,success,complete
+THARPS_date2018-11-28_range21_modecont,665005f0-64fd-4718-b00a-12856f6993dc,THARPS,cont,21,success,complete
+THARPS_date2018-11-28_range30_modecont,3a2a213b-737d-4c9f-9b0f-df9b3e1f7599,THARPS,cont,30,success,complete
+THARPS_date2018-11-28_range45_modecont,506739fe-680c-4185-9c7a-4870dfc8ff05,THARPS,cont,45,success,complete
+THARPS_date2018-11-28_range60_modecont,e3fae076-cf4f-445e-a7b8-a6587df56616,THARPS,cont,60,success,complete
+THARPS_date2018-11-28_range90_modecont,68ac198a-ea9d-44a7-849f-06c7ba532b56,THARPS,cont,90,success,complete
+KNOLLS_date2018-10-19_range5_modealarm,c487de59-1ee4-43ec-8e64-fb93310fa48c,KNOLLS,alarm,5,success,complete
+KNOLLS_date2018-10-19_range10_modealarm,59f6c4c9-a819-4cdf-ab7a-2d2fd9dd8310,KNOLLS,alarm,10,success,complete
+KNOLLS_date2018-10-19_range15_modealarm,8daefcd8-ac6c-4594-a379-f03fbb0b44e7,KNOLLS,alarm,15,success,complete
+KNOLLS_date2018-10-19_range21_modealarm,1573c04a-6f04-4985-8114-a18589bb98cc,KNOLLS,alarm,21,success,complete
+KNOLLS_date2018-10-19_range30_modealarm,246356bb-b477-45e0-84d6-5cb7afc0124b,KNOLLS,alarm,30,success,complete
+KNOLLS_date2018-10-19_range45_modealarm,4b5641f8-9bec-4d02-b453-2afcd46e8236,KNOLLS,alarm,45,success,complete
+KNOLLS_date2018-10-19_range60_modealarm,8f8f0258-b4ae-4702-98c9-94ce675dcf73,KNOLLS,alarm,60,success,complete
+KNOLLS_date2018-10-19_range90_modealarm,e0570b49-8fad-4a40-8ad3-a3cc4fa924bc,KNOLLS,alarm,90,success,complete
+KNOLLS_date2018-10-20_range5_modecont,a5e96b57-7b8a-42c7-b389-a965ac412670,KNOLLS,cont,5,success,complete
+KNOLLS_date2018-10-20_range10_modecont,55c6a762-b34e-48d6-8ab0-c4e8ea669cfe,KNOLLS,cont,10,success,complete
+KNOLLS_date2018-10-20_range15_modecont,b1d8f1a5-488e-43e7-bd5d-9a8a95c3a366,KNOLLS,cont,15,success,complete
+KNOLLS_date2018-10-20_range21_modecont,50a23de9-a4aa-49c5-ac56-d02a9af1c72f,KNOLLS,cont,21,success,complete
+KNOLLS_date2018-10-20_range30_modecont,5066d281-f5dd-4013-8436-e7e73a84d954,KNOLLS,cont,30,success,complete
+KNOLLS_date2018-10-20_range45_modecont,18b0a593-d147-42b3-a192-2ee8b590bf58,KNOLLS,cont,45,success,complete
+KNOLLS_date2018-10-20_range60_modecont,7bdc0fb4-fab6-468a-8c21-53e561bb994d,KNOLLS,cont,60,success,complete
+KNOLLS_date2018-10-20_range90_modecont,17c1e8c9-4565-4eec-b192-8f281a339bc7,KNOLLS,cont,90,success,complete
+CORNELL_date2018-05-29_range5_modealarm,d71ae3c5-8b13-433a-b00f-507977582275,CORNELL,alarm,5,success,complete
+CORNELL_date2018-05-29_range10_modealarm,323a56ae-af0c-4212-b786-93022f09564e,CORNELL,alarm,10,success,complete
+CORNELL_date2018-05-29_range15_modealarm,f6d677ee-fc8a-48d4-8e82-7b0b581867ad,CORNELL,alarm,15,success,complete
+CORNELL_date2018-05-29_range21_modealarm,4bf9b177-d73e-4f8a-a45a-4aca1800dbd1,CORNELL,alarm,21,success,complete
+CORNELL_date2018-05-29_range30_modealarm,30e63518-2546-4a68-ab2a-87116a92ab72,CORNELL,alarm,30,success,complete
+CORNELL_date2018-05-29_range45_modealarm,2f7b16ec-fa69-4e62-9e66-b66cbcdd3bae,CORNELL,alarm,45,success,complete
+CORNELL_date2018-05-29_range60_modealarm,e114ba8a-73ca-4acf-b427-31f0dc4fcb61,CORNELL,alarm,60,success,complete
+CORNELL_date2018-05-29_range90_modealarm,632c1c19-1b10-44f0-9e0a-3d3b80914898,CORNELL,alarm,90,success,complete
+CORNELL_date2018-05-30_range5_modecont,009ffaba-3a5d-43c7-b0ae-b988dea744f5,CORNELL,cont,5,success,complete
+CORNELL_date2018-05-30_range10_modecont,6540755d-d4d5-4378-a076-49da5b149b53,CORNELL,cont,10,success,complete
+CORNELL_date2018-05-30_range15_modecont,7c8dc31e-79cb-4a57-a922-ee79c40f882b,CORNELL,cont,15,success,complete
+CORNELL_date2018-05-30_range21_modecont,45777277-12ae-490e-add3-e2a6c07f5ae5,CORNELL,cont,21,success,complete
+CORNELL_date2018-05-30_range30_modecont,ab0cc89e-5332-49a5-9442-667e1fa43dd7,CORNELL,cont,30,success,complete
+CORNELL_date2018-05-30_range45_modecont,f8c6b443-1964-44b6-94c4-18268a7cf26e,CORNELL,cont,45,success,complete
+CORNELL_date2018-05-30_range60_modecont,79a54f62-952b-4b0c-8633-eab780a0c45f,CORNELL,cont,60,success,complete
+CORNELL_date2018-05-30_range90_modecont,29e73307-599a-4e1d-9b73-f0bb0c20666f,CORNELL,cont,90,success,complete
+NORTH GUARD_date2017-07-18_range5_modealarm,a362bca6-d798-4321-8a1d-bf0a02d83b40,NORTH GUARD,alarm,5,success,complete
+NORTH GUARD_date2017-07-18_range10_modealarm,6e1a6c1a-2950-4bb5-9847-a3b4a8aaa9d6,NORTH GUARD,alarm,10,success,complete
+NORTH GUARD_date2017-07-18_range15_modealarm,c5b96f6e-aada-4ec0-ae88-ad2ee36d94fb,NORTH GUARD,alarm,15,success,complete
+NORTH GUARD_date2017-07-18_range21_modealarm,91f78ac7-0076-44a1-8692-928b778e4a83,NORTH GUARD,alarm,21,success,complete
+NORTH GUARD_date2017-07-18_range30_modealarm,a6c5272d-77eb-4412-adac-520386f7b51c,NORTH GUARD,alarm,30,success,complete
+NORTH GUARD_date2017-07-18_range45_modealarm,a97af93c-1f83-447d-9e65-ac9a38e93b74,NORTH GUARD,alarm,45,success,complete
+NORTH GUARD_date2017-07-18_range60_modealarm,9dd198df-0364-4933-86fc-e0ba3b32da7b,NORTH GUARD,alarm,60,success,complete
+NORTH GUARD_date2017-07-18_range90_modealarm,b095ea78-a932-4c8c-9328-5dbe160d4621,NORTH GUARD,alarm,90,success,complete
+NORTH GUARD_date2017-11-27_range5_modecont,e9416f0a-7c8a-4b28-9c54-28f13f27df2b,NORTH GUARD,cont,5,success,complete
+NORTH GUARD_date2017-11-27_range10_modecont,0bea5310-2696-4286-8a9c-f1c116043b17,NORTH GUARD,cont,10,success,complete
+NORTH GUARD_date2017-11-27_range15_modecont,bdf85205-11b7-4675-8a62-92faad799020,NORTH GUARD,cont,15,success,complete
+NORTH GUARD_date2017-11-27_range21_modecont,b9f641bf-0342-46e6-a97f-47e7b8f0bc69,NORTH GUARD,cont,21,success,complete
+NORTH GUARD_date2017-11-27_range30_modecont,7411840a-3fee-4c9c-b0f4-8fa4ee7fa02a,NORTH GUARD,cont,30,success,complete
+NORTH GUARD_date2017-11-27_range45_modecont,477dcdfa-bd73-401c-973f-6abf476d31f8,NORTH GUARD,cont,45,success,complete
+NORTH GUARD_date2017-11-27_range60_modecont,39bb0a40-0ffb-4c3b-a814-e80afbe26807,NORTH GUARD,cont,60,success,complete
+NORTH GUARD_date2017-11-27_range90_modecont,2111d1ed-0021-4f03-accc-2e568f8cb3c2,NORTH GUARD,cont,90,success,complete
+GRANITE_date2017-07-08_range5_modealarm,9be90028-7730-4bc9-b69e-aa3c71812d20,GRANITE,alarm,5,success,complete
+GRANITE_date2017-07-08_range10_modealarm,f8aeed5c-e24a-4a7c-9e42-9d6154ce2eae,GRANITE,alarm,10,success,complete
+GRANITE_date2017-07-08_range15_modealarm,ad5bbcc2-1faf-4270-acc8-b0f4788de154,GRANITE,alarm,15,success,complete
+GRANITE_date2017-07-08_range21_modealarm,e2df5ab0-6075-41b9-90e3-37a78a3cbcdb,GRANITE,alarm,21,success,complete
+GRANITE_date2017-07-08_range30_modealarm,7eb39bf0-3c7f-4482-b122-62e0b85640b2,GRANITE,alarm,30,success,complete
+GRANITE_date2017-07-08_range45_modealarm,bc1284ab-11cd-40a7-9256-4366c8044f23,GRANITE,alarm,45,success,complete
+GRANITE_date2017-07-08_range60_modealarm,e0e9cbd9-7948-4757-a169-51cb56a2dbf3,GRANITE,alarm,60,success,complete
+GRANITE_date2017-07-08_range90_modealarm,e1f0df21-1aa8-402c-9957-e22e512a0654,GRANITE,alarm,90,success,complete
+GRANITE_date2017-07-11_range5_modecont,77ab83c8-670b-45e7-9697-f79e8bd7c522,GRANITE,cont,5,success,complete
+GRANITE_date2017-07-11_range10_modecont,7efd57df-dd49-4b5d-88c0-6de6f8ba9cc1,GRANITE,cont,10,success,complete
+GRANITE_date2017-07-11_range15_modecont,d2837207-5a49-4d00-8042-595dce3e64e1,GRANITE,cont,15,success,complete
+GRANITE_date2017-07-11_range21_modecont,cae8f809-01a3-47bb-8491-cc8d3384856e,GRANITE,cont,21,success,complete
+GRANITE_date2017-07-11_range30_modecont,1f094878-53cc-4b6b-9b6f-54052c380369,GRANITE,cont,30,success,complete
+GRANITE_date2017-07-11_range45_modecont,758131ae-8a72-477f-877d-fef531098f24,GRANITE,cont,45,success,complete
+GRANITE_date2017-07-11_range60_modecont,dc2f2b9a-9602-4bed-9bd0-2da8f074d1f2,GRANITE,cont,60,success,complete
+GRANITE_date2017-07-11_range90_modecont,7bbbcbce-c51c-44ac-a91b-ac5e175ffc50,GRANITE,cont,90,success,complete
+FORD LAKE_date2017-07-10_range5_modealarm,0ba6323f-0c39-4a6e-a7da-f44177cfe5eb,FORD LAKE,alarm,5,success,complete
+FORD LAKE_date2017-07-10_range10_modealarm,4dd1f77f-02c4-4a95-9ceb-ee020d7299c7,FORD LAKE,alarm,10,success,complete
+FORD LAKE_date2017-07-10_range15_modealarm,5e18d48c-6d00-460d-9b7c-54a2e0879e5d,FORD LAKE,alarm,15,success,complete
+FORD LAKE_date2017-07-10_range21_modealarm,b2f01d32-3efb-479c-8946-e30b2adc9fb5,FORD LAKE,alarm,21,success,complete
+FORD LAKE_date2017-07-10_range30_modealarm,fd102000-2cc0-4007-abab-daf0a74b99a0,FORD LAKE,alarm,30,success,complete
+FORD LAKE_date2017-07-10_range45_modealarm,09a3833b-37c0-4f9d-addf-8347510b16d7,FORD LAKE,alarm,45,success,complete
+FORD LAKE_date2017-07-10_range60_modealarm,dd3ab42e-e366-4f7d-9a29-2ad7e49e7dc5,FORD LAKE,alarm,60,success,complete
+FORD LAKE_date2017-07-10_range90_modealarm,2be79992-e0ba-467f-b61c-a0a9460d4915,FORD LAKE,alarm,90,success,complete
+FORD LAKE_date2017-07-11_range5_modecont,1a1ef1bf-23f2-4011-9203-1d26de2dabdf,FORD LAKE,cont,5,success,complete
+FORD LAKE_date2017-07-11_range10_modecont,3778689d-7a91-4218-b887-0621582c1a45,FORD LAKE,cont,10,success,complete
+FORD LAKE_date2017-07-11_range15_modecont,663aa559-8203-436e-894a-158f72013a5d,FORD LAKE,cont,15,success,complete
+FORD LAKE_date2017-07-11_range21_modecont,e4c1016a-b34e-428d-8ff7-b01b8257f78c,FORD LAKE,cont,21,success,complete
+FORD LAKE_date2017-07-11_range30_modecont,aa0dc4c8-6799-4c94-b78f-b804b5baafe4,FORD LAKE,cont,30,success,complete
+FORD LAKE_date2017-07-11_range45_modecont,b1b02247-8e09-4c53-ad62-e4dc1205e291,FORD LAKE,cont,45,success,complete
+FORD LAKE_date2017-07-11_range60_modecont,417c0e25-d4d9-4ec5-bd83-42cbe7824e3d,FORD LAKE,cont,60,success,complete
+FORD LAKE_date2017-07-11_range90_modecont,dc3125b6-953e-40e0-a149-1fb8c2a29f13,FORD LAKE,cont,90,success,complete
+YUCCA_date2016-11-05_range5_modealarm,17999f4e-a22e-4133-aca4-162e5222425a,YUCCA,alarm,5,success,complete
+YUCCA_date2016-11-05_range10_modealarm,61662094-4563-438f-b165-67f8d00ade9b,YUCCA,alarm,10,success,complete
+YUCCA_date2016-11-05_range15_modealarm,e50bb35b-5740-4e89-abc8-366bc008b9d6,YUCCA,alarm,15,success,complete
+YUCCA_date2016-11-05_range21_modealarm,b255694c-2dcf-4b60-9f3b-6158f4abd5a7,YUCCA,alarm,21,success,complete
+YUCCA_date2016-11-05_range30_modealarm,789aeafd-e136-4454-9904-df5880b57b37,YUCCA,alarm,30,success,complete
+YUCCA_date2016-11-05_range45_modealarm,44409dd5-a470-4206-9bc3-994849fc618f,YUCCA,alarm,45,success,complete
+YUCCA_date2016-11-05_range60_modealarm,83e461a8-e889-4ce8-81d4-93170bf54a89,YUCCA,alarm,60,success,complete
+YUCCA_date2016-11-05_range90_modealarm,935dcf70-d911-40e9-b133-ab8fcbde25f7,YUCCA,alarm,90,success,failed
+YUCCA_date2016-11-15_range5_modecont,479bcd95-eb3c-4260-9f2e-b71dc2cff431,YUCCA,cont,5,success,failed
+YUCCA_date2016-11-15_range10_modecont,d4021b6a-79e7-4cba-b903-07007d74aeb2,YUCCA,cont,10,success,failed
+YUCCA_date2016-11-15_range15_modecont,d4f2c6ef-5cc3-4bf8-80ba-fa7002241945,YUCCA,cont,15,success,complete
+YUCCA_date2016-11-15_range21_modecont,3fa73b34-ce29-494e-8264-7c40e1ecac2b,YUCCA,cont,21,success,complete
+YUCCA_date2016-11-15_range30_modecont,aeeeab68-c3ce-4cc5-bbad-b1f6fad19044,YUCCA,cont,30,success,complete
+YUCCA_date2016-11-15_range45_modecont,0791afd4-bec3-45ae-a317-9fb0ba0237f6,YUCCA,cont,45,success,complete
+YUCCA_date2016-11-15_range60_modecont,09db06dd-91f8-4704-89f6-6f6bf3276943,YUCCA,cont,60,success,complete
+YUCCA_date2016-11-15_range90_modecont,b760a17b-3fc5-441d-92a0-f3e0a6369455,YUCCA,cont,90,success,failed
+MULHOLLAND_date2016-02-25_range5_modealarm,3091560d-af36-4421-9b62-be0e86e16b05,MULHOLLAND,alarm,5,success,failed
+MULHOLLAND_date2016-02-25_range10_modealarm,353ae86f-3a60-4036-b06d-dde0d177bf3a,MULHOLLAND,alarm,10,success,failed
+MULHOLLAND_date2016-02-25_range15_modealarm,7b1c471c-8c25-4254-88c4-7460eaf7554c,MULHOLLAND,alarm,15,success,failed
+MULHOLLAND_date2016-02-25_range21_modealarm,36cf51c6-d780-4d34-ad6b-5f42c11a4327,MULHOLLAND,alarm,21,success,complete
+MULHOLLAND_date2016-02-25_range30_modealarm,721925b2-6cc2-4994-a5ac-1d65cf333b9a,MULHOLLAND,alarm,30,success,complete
+MULHOLLAND_date2016-02-25_range45_modealarm,485585c7-fac1-4972-b0f3-998e838e86b7,MULHOLLAND,alarm,45,success,complete
+MULHOLLAND_date2016-02-25_range60_modealarm,0ee8c9b9-fd08-441b-9fd3-ec693c6d842a,MULHOLLAND,alarm,60,success,complete
+MULHOLLAND_date2016-02-25_range90_modealarm,b82cd269-90b9-42fd-a34e-15707a7f5510,MULHOLLAND,alarm,90,success,complete
+MULHOLLAND_date2016-02-28_range5_modecont,d086dddb-d19a-47b7-bde0-bb22b371e4f3,MULHOLLAND,cont,5,success,failed
+MULHOLLAND_date2016-02-28_range10_modecont,feb59c36-1302-4b5a-a53f-7d257f69769f,MULHOLLAND,cont,10,success,failed
+MULHOLLAND_date2016-02-28_range15_modecont,6bf6b36c-6d29-49bd-9662-65ce1775a777,MULHOLLAND,cont,15,success,complete
+MULHOLLAND_date2016-02-28_range21_modecont,eba0189b-3ba2-4d41-9fa6-f6e42b3c3ec8,MULHOLLAND,cont,21,success,complete
+MULHOLLAND_date2016-02-28_range30_modecont,670a6e4d-aecf-4ab4-8375-796627d0da7a,MULHOLLAND,cont,30,success,complete
+MULHOLLAND_date2016-02-28_range45_modecont,84c7a72b-084a-4e5f-bae4-ff7d89a3988d,MULHOLLAND,cont,45,success,complete
+MULHOLLAND_date2016-02-28_range60_modecont,3c2068e6-abae-4e28-bb6a-bd578a61f0c2,MULHOLLAND,cont,60,success,complete
+MULHOLLAND_date2016-02-28_range90_modecont,d2782f6a-178f-42bf-a5ea-17a49a773f46,MULHOLLAND,cont,90,success,complete
+COAST_date2016-12-02_range5_modealarm,a7d4ad31-abe6-44c1-aaee-ca883e6ef01c,COAST,alarm,5,success,complete
+COAST_date2016-12-02_range10_modealarm,637c872a-19df-42cb-bdf0-d84a68f88836,COAST,alarm,10,success,complete
+COAST_date2016-12-02_range15_modealarm,957b18e1-10bf-47ff-80a0-e1fa39247fe7,COAST,alarm,15,success,complete
+COAST_date2016-12-02_range21_modealarm,6c38d611-b053-48f2-bb68-4e01ca7ba43c,COAST,alarm,21,success,complete
+COAST_date2016-12-02_range30_modealarm,584a005e-307c-4db9-9358-b5eee797a024,COAST,alarm,30,success,complete
+COAST_date2016-12-02_range45_modealarm,f6e71754-75c4-451c-9340-e40d4c643599,COAST,alarm,45,success,failed
+COAST_date2016-12-02_range60_modealarm,63ce099c-0719-4310-bc65-645ed9ece572,COAST,alarm,60,success,failed
+COAST_date2016-12-02_range90_modealarm,02d5d595-ab59-4e67-ba38-32aba392ee24,COAST,alarm,90,success,failed
+COAST_date2016-12-02_range5_modecont,31d9c9fa-7b8b-4b97-ad50-db7b109d07f0,COAST,cont,5,success,complete
+COAST_date2016-12-02_range10_modecont,cb095b7c-8a23-44c6-808c-1b243373479c,COAST,cont,10,success,complete
+COAST_date2016-12-02_range15_modecont,568a9f54-169d-4f22-a5f2-312e2227df1d,COAST,cont,15,success,complete
+COAST_date2016-12-02_range21_modecont,fa62c39a-c860-45db-8b6e-203a7e1e14f6,COAST,cont,21,success,complete
+COAST_date2016-12-02_range30_modecont,f9d375f6-8b1e-4638-ae19-d64d0dca1a24,COAST,cont,30,success,complete
+COAST_date2016-12-02_range45_modecont,619ad160-abc5-4419-8b0c-e8cf596d0590,COAST,cont,45,success,failed
+COAST_date2016-12-02_range60_modecont,7da5090a-3b25-48ba-81f8-894c0e83b070,COAST,cont,60,success,failed
+COAST_date2016-12-02_range90_modecont,4c45c0f2-ee87-478f-b167-b616495fc7b2,COAST,cont,90,success,failed
+LIBERTY CANYON_date2016-11-05_range5_modealarm,de47ba3c-9e72-401a-a4b2-0841d1ef1927,LIBERTY CANYON,alarm,5,success,complete
+LIBERTY CANYON_date2016-11-05_range10_modealarm,260c2562-72d8-4481-b062-0f51cf106e3c,LIBERTY CANYON,alarm,10,success,complete
+LIBERTY CANYON_date2016-11-05_range15_modealarm,0fe8fd8a-d180-40b6-ae4b-ce1700b69649,LIBERTY CANYON,alarm,15,success,complete
+LIBERTY CANYON_date2016-11-05_range21_modealarm,235c39ff-4e52-4f99-a234-b55fe5e9317c,LIBERTY CANYON,alarm,21,success,complete
+LIBERTY CANYON_date2016-11-05_range30_modealarm,ca7b49f5-67d2-46ed-8d60-30deccc1c5d7,LIBERTY CANYON,alarm,30,success,complete
+LIBERTY CANYON_date2016-11-05_range45_modealarm,3e80a05e-df19-4628-b47a-0ea23d42fd50,LIBERTY CANYON,alarm,45,success,complete
+LIBERTY CANYON_date2016-11-05_range60_modealarm,681a1147-737d-471c-8a53-e5338a8caebf,LIBERTY CANYON,alarm,60,success,failed
+LIBERTY CANYON_date2016-11-05_range90_modealarm,85c1639c-70a6-4db2-a55f-f8772c0bf88a,LIBERTY CANYON,alarm,90,success,failed
+LIBERTY CANYON_date2016-11-05_range5_modecont,9d023d54-caef-48ee-89e5-a70133484b76,LIBERTY CANYON,cont,5,success,complete
+LIBERTY CANYON_date2016-11-05_range10_modecont,c521ebd4-d1fb-4641-abc6-931cd680d593,LIBERTY CANYON,cont,10,success,complete
+LIBERTY CANYON_date2016-11-05_range15_modecont,6cd493d8-0d52-4094-94ae-a9dbf6cabab3,LIBERTY CANYON,cont,15,success,complete
+LIBERTY CANYON_date2016-11-05_range21_modecont,b39bdd79-9245-4cc9-9828-e0704dc0f088,LIBERTY CANYON,cont,21,success,complete
+LIBERTY CANYON_date2016-11-05_range30_modecont,90bcb475-2340-4554-ad80-b75f7f142799,LIBERTY CANYON,cont,30,success,complete
+LIBERTY CANYON_date2016-11-05_range45_modecont,e83fb764-852c-4a2a-8847-ca82863c1918,LIBERTY CANYON,cont,45,success,complete
+LIBERTY CANYON_date2016-11-05_range60_modecont,edcafa48-8fb2-4a37-b50b-e1ab2ee0e01b,LIBERTY CANYON,cont,60,success,failed
+LIBERTY CANYON_date2016-11-05_range90_modecont,cd82d977-00a4-42e0-acea-4f3d8a4c6aa4,LIBERTY CANYON,cont,90,success,failed

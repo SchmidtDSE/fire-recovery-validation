@@ -31,45 +31,13 @@ Generates validation figures.
 ### 5. Reference data (`validation.py`, `validation.R`)
 Helper scripts for loading and aligning reference burn severity data.
 
-## Reference Data (BAER / MTBS)
+## Reference Data from BAER (Burned Area Emergency Response)
 
 Validation reference data comes from USGS burn severity products:
 
-- **BAER (Burned Area Emergency Response):** Soil burn severity (SBS) maps created 1–7 days after fire containment. Viewer: https://burnseverity.cr.usgs.gov/viewer/?product=BAER
+**BAER (Burned Area Emergency Response):** Soil burn severity (SBS) maps created 1–7 days after fire containment. Viewer: https://burnseverity.cr.usgs.gov/viewer/?product=BAER
 
-- **MTBS (Monitoring Trends in Burn Severity):** Satellite-derived burn severity with ~2 year processing lag. Accessible via WFS: `https://edcintl.cr.usgs.gov/geoserver/wfs` (layer: `mtbs:burn_severity_fire_polygons`). Usable for fires up to ~2022.
-
-### BAER API (undocumented)
-
-The download page at https://burnseverity.cr.usgs.gov/baer/baer-imagery-support-data-download renders its tables in JavaScript, but the underlying data endpoint is:
-
-```
-GET https://burnseverity.cr.usgs.gov/baer/api/form/baer-downloads?year=YYYY
-```
-
-Returns JSON with structure `data.items` → list of region objects, each with `items` → list of fire records. Key fields per fire record:
-
-| Field | Example |
-|---|---|
-| `fire_name` | `"Sentinel (CA 2024)"` |
-| `fire_id` | `"CA3661611828020240714"` |
-| `ignition_date` | `"07/14/2024"` |
-| `field_state` | `"California"` (full name, not abbreviation) |
-| `administrative_unit` | `"Joshua Tree National Park"` |
-| `soil_burn_file_url` | `https://edcintl.cr.usgs.gov/.../..._sbs.zip` |
-| `preliminary_file_url` | `https://edcintl.cr.usgs.gov/.../..._preliminary.zip` |
-
-Filter for California fires with `field_state == "California"` (the field is the full state name).
-
-The `download_baer.py` script automates fetching this API and downloading SBS zips to `baer_downloads/`.
-
-### BAER coverage for our NPS fires
-
-**Key finding (March 2026):** This BAER database is a USFS product — every `administrative_unit` in the catalogue is a National Forest. NPS-managed lands (Joshua Tree NP, Mojave NP, Kings Canyon NP, Channel Islands NP, Santa Monica Mtns NRA) do not appear at all. This is a coverage issue, not a name-matching issue.
-
-Matching was attempted using all three criteria simultaneously (state = California, fuzzy name match, ignition date within 30 days) via `baer_match.py`. Across 182 CA BAER records for years 2016–2024, only 1 apparent match was returned — a false positive (our `BULL` → BAER `Bullfrog`, Inyo National Forest). None of our actual NPS fires have a BAER record.
-
-**Bottom line: BAER (burnseverity.cr.usgs.gov) is the wrong source for NPS fires.** MTBS is the correct alternative for 2015–2022 fires. For 2023–2024, NPS may have internal burn severity assessments — check NPS Fire & Aviation or Data Store directly.
+BAER data was manually downloaded for all fires where they are available from the viewer. The resolution of these data is 30 m, while ours is 10, so we'll resample ours to theirs. 
 
 ### Name-matching notes
 

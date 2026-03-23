@@ -99,16 +99,20 @@ def plot_fire(fire_name, fire_days, fire_polygon, fires):
     plt.show()
 
 
-def process_fire_metrics(fire_name, fire_days, fires, calfire):
+def process_fire_metrics(fire_name, fire_days, date_mode, fires, calfire):
     """
-    Process fire severity metrics for a given fire and post-fire days.
+    Process fire severity metrics for a given fire, post-fire days, and date mode.
     
     Returns:
     - list of dicts (one per metric: dnbr, rbr), or False if job not complete/error
     """
     
     # Get fire_event_name and job_id
-    fire_rows = fires.loc[(fires['fire_name'] == fire_name) & (fires['post_fire_days'] == fire_days)]
+    fire_rows = fires.loc[
+        (fires['fire_name'] == fire_name) &
+        (fires['post_fire_days'] == fire_days) &
+        (fires['date_mode'] == date_mode)
+    ]
     if len(fire_rows) == 0:
         print(f"  Warning: No job found for {fire_name} at {fire_days} days")
         return False
@@ -201,6 +205,7 @@ def process_fire_metrics(fire_name, fire_days, fires, calfire):
                 results.append({
                     'fire_name': fire_name,
                     'fire_days': fire_days,
+                    'date_mode': date_mode,
                     'fire_event_name': fire_event_name,
                     'metric': metric_name,
                     'calfire_mean': calfire_mean,

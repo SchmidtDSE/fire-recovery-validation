@@ -32,7 +32,8 @@ calculate_intersection = function(i, df) {
     fire_name = row$fire_name,
     fire_days = row$fire_days,
     metric = row$metric,
-    percent_overlap = pct
+    percent_overlap = pct,
+    date_mode = row$date_mode
   )
 }
 
@@ -40,7 +41,7 @@ calculate_intersection = function(i, df) {
 calculate_overlap = function(df_dnbr, calfire) {
   
   df_filtered_dnbr = df_dnbr %>%
-    select(fire_name, fire_days, metric, geom) %>%
+    select(fire_name, fire_days, metric, geom, date_mode) %>%
     st_make_valid()
   
   overlap_results_dnbr = map_dfr(1:nrow(df_filtered_dnbr), ~calculate_intersection(.x, df_filtered_dnbr))
@@ -49,10 +50,20 @@ calculate_overlap = function(df_dnbr, calfire) {
     mutate(UNIT_ID = 'All Parks')
   
   results2 = overlap_results_dnbr %>%
-    left_join(select(calfire, c("fire_name", "UNIT_ID")))
+    left_join(select(calfire, c("fire_name", "UNIT_ID"))) %>%
+    filter(!is.na(date_mode)) %>%
+    mutate(date_mode = if_else(date_mode == 'alarm', 'Days after Alarm Date', 'Date after Containment')) %>%
+    mutate(date_mode = factor(date_mode, levels = c('Days after Alarm Date', 'Date after Containment')))
   
+  (p1 = ggplot() + theme_bw() +
+      facet_wrap(UNIT_ID~date_mode, ncol = 2) +
+      geom_line(data = results2, aes(x = fire_days, y = percent_overlap, group = fire_name), color = 'grey70') +
+      geom_point(data = results2, aes(x = fire_days, y = percent_overlap, color = UNIT_ID)) +
+      scale_y_continuous(limits = c(0, 100), expand = c(0,0), 'Overlap with Calfire boundaries in %') +
+      scale_color_scico_d(palette = 'lajolla', begin = .3 ))
+      
   
-  p = ggplot() + theme_bw() +
+  (p2 = ggplot() + theme_bw() +
     ggtitle('Agreement with Calfire Boundaries per park') +
     geom_boxplot(data = results1, aes(x = UNIT_ID, y = percent_overlap, fill = UNIT_ID), fill = 'grey80') +
     geom_boxplot(data = results2, aes(x = UNIT_ID, y = percent_overlap, fill = UNIT_ID)) +
@@ -62,7 +73,7 @@ calculate_overlap = function(df_dnbr, calfire) {
     scale_fill_scico_d(palette = 'lajolla', guide = 'none', begin = .3 ) +
     theme(axis.text.x = element_text(angle = 45, hjust = 1),
           text = element_text(size = 14),
-          legend.position = 'None')
+          legend.position = 'None'))
   
   return(p)
   
@@ -160,6 +171,30 @@ diagnostics = function(df_metric, calfire) {
   
   return(p)
 }
+
+
+#####
+
+correlation = read_csv("dnbr_r2_results.csv") %>%
+  filter(!is.na(r_squared)) %>%
+  left_join(select(calfire, c("fire_name", "UNIT_ID"))) %>%
+  mutate(date_mode = if_else(date_mode == 'alarm', 'Days after Alarm Date', 'Date after Containment')) %>%
+  mutate(date_mode = factor(date_mode, levels = c('Days after Alarm Date', 'Date after Containment')),
+         fire_name = paste0(fire_name, ' (', UNIT_ID, ')'))
+
+ggplot() + theme_bw() +
+  facet_wrap(~date_mode, ncol = 2) +
+  geom_point(data = correlation, aes(x = date_after_fire, y = r_squared, color = fire_name, shape = fire_name),
+             size = 2) +
+  geom_line(data = correlation, aes(x = date_after_fire, y = r_squared, color = fire_name), 
+            linewidth = .5, linetype = 'dotted') +
+  geom_smooth(data = correlation, aes(x = date_after_fire, y = r_squared), 
+              method = 'loess', color = 'black', alpha = 0.1, linewidth = .75) +
+  scico::scale_color_scico_d(palette = 'batlow', begin = .3, end = .8, name = 'Fire Name') +
+  scale_shape_discrete(name = 'Fire Name', solid = T) +
+  scale_x_continuous('Days after fire', expand = c(0,0)) +
+  scale_y_continuous('R-squared of Tool vs. BAER dNBR', expand = c(0,0), limits = c(-0.01,1))
+
 
 
 

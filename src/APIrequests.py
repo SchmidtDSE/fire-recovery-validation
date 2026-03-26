@@ -59,3 +59,14 @@ def create_query(fire_name, bbox, date_of_fire, post_fire_range, date_mode='alar
     }
    
     return api_request
+
+def append_result(results, fire_name, post_fire_reference_point, post_fire_period, status, fire_event_name=None, job_id=None):
+
+    results.append({
+        'fire_event_name': fire_event_name,
+        'job_id': job_id,
+        'fire_name': fire_name,
+        'post_fire_reference_point': post_fire_reference_point,
+        'post_fire_period': post_fire_period,
+        'status': status
+    })

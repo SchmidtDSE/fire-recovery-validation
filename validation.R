@@ -4,7 +4,6 @@ library(tidyverse)
 library(scico)
 library(sf)
 
-
 calculate_intersection = function(i, df) {
   row = df[i, ]
   cal_poly = select(calfire, fire_name) %>% filter(fire_name == row$fire_name)
@@ -175,25 +174,7 @@ diagnostics = function(df_metric, calfire) {
 
 #####
 
-correlation = read_csv("dnbr_r2_results.csv") %>%
-  filter(!is.na(r_squared)) %>%
-  left_join(select(calfire, c("fire_name", "UNIT_ID"))) %>%
-  mutate(date_mode = if_else(date_mode == 'alarm', 'Days after Alarm Date', 'Date after Containment')) %>%
-  mutate(date_mode = factor(date_mode, levels = c('Days after Alarm Date', 'Date after Containment')),
-         fire_name = paste0(fire_name, ' (', UNIT_ID, ')'))
 
-ggplot() + theme_bw() +
-  facet_wrap(~date_mode, ncol = 2) +
-  geom_point(data = correlation, aes(x = date_after_fire, y = r_squared, color = fire_name, shape = fire_name),
-             size = 2) +
-  geom_line(data = correlation, aes(x = date_after_fire, y = r_squared, color = fire_name), 
-            linewidth = .5, linetype = 'dotted') +
-  geom_smooth(data = correlation, aes(x = date_after_fire, y = r_squared), 
-              method = 'loess', color = 'black', alpha = 0.1, linewidth = .75) +
-  scico::scale_color_scico_d(palette = 'batlow', begin = .3, end = .8, name = 'Fire Name') +
-  scale_shape_discrete(name = 'Fire Name', solid = T) +
-  scale_x_continuous('Days after fire', expand = c(0,0)) +
-  scale_y_continuous('R-squared of Tool vs. BAER dNBR', expand = c(0,0), limits = c(-0.01,1))
 
 
 

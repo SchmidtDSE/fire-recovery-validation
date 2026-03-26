@@ -1,11 +1,38 @@
 # Fire Severity Validation — NPS Sentinel-2 Tool
 
-Validates a Sentinel-2-based fire severity tool against reference data for NPS fires in California (2015–2024).
+This repository validates DSE's fire severity tool (https://dse-disturbance-toolbox.org/tools/disturbance-severity/) against reference data for NPS fires in California (2015–2024).
 
 ## Overview
 
 The tool computes fire severity indices (dNBR and RBR) from Sentinel-2 imagery via a remote API. This repository validates those outputs against reference burn severity data for NPS park units: Joshua Tree (JTP), Mojave (MNP), Kings Canyon/Sequoia (KNP/SMP/CNP).
 
+The structure we are going for in refactoring is
+
+project/
+├── src/
+│   ├── __init__.py
+│   ├── config.py        # your variables, paths, parameter sets
+│   ├── preprocessing.py
+│   ├── api.py           # request sending + monitoring
+│   └── analysis.py      # COG access, geospatial, plotting
+├── notebooks/
+│   ├── 01_preprocess.ipynb
+│   ├── 02_api_requests.ipynb
+│   └── 03_analysis.ipynb
+├── reports/             # your .qmd files live here
+├── figures/             # saved outputs
+├── data/
+│   ├── raw/
+│   └── processed/
+└── environment.yml      # or pyproject.toml
+
+to do for refactoring
+- [ ] get all parameters into config
+- [ ] get all functions into scrips
+- [ ] flat notebooks for executiong
+- [ ] Quarto document for all analyses/ visualisations (can run both R and Python)
+- [ ] API class
+- [ ] DevContainer/ Docker
 ## Workflow
 
 ### 1. Preprocessing (`validation_preprocess.ipynb`)

@@ -1,6 +1,7 @@
 import requests
 import rasterio as rio
 import geopandas as gpd
+import shapely as shp
 import numpy as np
 import rioxarray as rxr
 
@@ -9,7 +10,9 @@ from src import config
 
 def get_url_raster(fires, fire_name, fire_days, date_mode, metric,):
     ''' Retrieves the URL for the specified metric raster from the API result endpoint. '''
-    fire_event_name = fires.loc[(fires['fire_name'] == fire_name) & (fires['post_fire_days'] == fire_days), 'fire_event_name'].values[0]
+    fire_event_name = fires.loc[(fires['fire_name'] == fire_name) & 
+                                (fires['post_fire_days'] == fire_days) &
+                                (fires['date_mode'] == date_mode), 'fire_event_name'].values[0]
     job_id = fires.loc[fires['fire_event_name'] == fire_event_name, 'job_id'].values[0]
     request = requests.get(f"{config.URL_RESULT}/{fire_event_name}/{job_id}")
     urls = request.json().get('coarse_severity_cog_urls')
@@ -26,7 +29,18 @@ def get_raster_as_lonlat(raster_url):
 
     return raster_reproj, extent
 
-def crop_to_calfire(raster, polygon):
+def convert_burnscar_to_polygon(raster):
 
-    return
+    raster_filtered = raster.where(raster > 0)
+
+    shapes_gen = list(rio.features.shapes(
+        raster_filtered.values[0],
+        mask=raster_filtered.notnull().values[0].astype(np.uint8),
+        transform=raster_filtered.rio.transform()
+    ))
+
+    geoms = [shp.geometry.shape(sh) for sh, _ in shapes_gen]
+    dissolved = shp.ops.unary_union(geoms)
+
+    return gpd.GeoDataFrame(geometry=[dissolved], crs=raster_filtered.rio.crs)
 

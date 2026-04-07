@@ -19,7 +19,7 @@ def get_url_raster(fires, fire_name, fire_days, date_mode, metric,):
     return urls.get(metric)
 
 def get_raster_as_lonlat(raster_url):
-
+    ''' Retrieves the raster from the URL and reprojects it to EPSG:4326 (lon/lat). Returns the reprojected raster and its extent. '''
     raster = rxr.open_rasterio(raster_url, masked=True)
     raster_reproj = raster.rio.reproject('EPSG:4326')
 
@@ -30,7 +30,7 @@ def get_raster_as_lonlat(raster_url):
     return raster_reproj, extent
 
 def convert_burnscar_to_polygon(raster):
-
+    ''' Filtera raster to pixels with burn index > 0 and converts to a polygon. '''
     raster_filtered = raster.where(raster > 0)
 
     shapes_gen = list(rio.features.shapes(
@@ -43,4 +43,38 @@ def convert_burnscar_to_polygon(raster):
     dissolved = shp.ops.unary_union(geoms)
 
     return gpd.GeoDataFrame(geometry=[dissolved], crs=raster_filtered.rio.crs)
+
+def calculate_statistical_indicators(raster, polygon):
+    ''' Calculates statistical indicators of burn index across the burn scar '''
+    raster_clipped = raster.rio.clip(polygon.geometry, polygon.crs, drop=False)
+
+    raster_filtered = raster.where(abs(raster) <= 1)
+
+    mean = raster_clipped.mean().item()
+    var = raster_clipped.var().item()
+    max = raster_clipped.max().item()
+    min = raster_clipped.min().item()
+    q_25, q_50, q_75 = raster_clipped.quantile([0.25, 0.5, 0.75], dim=['x', 'y'], skipna=True)
+
+    return mean, var, max, min, q_25, q_50, q_75
+
+def append_results(fire_name, fire_days, date_mode, metric, 
+                   mean, var, max, min, q_25, q_50, q_75,
+                   indictators):
+    ''' Appends the calculated indicators to the results CSV. '''
+    
+    new_row = {
+        'fire_name': fire_name,
+        'post_fire_days': fire_days,
+        'date_mode': date_mode,
+        'metric': metric,
+        'mean': mean,
+        'var': var,
+        'max': max,
+        'min': min,
+        'q_25': q_25.item(),
+        'q_50': q_50.item(),
+        'q_75': q_75.item()
+    }
+    indictators.append(new_row)
 

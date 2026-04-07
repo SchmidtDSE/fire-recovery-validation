@@ -33,6 +33,9 @@ to do for refactoring
 - [ ] Quarto document for all analyses/ visualisations (can run both R and Python)
 - [ ] API class
 - [ ] DevContainer/ Docker
+- [ ] `fire_event_name` should be wrapped into a function, make sure date_mode is never implicit
+- [ ] Homogenize naming conventions for factorial variables
+
 ## Workflow
 
 ### 1. Preprocessing (`validation_preprocess.ipynb`)

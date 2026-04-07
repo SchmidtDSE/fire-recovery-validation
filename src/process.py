@@ -46,6 +46,7 @@ def convert_burnscar_to_polygon(raster):
 
 def calculate_statistical_indicators(raster, polygon):
     ''' Calculates statistical indicators of burn index across the burn scar '''
+    polygon = polygon.to_crs(raster.rio.crs)
     raster_clipped = raster.rio.clip(polygon.geometry, polygon.crs, drop=False)
 
     raster_filtered = raster.where(abs(raster) <= 1)

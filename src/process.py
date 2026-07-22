@@ -8,12 +8,20 @@ import rioxarray as rxr
 from src import config
 
 
-def get_url_raster(fires, fire_name, fire_days, date_mode, metric,):
+def lookup_job(fire_name, fire_days, date_mode, sensor, fires):
+    ''' Looks up the fire_event_name and job_id for a given fire/day/mode/sensor combination. '''
+    row = fires.loc[(fires['fire_name'] == fire_name) &
+                    (fires['post_fire_days'] == fire_days) &
+                    (fires['date_mode'] == date_mode) &
+                    (fires['sensor'] == sensor)]
+
+    fire_event_name = row['fire_event_name'].values[0]
+    job_id = row['job_id'].values[0]
+
+    return fire_event_name, job_id
+
+def get_url_raster(fire_event_name, job_id, metric):
     ''' Retrieves the URL for the specified metric raster from the API result endpoint. '''
-    fire_event_name = fires.loc[(fires['fire_name'] == fire_name) & 
-                                (fires['post_fire_days'] == fire_days) &
-                                (fires['date_mode'] == date_mode), 'fire_event_name'].values[0]
-    job_id = fires.loc[fires['fire_event_name'] == fire_event_name, 'job_id'].values[0]
     request = requests.get(f"{config.URL_RESULT}/{fire_event_name}/{job_id}")
     urls = request.json().get('coarse_severity_cog_urls')
     return urls.get(metric)
@@ -59,15 +67,16 @@ def calculate_statistical_indicators(raster, polygon):
 
     return mean, var, max, min, q_25, q_50, q_75
 
-def append_results(fire_name, fire_days, date_mode, metric, 
+def append_results(fire_name, fire_days, date_mode, sensor, metric,
                    mean, var, max, min, q_25, q_50, q_75,
                    indictators):
     ''' Appends the calculated indicators to the results CSV. '''
-    
+
     new_row = {
         'fire_name': fire_name,
         'post_fire_days': fire_days,
         'date_mode': date_mode,
+        'sensor': sensor,
         'metric': metric,
         'mean': mean,
         'var': var,

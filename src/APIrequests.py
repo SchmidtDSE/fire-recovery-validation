@@ -32,10 +32,11 @@ def get_cont_date(fire_name, fires):
 
     return pd.to_datetime(raw).to_datetime64()
 
-def create_query(fire_name, bbox, date_of_fire, post_fire_range, date_mode='alarm'):
+def create_query(fire_name, bbox, date_of_fire, post_fire_range, date_mode='alarm', sensor='sentinel-2'):
     ''' Creates an API query for the bounding box and time period specified.
-    
+
     date_mode: 'alarm' or 'cont' — recorded in the fire_event_name for downstream tracking.
+    sensor: 'sentinel-2' or 'landsat' — selects the satellite source used by the backend.
     '''
 
     pre_start = date_of_fire - np.timedelta64(21, 'D')
@@ -43,30 +44,32 @@ def create_query(fire_name, bbox, date_of_fire, post_fire_range, date_mode='alar
     post_end = date_of_fire + np.timedelta64(post_fire_range, 'D')
 
     api_request = {
-        "fire_event_name": f"{fire_name}_date{str(date_of_fire).split('T')[0]}_range{post_fire_range}_mode{date_mode}",
+        "fire_event_name": f"{fire_name}_date{str(date_of_fire).split('T')[0]}_range{post_fire_range}_mode{date_mode}_sensor{sensor}",
         "coarse_geojson": {
             "type": "Polygon",
             "coordinates": [[
-                [float(bbox[0]), float(bbox[1])], 
+                [float(bbox[0]), float(bbox[1])],
                 [float(bbox[2]), float(bbox[1])],
-                [float(bbox[2]), float(bbox[3])], 
-                [float(bbox[0]), float(bbox[3])], 
-                [float(bbox[0]), float(bbox[1])]  
+                [float(bbox[2]), float(bbox[3])],
+                [float(bbox[0]), float(bbox[3])],
+                [float(bbox[0]), float(bbox[1])]
             ]]
         },
         "prefire_date_range": [str(pre_start).split('T')[0], str(pre_end).split('T')[0]],
-        "postfire_date_range": [str(date_of_fire).split('T')[0], str(post_end).split('T')[0]]
+        "postfire_date_range": [str(date_of_fire).split('T')[0], str(post_end).split('T')[0]],
+        "sensor": sensor
     }
-   
+
     return api_request
 
-def append_result(results, fire_name, post_fire_reference_point, post_fire_period, status, fire_event_name=None, job_id=None):
+def append_result(results, fire_name, date_mode, post_fire_days, sensor, status, fire_event_name=None, job_id=None):
 
     results.append({
         'fire_event_name': fire_event_name,
         'job_id': job_id,
         'fire_name': fire_name,
-        'post_fire_reference_point': post_fire_reference_point,
-        'post_fire_period': post_fire_period,
+        'date_mode': date_mode,
+        'post_fire_days': post_fire_days,
+        'sensor': sensor,
         'status': status
     })

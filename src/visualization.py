@@ -9,11 +9,13 @@ from src import config
 from src import process
 
 
-def plot_fire(fire_name, fire_days, fire_polygon, fires):
+def plot_fire(fire_name, fire_days, fire_polygon, fires, date_mode='alarm', sensor='sentinel-2'):
     ''' Plots dNBR and RBR rasters for a given fire event and post-fire period, with the fire perimeter overlaid. '''
 
-    dnbr_url = process.get_url_raster(fires, fire_name, fire_days, date_mode = 'alarm', metric = 'dnbr')
-    rbr_url = process.get_url_raster(fires, fire_name, fire_days, date_mode = 'alarm', metric = 'rbr')
+    fire_event_name, job_id = process.lookup_job(fire_name, fire_days, date_mode, sensor, fires)
+
+    dnbr_url = process.get_url_raster(fire_event_name, job_id, metric = 'dnbr')
+    rbr_url = process.get_url_raster(fire_event_name, job_id, metric = 'rbr')
 
     dnbr_reproj, dnbr_extent = process.get_raster_as_lonlat(dnbr_url)
     rbr_reproj, rbr_extent = process.get_raster_as_lonlat(rbr_url)

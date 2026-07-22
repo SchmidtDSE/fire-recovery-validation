@@ -1,0 +1,17 @@
+name: burnseverity
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.13
+  - geopandas
+  - fiona
+  - rasterio
+  - rioxarray
+  - shapely
+  - xarray
+  - pandas
+  - numpy
+  - matplotlib
+  - requests
+  - ipykernel

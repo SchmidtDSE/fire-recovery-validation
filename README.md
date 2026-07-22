@@ -6,6 +6,39 @@ This repository validates DSE's fire severity tool (https://dse-disturbance-tool
 
 The tool computes fire severity indices (dNBR and RBR) from Sentinel-2 imagery via a remote API. This repository validates those outputs against reference burn severity data for NPS park units: Joshua Tree (JTP), Mojave (MNP), Kings Canyon/Sequoia (KNP/SMP/CNP).
 
+## Setup
+
+This project uses a conda environment named `burnseverity` (Python 3.13). Environment definitions live in two files:
+
+- **`environment.yml`** — human-readable list of top-level dependencies (edit this to add/remove a package)
+- **`conda-lock.yml`** — fully pinned, checksummed lockfile generated from `environment.yml` (this is what actually gets installed; guarantees everyone gets identical package versions, not just "close enough")
+
+### New user (first-time setup)
+
+```bash
+conda install -n base -c conda-forge conda-lock   # one-time, installs the conda-lock CLI
+conda-lock install --micromamba -n burnseverity conda-lock.yml
+conda activate burnseverity
+python -m ipykernel install --user --name burnseverity --display-name "burnseverity"  # registers the Jupyter kernel
+```
+
+Then select the **burnseverity** kernel when opening any notebook.
+
+### Returning user
+
+If you already have the `burnseverity` env and just pulled changes, only re-run the install step if `conda-lock.yml` changed:
+
+```bash
+conda-lock install --micromamba -n burnseverity conda-lock.yml
+```
+
+### Updating the environment (adding/upgrading a package)
+
+1. Add the package to `environment.yml`
+2. Re-solve and re-lock: `conda-lock -f environment.yml -p osx-arm64 --micromamba`
+3. Commit both `environment.yml` and `conda-lock.yml`
+4. Re-run the install step above to apply the change locally
+
 The structure we are going for in refactoring is
 
 project/
@@ -27,8 +60,9 @@ project/
 └── environment.yml      # or pyproject.toml
 
 to do for refactoring
+- [x] environment.yml + conda-lock.yml for reproducible env (see Setup)
 - [ ] get all parameters into config
-- [ ] get all functions into scrips
+- [ ] get all functions into scripts
 - [ ] flat notebooks for executiong
 - [ ] Quarto document for all analyses/ visualisations (can run both R and Python)
 - [ ] API class

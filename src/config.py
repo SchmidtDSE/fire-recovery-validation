@@ -7,8 +7,8 @@ METRICS = ['dnbr', 'rbr']
 
 URL_API = "https://fire-recovery-backend-dev-113009620257.us-central1.run.app/fire-recovery/process/analyze_fire_severity"
 URL_RESULT = "https://fire-recovery-backend-dev-113009620257.us-central1.run.app/fire-recovery/result/analyze_fire_severity"
-PATH_CALFIRE = 'California_Fire_Perimeters_(all).shp'
-PATH_FIRES_VALIDATION = f'Validation_Fire_Perimeters_{YEAR_START}_{YEAR_END}.shp'
+PATH_CALFIRE = 'data/California_Fire_Perimeters_(all).shp'
+PATH_FIRES_VALIDATION = f'output/Validation_Fire_Perimeters_{YEAR_START}_{YEAR_END}.shp'
 PATH_JOBS_LOG = 'fire_processing_jobs.csv' #'validation_sent_requests_log.csv'
 PATH_INDICATORS = 'validation_burn_metrics_statistical_indicators.csv'
 PATH_SHP = 'output/shp/'

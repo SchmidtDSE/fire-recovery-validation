@@ -1,0 +1,1319 @@
+fire_event_name,job_id,fire_name,date_mode,post_fire_days,sensor,status,job_status
+COFFEE POT_date2024-08-03_range5_modealarm_sensorsentinel-2,9917fe4d-81ad-4442-b4b7-fab0733b7d65,COFFEE POT,alarm,5,sentinel-2,success,complete
+COFFEE POT_date2024-08-03_range10_modealarm_sensorsentinel-2,0792c7b9-6b79-4ea3-be07-534bad7a89b9,COFFEE POT,alarm,10,sentinel-2,success,complete
+COFFEE POT_date2024-08-03_range15_modealarm_sensorsentinel-2,844ff2ba-bbf0-4fb7-aeb9-134c39107172,COFFEE POT,alarm,15,sentinel-2,success,complete
+COFFEE POT_date2024-08-03_range21_modealarm_sensorsentinel-2,cc335bf7-db5b-4e2a-852a-dd926a7601ca,COFFEE POT,alarm,21,sentinel-2,success,complete
+COFFEE POT_date2024-08-03_range30_modealarm_sensorsentinel-2,edcc8fee-ef25-4756-af94-bd06fd86a2f6,COFFEE POT,alarm,30,sentinel-2,success,complete
+COFFEE POT_date2024-08-03_range45_modealarm_sensorsentinel-2,214a7101-9fd9-45f9-921c-9c26cb616fd7,COFFEE POT,alarm,45,sentinel-2,success,complete
+COFFEE POT_date2024-08-03_range5_modealarm_sensorsentinel-2,c6930ec1-05a7-44a6-aeb4-69808b47925d,COFFEE POT,alarm,5,sentinel-2,success,complete
+COFFEE POT_date2024-08-03_range10_modealarm_sensorsentinel-2,7b80118b-30b5-4fff-b7af-33808db1eded,COFFEE POT,alarm,10,sentinel-2,success,complete
+COFFEE POT_date2024-08-03_range15_modealarm_sensorsentinel-2,f922ed2f-d9b0-4266-a43a-352258672478,COFFEE POT,alarm,15,sentinel-2,success,complete
+COFFEE POT_date2024-08-03_range21_modealarm_sensorsentinel-2,c9ec7a41-8303-4841-b83c-01e95c2d8b97,COFFEE POT,alarm,21,sentinel-2,success,complete
+COFFEE POT_date2024-08-03_range30_modealarm_sensorsentinel-2,e55be861-b43e-496f-8e31-860f59bbff11,COFFEE POT,alarm,30,sentinel-2,success,complete
+COFFEE POT_date2024-08-03_range45_modealarm_sensorsentinel-2,f7f3fce0-d087-465d-8b87-9a3f2df6428c,COFFEE POT,alarm,45,sentinel-2,success,complete
+COFFEE POT_date2024-08-03_range60_modealarm_sensorsentinel-2,8318f19d-e8cc-427f-a98b-abe74aa8c810,COFFEE POT,alarm,60,sentinel-2,success,complete
+COFFEE POT_date2024-08-03_range90_modealarm_sensorsentinel-2,84ae015b-05b1-4178-bac7-e5a298d8bbf0,COFFEE POT,alarm,90,sentinel-2,success,complete
+COFFEE POT_date2024-08-03_range5_modealarm_sensorlandsat,0c43da0b-dbc7-499c-aa76-caa305165439,COFFEE POT,alarm,5,landsat,success,failed
+COFFEE POT_date2024-08-03_range10_modealarm_sensorlandsat,6543ba35-4afe-4bdf-be32-5533561303ef,COFFEE POT,alarm,10,landsat,success,failed
+COFFEE POT_date2024-08-03_range15_modealarm_sensorlandsat,087725d0-0b9c-4df2-a68c-4b2980f7901f,COFFEE POT,alarm,15,landsat,success,failed
+COFFEE POT_date2024-08-03_range21_modealarm_sensorlandsat,11b865b6-4fa4-4551-9099-c4e4fa690afc,COFFEE POT,alarm,21,landsat,success,failed
+COFFEE POT_date2024-08-03_range30_modealarm_sensorlandsat,7245eddd-cbae-4828-b651-56afe63165d9,COFFEE POT,alarm,30,landsat,success,failed
+COFFEE POT_date2024-08-03_range45_modealarm_sensorlandsat,dc587dc3-b7cc-4fb2-8880-79ae49920be5,COFFEE POT,alarm,45,landsat,success,failed
+COFFEE POT_date2024-08-03_range60_modealarm_sensorlandsat,69b30d1c-b658-4ff4-847b-ecf1de121e98,COFFEE POT,alarm,60,landsat,success,failed
+COFFEE POT_date2024-08-03_range90_modealarm_sensorlandsat,d2ab26d8-d08a-4256-b98f-e8e9508a6caa,COFFEE POT,alarm,90,landsat,success,failed
+COFFEE POT_date2024-12-16_range5_modecont_sensorsentinel-2,6d59a109-11b2-4dac-890c-3e097a99869d,COFFEE POT,cont,5,sentinel-2,success,complete
+COFFEE POT_date2024-12-16_range10_modecont_sensorsentinel-2,e200d1a9-c756-4ef1-8e99-69e1562bf38d,COFFEE POT,cont,10,sentinel-2,success,complete
+COFFEE POT_date2024-12-16_range15_modecont_sensorsentinel-2,0634b8f6-353e-47be-b7d6-2afac64c41b3,COFFEE POT,cont,15,sentinel-2,success,complete
+COFFEE POT_date2024-12-16_range21_modecont_sensorsentinel-2,5adf4f7b-eb60-4a74-b784-f338515c4303,COFFEE POT,cont,21,sentinel-2,success,complete
+COFFEE POT_date2024-12-16_range30_modecont_sensorsentinel-2,9ed509a6-9a7a-4342-8e4e-7677ea6aa279,COFFEE POT,cont,30,sentinel-2,success,complete
+COFFEE POT_date2024-12-16_range45_modecont_sensorsentinel-2,7bc06fd6-cc48-4b9e-8e93-c4cef9c0bbc7,COFFEE POT,cont,45,sentinel-2,success,complete
+COFFEE POT_date2024-12-16_range60_modecont_sensorsentinel-2,1cb1b3ec-f777-44aa-aeea-769abdec1360,COFFEE POT,cont,60,sentinel-2,success,complete
+COFFEE POT_date2024-12-16_range90_modecont_sensorsentinel-2,a0c954b9-5ceb-48ae-b190-ccac794b83ba,COFFEE POT,cont,90,sentinel-2,success,complete
+COFFEE POT_date2024-12-16_range5_modecont_sensorlandsat,8034836c-545f-4311-bbf0-9cf6152b5459,COFFEE POT,cont,5,landsat,success,failed
+COFFEE POT_date2024-12-16_range10_modecont_sensorlandsat,df8a4b47-fbfc-4e3d-abf8-21dd78dd82e6,COFFEE POT,cont,10,landsat,success,failed
+COFFEE POT_date2024-12-16_range15_modecont_sensorlandsat,306c1f6e-07a8-4c8c-b6a7-dfdc1dff7a6c,COFFEE POT,cont,15,landsat,success,failed
+COFFEE POT_date2024-12-16_range21_modecont_sensorlandsat,5643179d-96d5-4425-8833-0e1f3e264c45,COFFEE POT,cont,21,landsat,success,failed
+COFFEE POT_date2024-12-16_range30_modecont_sensorlandsat,3be17114-3757-4f38-a860-81a4e3d1c9b8,COFFEE POT,cont,30,landsat,success,failed
+COFFEE POT_date2024-12-16_range45_modecont_sensorlandsat,b259da60-6374-48cb-99e0-641d6fe7693b,COFFEE POT,cont,45,landsat,success,failed
+COFFEE POT_date2024-12-16_range60_modecont_sensorlandsat,9d6695f8-6432-4a24-8244-adb8cc68e62b,COFFEE POT,cont,60,landsat,success,failed
+COFFEE POT_date2024-12-16_range90_modecont_sensorlandsat,993fb660-1008-4945-a7ea-dd31e9503bb1,COFFEE POT,cont,90,landsat,success,failed
+SENTINEL_date2024-07-14_range5_modealarm_sensorsentinel-2,954034ed-13fa-44fe-b80a-83c4e14c9a8e,SENTINEL,alarm,5,sentinel-2,success,complete
+SENTINEL_date2024-07-14_range10_modealarm_sensorsentinel-2,7038775d-09e7-4658-b14a-100b6888b5ee,SENTINEL,alarm,10,sentinel-2,success,complete
+SENTINEL_date2024-07-14_range15_modealarm_sensorsentinel-2,287796d0-fa4b-4cbe-b3e4-26fc2f32f519,SENTINEL,alarm,15,sentinel-2,success,complete
+SENTINEL_date2024-07-14_range21_modealarm_sensorsentinel-2,a1c2d4f4-8ede-4d9c-a746-b5aad00795a9,SENTINEL,alarm,21,sentinel-2,success,complete
+SENTINEL_date2024-07-14_range30_modealarm_sensorsentinel-2,7654b31d-b3e9-4700-87c8-3b2502ee5cc7,SENTINEL,alarm,30,sentinel-2,success,complete
+SENTINEL_date2024-07-14_range45_modealarm_sensorsentinel-2,ed36940a-fa9f-4875-980b-78f2d01587aa,SENTINEL,alarm,45,sentinel-2,success,complete
+SENTINEL_date2024-07-14_range60_modealarm_sensorsentinel-2,687dfcb4-73d2-4144-9665-f9aa9c78261d,SENTINEL,alarm,60,sentinel-2,success,complete
+SENTINEL_date2024-07-14_range90_modealarm_sensorsentinel-2,1b66e713-f6c6-4499-b78e-86cb2897729c,SENTINEL,alarm,90,sentinel-2,success,complete
+SENTINEL_date2024-07-14_range5_modealarm_sensorlandsat,5f2e2d2b-13a5-46b7-aa8c-bf9b4cd428a7,SENTINEL,alarm,5,landsat,success,failed
+SENTINEL_date2024-07-14_range10_modealarm_sensorlandsat,bc06328d-bb7b-4dde-8c23-ce53531704ba,SENTINEL,alarm,10,landsat,success,failed
+SENTINEL_date2024-07-14_range15_modealarm_sensorlandsat,5149ff2c-628b-4f08-9eaa-6e4ff970f9e4,SENTINEL,alarm,15,landsat,success,failed
+SENTINEL_date2024-07-14_range21_modealarm_sensorlandsat,b9ff65be-17bf-4d72-8ba1-6e69ac0de730,SENTINEL,alarm,21,landsat,success,failed
+SENTINEL_date2024-07-14_range30_modealarm_sensorlandsat,b188a44c-dfe7-4ac5-affb-6d5a6b4edf91,SENTINEL,alarm,30,landsat,success,failed
+SENTINEL_date2024-07-14_range45_modealarm_sensorlandsat,436107bc-f24b-4a0e-b6e7-9abf9d567cc2,SENTINEL,alarm,45,landsat,success,failed
+SENTINEL_date2024-07-14_range60_modealarm_sensorlandsat,684f12d7-6e4a-43f3-a938-2bb80b567310,SENTINEL,alarm,60,landsat,success,failed
+SENTINEL_date2024-07-14_range90_modealarm_sensorlandsat,c9696184-cafe-487a-8408-5add231e24b5,SENTINEL,alarm,90,landsat,success,failed
+SENTINEL_date2024-11-08_range5_modecont_sensorsentinel-2,9463678d-9e1f-4599-90be-f1c6e3dc1616,SENTINEL,cont,5,sentinel-2,success,complete
+SENTINEL_date2024-11-08_range10_modecont_sensorsentinel-2,a4ae943c-3f02-4a93-8d4e-a305a57e088d,SENTINEL,cont,10,sentinel-2,success,complete
+SENTINEL_date2024-11-08_range15_modecont_sensorsentinel-2,bb396e99-28b2-48d9-a262-2b5edd449027,SENTINEL,cont,15,sentinel-2,success,complete
+SENTINEL_date2024-11-08_range21_modecont_sensorsentinel-2,ae83d3fb-28f1-4881-9fd2-f421b2a0724f,SENTINEL,cont,21,sentinel-2,success,complete
+SENTINEL_date2024-11-08_range30_modecont_sensorsentinel-2,e383dffc-5b36-4703-8ac0-3c113cfc1aa7,SENTINEL,cont,30,sentinel-2,success,complete
+SENTINEL_date2024-11-08_range45_modecont_sensorsentinel-2,bbcf5659-1d7a-4bf7-9164-ab5f19026258,SENTINEL,cont,45,sentinel-2,success,complete
+SENTINEL_date2024-11-08_range60_modecont_sensorsentinel-2,7582c55e-dd74-4552-8ee7-87f61ac22e7c,SENTINEL,cont,60,sentinel-2,success,complete
+SENTINEL_date2024-11-08_range90_modecont_sensorsentinel-2,6e9ccac8-affc-43b6-b930-efb55eeb5cd3,SENTINEL,cont,90,sentinel-2,success,complete
+SENTINEL_date2024-11-08_range5_modecont_sensorlandsat,198ea647-2a6b-4bb2-ad6e-7c07ce7560ce,SENTINEL,cont,5,landsat,success,failed
+SENTINEL_date2024-11-08_range10_modecont_sensorlandsat,4cdcedcc-3743-4681-9053-005892aeb1f8,SENTINEL,cont,10,landsat,success,failed
+SENTINEL_date2024-11-08_range15_modecont_sensorlandsat,9e140932-dac8-4e02-9a2c-011f388928b6,SENTINEL,cont,15,landsat,success,failed
+SENTINEL_date2024-11-08_range21_modecont_sensorlandsat,759b0417-d3d2-4cd9-8027-3946ca3cd30c,SENTINEL,cont,21,landsat,success,failed
+SENTINEL_date2024-11-08_range30_modecont_sensorlandsat,9331a34a-0328-429c-b744-33d736a81ec0,SENTINEL,cont,30,landsat,success,failed
+SENTINEL_date2024-11-08_range45_modecont_sensorlandsat,84ae3eaf-b23f-4a1f-abc6-f3e6a10782d4,SENTINEL,cont,45,landsat,success,failed
+SENTINEL_date2024-11-08_range60_modecont_sensorlandsat,5eb7ec4d-5e27-4f21-a4a6-6411e8e6d59b,SENTINEL,cont,60,landsat,success,failed
+SENTINEL_date2024-11-08_range90_modecont_sensorlandsat,1224b91a-8f72-48d5-8f1e-2ebadce936a1,SENTINEL,cont,90,landsat,success,failed
+SIMPSON_date2024-07-26_range5_modealarm_sensorsentinel-2,54e9a7de-8d8a-4636-a291-ea38d4b803fb,SIMPSON,alarm,5,sentinel-2,success,complete
+SIMPSON_date2024-07-26_range10_modealarm_sensorsentinel-2,0299ce0c-eb87-43de-9632-90a78aad3100,SIMPSON,alarm,10,sentinel-2,success,complete
+SIMPSON_date2024-07-26_range15_modealarm_sensorsentinel-2,64047a14-2221-4334-8c27-484162092287,SIMPSON,alarm,15,sentinel-2,success,complete
+SIMPSON_date2024-07-26_range21_modealarm_sensorsentinel-2,06c81c1d-12ed-4b2c-af58-dfd8d2ae4fe4,SIMPSON,alarm,21,sentinel-2,success,complete
+SIMPSON_date2024-07-26_range30_modealarm_sensorsentinel-2,cd2c2ef9-d4d3-434d-90b2-d888fefc33aa,SIMPSON,alarm,30,sentinel-2,success,complete
+SIMPSON_date2024-07-26_range45_modealarm_sensorsentinel-2,8617709e-8cdd-4193-a5e9-1f0432a75792,SIMPSON,alarm,45,sentinel-2,success,complete
+SIMPSON_date2024-07-26_range60_modealarm_sensorsentinel-2,8bea7db4-c80d-4dfd-a8df-2d001e27a8e9,SIMPSON,alarm,60,sentinel-2,success,complete
+SIMPSON_date2024-07-26_range90_modealarm_sensorsentinel-2,3f9ebed9-79e7-4a36-a5a7-8eaade9293f2,SIMPSON,alarm,90,sentinel-2,success,complete
+SIMPSON_date2024-07-26_range5_modealarm_sensorlandsat,d6349aaf-6bb9-4ac3-9fda-944455078f95,SIMPSON,alarm,5,landsat,success,complete
+SIMPSON_date2024-07-26_range10_modealarm_sensorlandsat,3a89ca1f-fce3-4f79-ad26-fe874b974463,SIMPSON,alarm,10,landsat,success,complete
+SIMPSON_date2024-07-26_range15_modealarm_sensorlandsat,1b0ff5b4-5b47-4ac4-8dbf-e129c1daaf97,SIMPSON,alarm,15,landsat,success,complete
+SIMPSON_date2024-07-26_range21_modealarm_sensorlandsat,a94afc36-993a-4032-8f30-3b06c18d79a8,SIMPSON,alarm,21,landsat,success,complete
+SIMPSON_date2024-07-26_range30_modealarm_sensorlandsat,c7c0e177-f042-43ea-bab2-55ac0da5d3f1,SIMPSON,alarm,30,landsat,success,complete
+SIMPSON_date2024-07-26_range45_modealarm_sensorlandsat,2bc14b13-4792-4be3-81f7-e2196c63f267,SIMPSON,alarm,45,landsat,success,complete
+SIMPSON_date2024-07-26_range60_modealarm_sensorlandsat,183efeb0-bbc9-4c93-9436-9d71773385c0,SIMPSON,alarm,60,landsat,success,complete
+SIMPSON_date2024-07-26_range90_modealarm_sensorlandsat,0862a6ab-b7e5-4343-9b37-9039a46493ba,SIMPSON,alarm,90,landsat,success,complete
+SIMPSON_date2024-09-02_range5_modecont_sensorsentinel-2,78f8f87f-bb21-4bd5-9c28-f4952b8e376b,SIMPSON,cont,5,sentinel-2,success,complete
+SIMPSON_date2024-09-02_range10_modecont_sensorsentinel-2,eecbf557-54e6-4f5d-83e9-b172fa05a4c5,SIMPSON,cont,10,sentinel-2,success,complete
+SIMPSON_date2024-09-02_range15_modecont_sensorsentinel-2,8d7a7711-8991-48bf-8fb0-a5ee31efcf5c,SIMPSON,cont,15,sentinel-2,success,complete
+SIMPSON_date2024-09-02_range21_modecont_sensorsentinel-2,a12a0511-e7bf-45a2-8d76-7df541cee253,SIMPSON,cont,21,sentinel-2,success,complete
+SIMPSON_date2024-09-02_range30_modecont_sensorsentinel-2,d5689084-fa52-43fb-8db1-e1ce8b1e9aaf,SIMPSON,cont,30,sentinel-2,success,complete
+SIMPSON_date2024-09-02_range45_modecont_sensorsentinel-2,74c9e1eb-3841-439d-8a16-37ca4c2e7d75,SIMPSON,cont,45,sentinel-2,success,complete
+SIMPSON_date2024-09-02_range60_modecont_sensorsentinel-2,17c9aa80-9db7-4f64-9a79-b7e01c7d05cf,SIMPSON,cont,60,sentinel-2,success,complete
+SIMPSON_date2024-09-02_range90_modecont_sensorsentinel-2,f7c4579a-64bc-4ebf-8dfa-77c02bba449c,SIMPSON,cont,90,sentinel-2,success,complete
+SIMPSON_date2024-09-02_range5_modecont_sensorlandsat,fa304056-bdd1-4cfd-a9dc-d3d8fdc60433,SIMPSON,cont,5,landsat,success,failed
+SIMPSON_date2024-09-02_range10_modecont_sensorlandsat,b5ffade9-25bf-4dee-943a-ae38f245870e,SIMPSON,cont,10,landsat,success,complete
+SIMPSON_date2024-09-02_range15_modecont_sensorlandsat,7dbc132b-1266-4ac6-9066-a6c8f533f07a,SIMPSON,cont,15,landsat,success,complete
+SIMPSON_date2024-09-02_range21_modecont_sensorlandsat,5dee9aa7-7309-49bf-8630-835a7a446079,SIMPSON,cont,21,landsat,success,complete
+SIMPSON_date2024-09-02_range30_modecont_sensorlandsat,edf1bc22-c61b-4e71-b2a8-89b1fdb7e619,SIMPSON,cont,30,landsat,success,complete
+SIMPSON_date2024-09-02_range45_modecont_sensorlandsat,592780d7-41af-4ccb-8d83-b4ecbf94ef9e,SIMPSON,cont,45,landsat,success,complete
+SIMPSON_date2024-09-02_range60_modecont_sensorlandsat,9658dd42-de41-403c-b0cd-451b59213176,SIMPSON,cont,60,landsat,success,complete
+SIMPSON_date2024-09-02_range90_modecont_sensorlandsat,3279612a-6b7d-42e7-9a42-1b7b0e295446,SIMPSON,cont,90,landsat,success,complete
+YORK_date2023-07-28_range5_modealarm_sensorsentinel-2,f15083eb-d95b-49b9-a28a-acafc1c12340,YORK,alarm,5,sentinel-2,success,failed
+YORK_date2023-07-28_range10_modealarm_sensorsentinel-2,3b4db89a-c1cd-46cc-b6b6-ccc98f995631,YORK,alarm,10,sentinel-2,success,failed
+YORK_date2023-07-28_range15_modealarm_sensorsentinel-2,8d774fa5-dc77-4eb3-ac37-52190f17444e,YORK,alarm,15,sentinel-2,success,failed
+YORK_date2023-07-28_range21_modealarm_sensorsentinel-2,0d6e3f62-dbcf-459e-b2c1-2dc99679542b,YORK,alarm,21,sentinel-2,success,failed
+YORK_date2023-07-28_range30_modealarm_sensorsentinel-2,3cdf8624-3ec2-46e7-8d7e-ffa682126b1b,YORK,alarm,30,sentinel-2,success,failed
+YORK_date2023-07-28_range45_modealarm_sensorsentinel-2,75d55806-0a68-4c3c-8866-8114499e4eee,YORK,alarm,45,sentinel-2,success,failed
+YORK_date2023-07-28_range60_modealarm_sensorsentinel-2,dbe05a2c-747f-439d-92cc-6aa394fbe79a,YORK,alarm,60,sentinel-2,success,failed
+YORK_date2023-07-28_range90_modealarm_sensorsentinel-2,24d773c5-274b-468e-9da9-fb89b08cd2c0,YORK,alarm,90,sentinel-2,success,failed
+YORK_date2023-07-28_range5_modealarm_sensorlandsat,df9701e7-f1ef-4bcf-ab30-adcc82ef906a,YORK,alarm,5,landsat,success,failed
+YORK_date2023-07-28_range10_modealarm_sensorlandsat,1a0732f6-87a4-49f0-b3c1-b4738e8ecc1d,YORK,alarm,10,landsat,success,failed
+YORK_date2023-07-28_range15_modealarm_sensorlandsat,029b0cae-6ca5-4488-a381-8ef233b73a51,YORK,alarm,15,landsat,success,failed
+YORK_date2023-07-28_range21_modealarm_sensorlandsat,b73d5983-a9c9-4bca-a7d4-23f4889a48dc,YORK,alarm,21,landsat,success,failed
+YORK_date2023-07-28_range30_modealarm_sensorlandsat,f70108f7-777e-49c0-8490-d575d6429000,YORK,alarm,30,landsat,success,failed
+YORK_date2023-07-28_range45_modealarm_sensorlandsat,8df4f51d-668b-4a89-95b5-b12b22a1524f,YORK,alarm,45,landsat,success,failed
+YORK_date2023-07-28_range60_modealarm_sensorlandsat,c9f2374a-3a30-4372-8293-1d42029cb944,YORK,alarm,60,landsat,success,failed
+YORK_date2023-07-28_range90_modealarm_sensorlandsat,8821e2d2-cfa2-4505-badf-742c45ee4249,YORK,alarm,90,landsat,success,failed
+YORK_date2023-08-20_range5_modecont_sensorsentinel-2,9d88ffa2-dab1-44ef-8d47-9dbd7696b849,YORK,cont,5,sentinel-2,success,failed
+YORK_date2023-08-20_range10_modecont_sensorsentinel-2,e68b96cf-b43e-4b75-ba5b-bcdd078f3e10,YORK,cont,10,sentinel-2,success,failed
+YORK_date2023-08-20_range15_modecont_sensorsentinel-2,e2ccb2ad-f29d-47ec-bf52-8f1c591ba89a,YORK,cont,15,sentinel-2,success,failed
+YORK_date2023-08-20_range21_modecont_sensorsentinel-2,ff0a977c-4fc4-4ca8-aad1-fffa5adaa74d,YORK,cont,21,sentinel-2,success,failed
+YORK_date2023-08-20_range30_modecont_sensorsentinel-2,3b4ed88f-9350-4c75-a8d0-eea2ccad358f,YORK,cont,30,sentinel-2,success,failed
+YORK_date2023-08-20_range45_modecont_sensorsentinel-2,093ba61c-a288-4afb-b1a7-44a8df2d1b8b,YORK,cont,45,sentinel-2,success,failed
+YORK_date2023-08-20_range60_modecont_sensorsentinel-2,e6c83d2b-53dc-45d6-8f49-0dbea90428ba,YORK,cont,60,sentinel-2,success,failed
+YORK_date2023-08-20_range90_modecont_sensorsentinel-2,25539237-df7b-4f85-8ce5-f61ca2f5fa21,YORK,cont,90,sentinel-2,success,failed
+YORK_date2023-08-20_range5_modecont_sensorlandsat,7a9d605c-d258-4fd2-9450-ca4fb39ede24,YORK,cont,5,landsat,success,failed
+YORK_date2023-08-20_range10_modecont_sensorlandsat,d73b8917-53ab-4cb8-acc4-267cee443729,YORK,cont,10,landsat,success,failed
+YORK_date2023-08-20_range15_modecont_sensorlandsat,a30d635c-9c46-4f4c-b917-2faf475bbf04,YORK,cont,15,landsat,success,failed
+YORK_date2023-08-20_range21_modecont_sensorlandsat,461f6701-3471-4a80-b372-b2b2b1411d7a,YORK,cont,21,landsat,success,failed
+YORK_date2023-08-20_range30_modecont_sensorlandsat,16e18e5d-008d-45f8-99dc-69f1e26fa0ed,YORK,cont,30,landsat,success,failed
+YORK_date2023-08-20_range45_modecont_sensorlandsat,74920621-e1c2-40fd-915d-2a49c9aff1ef,YORK,cont,45,landsat,success,failed
+YORK_date2023-08-20_range60_modecont_sensorlandsat,520b36c8-660d-4bec-b8a6-56883287cd20,YORK,cont,60,landsat,success,failed
+YORK_date2023-08-20_range90_modecont_sensorlandsat,54cef3a7-6448-41a5-9a61-8ec3e25c5430,YORK,cont,90,landsat,success,failed
+REDWOOD_date2023-08-15_range5_modealarm_sensorsentinel-2,c3644c05-9028-4c4a-b2d3-2d5c7115072b,REDWOOD,alarm,5,sentinel-2,success,complete
+REDWOOD_date2023-08-15_range10_modealarm_sensorsentinel-2,f11d257c-c35f-4a03-aa5f-713a1f68be81,REDWOOD,alarm,10,sentinel-2,success,complete
+REDWOOD_date2023-08-15_range15_modealarm_sensorsentinel-2,310901bd-6557-4ff8-acbe-2bdcde940976,REDWOOD,alarm,15,sentinel-2,success,complete
+REDWOOD_date2023-08-15_range21_modealarm_sensorsentinel-2,815181a3-87a8-4067-846b-6986c89a685d,REDWOOD,alarm,21,sentinel-2,success,complete
+REDWOOD_date2023-08-15_range30_modealarm_sensorsentinel-2,3ce5996a-3375-4fbc-8545-5ebb334895c7,REDWOOD,alarm,30,sentinel-2,success,complete
+REDWOOD_date2023-08-15_range45_modealarm_sensorsentinel-2,4c7942b2-f629-4240-9524-4a387576671b,REDWOOD,alarm,45,sentinel-2,success,complete
+REDWOOD_date2023-08-15_range60_modealarm_sensorsentinel-2,647237e3-6e00-42f4-8084-8f94920bbea1,REDWOOD,alarm,60,sentinel-2,success,complete
+REDWOOD_date2023-08-15_range90_modealarm_sensorsentinel-2,4725cc3b-5021-493b-812b-7243bb1d7913,REDWOOD,alarm,90,sentinel-2,success,complete
+REDWOOD_date2023-08-15_range5_modealarm_sensorlandsat,7ed6ba4d-a64d-4448-ba01-0ba90c794c3e,REDWOOD,alarm,5,landsat,success,complete
+REDWOOD_date2023-08-15_range10_modealarm_sensorlandsat,a350bba8-3f1c-4b06-9303-9d1274d6ad49,REDWOOD,alarm,10,landsat,success,complete
+REDWOOD_date2023-08-15_range15_modealarm_sensorlandsat,92113673-6ca4-4c43-be8b-d3ab1cd22fec,REDWOOD,alarm,15,landsat,success,complete
+REDWOOD_date2023-08-15_range21_modealarm_sensorlandsat,caf84c32-79dd-4cfa-820a-469a52a674ba,REDWOOD,alarm,21,landsat,success,complete
+REDWOOD_date2023-08-15_range30_modealarm_sensorlandsat,a04fe441-a346-43b3-ba11-518424ff6732,REDWOOD,alarm,30,landsat,success,complete
+REDWOOD_date2023-08-15_range45_modealarm_sensorlandsat,d5be2a00-cf19-41b2-b9be-71634a94bc44,REDWOOD,alarm,45,landsat,success,complete
+REDWOOD_date2023-08-15_range60_modealarm_sensorlandsat,126d5fc3-bc3d-4aa8-af08-6ffc4c1c325d,REDWOOD,alarm,60,landsat,success,complete
+REDWOOD_date2023-08-15_range90_modealarm_sensorlandsat,7377c8fa-0010-4e93-987f-7fdc0e414989,REDWOOD,alarm,90,landsat,success,complete
+REDWOOD_date2023-12-14_range5_modecont_sensorsentinel-2,ec5228d5-9385-494d-9c1f-adb2f43c383c,REDWOOD,cont,5,sentinel-2,success,complete
+REDWOOD_date2023-12-14_range10_modecont_sensorsentinel-2,9a735d9f-6f4c-44cf-94b1-5511b04e7547,REDWOOD,cont,10,sentinel-2,success,complete
+REDWOOD_date2023-12-14_range15_modecont_sensorsentinel-2,76c1a065-4e78-49a7-9692-8fd98857e6b7,REDWOOD,cont,15,sentinel-2,success,complete
+REDWOOD_date2023-12-14_range21_modecont_sensorsentinel-2,143419a7-62d0-43ff-93cb-ff6e90f0050e,REDWOOD,cont,21,sentinel-2,success,complete
+REDWOOD_date2023-12-14_range30_modecont_sensorsentinel-2,7b73395c-fe39-42c2-9216-dc13d8b72aac,REDWOOD,cont,30,sentinel-2,success,complete
+REDWOOD_date2023-12-14_range45_modecont_sensorsentinel-2,a7e7547e-5402-4241-9d35-a545b6419a93,REDWOOD,cont,45,sentinel-2,success,complete
+REDWOOD_date2023-12-14_range60_modecont_sensorsentinel-2,6bfcaf78-ad12-4b80-9a3a-3161deac2500,REDWOOD,cont,60,sentinel-2,success,complete
+REDWOOD_date2023-12-14_range90_modecont_sensorsentinel-2,33b33f74-c05f-4d38-9171-7d14508824a4,REDWOOD,cont,90,sentinel-2,success,complete
+REDWOOD_date2023-12-14_range5_modecont_sensorlandsat,1e9061e8-71a4-4b1b-b7d1-49309f091844,REDWOOD,cont,5,landsat,success,complete
+REDWOOD_date2023-12-14_range10_modecont_sensorlandsat,2c9ab7f1-86b2-4ee5-a865-4d943e9733ab,REDWOOD,cont,10,landsat,success,complete
+REDWOOD_date2023-12-14_range15_modecont_sensorlandsat,433a8174-6d70-4813-85e3-e79135e4f64a,REDWOOD,cont,15,landsat,success,complete
+REDWOOD_date2023-12-14_range21_modecont_sensorlandsat,df1a169a-e067-4873-910e-1459b2a0ac2c,REDWOOD,cont,21,landsat,success,complete
+REDWOOD_date2023-12-14_range30_modecont_sensorlandsat,34b0240e-b591-4743-a8b2-179d0ec64467,REDWOOD,cont,30,landsat,success,complete
+REDWOOD_date2023-12-14_range45_modecont_sensorlandsat,9c3a6560-013f-48e6-a055-71bde81900e7,REDWOOD,cont,45,landsat,success,complete
+REDWOOD_date2023-12-14_range60_modecont_sensorlandsat,7e5d8958-2075-4bb8-954e-99e4d342f09a,REDWOOD,cont,60,landsat,success,complete
+REDWOOD_date2023-12-14_range90_modecont_sensorlandsat,e144d6a4-2725-4f0c-b750-66761d0a2a88,REDWOOD,cont,90,landsat,success,complete
+GEOLOGY_date2023-06-10_range5_modealarm_sensorsentinel-2,10b4c4e9-a385-49a6-8e41-338e36e6c9c3,GEOLOGY,alarm,5,sentinel-2,success,complete
+GEOLOGY_date2023-06-10_range10_modealarm_sensorsentinel-2,5418470e-fdcd-46be-a7e8-8aeed8b41568,GEOLOGY,alarm,10,sentinel-2,success,complete
+GEOLOGY_date2023-06-10_range15_modealarm_sensorsentinel-2,9a98f4fb-34e8-4feb-b880-17ccac42d57c,GEOLOGY,alarm,15,sentinel-2,success,complete
+GEOLOGY_date2023-06-10_range21_modealarm_sensorsentinel-2,7e4a4188-8022-4f37-83a9-b4ea5074cf10,GEOLOGY,alarm,21,sentinel-2,success,complete
+GEOLOGY_date2023-06-10_range30_modealarm_sensorsentinel-2,8b259d01-0afc-4c7a-8c14-2d04d4d8cbd3,GEOLOGY,alarm,30,sentinel-2,success,complete
+GEOLOGY_date2023-06-10_range45_modealarm_sensorsentinel-2,1ac5b58b-a71d-46d2-a73d-04761fa3fcc6,GEOLOGY,alarm,45,sentinel-2,success,complete
+GEOLOGY_date2023-06-10_range60_modealarm_sensorsentinel-2,dc715265-0c09-4db8-a72b-b76000b8bdd9,GEOLOGY,alarm,60,sentinel-2,success,complete
+GEOLOGY_date2023-06-10_range90_modealarm_sensorsentinel-2,23301fde-82bb-430b-b6e0-37026d1f8c6e,GEOLOGY,alarm,90,sentinel-2,success,complete
+GEOLOGY_date2023-06-10_range5_modealarm_sensorlandsat,d5f3cb63-6a2a-42c9-b8a9-0280644a3fce,GEOLOGY,alarm,5,landsat,success,complete
+GEOLOGY_date2023-06-10_range10_modealarm_sensorlandsat,033d9931-4e07-4822-bb3a-5ad0f23ec236,GEOLOGY,alarm,10,landsat,success,complete
+GEOLOGY_date2023-06-10_range15_modealarm_sensorlandsat,451c0583-c7e8-4344-b2b5-3e1d221e56a8,GEOLOGY,alarm,15,landsat,success,complete
+GEOLOGY_date2023-06-10_range21_modealarm_sensorlandsat,477b42e8-d9b0-493a-88cf-53c12d7866a6,GEOLOGY,alarm,21,landsat,success,complete
+GEOLOGY_date2023-06-10_range30_modealarm_sensorlandsat,55ab1caa-758c-4e77-9113-b783d1b3dde8,GEOLOGY,alarm,30,landsat,success,complete
+GEOLOGY_date2023-06-10_range45_modealarm_sensorlandsat,a2bf3d7e-ffef-40ee-a936-167577a4685f,GEOLOGY,alarm,45,landsat,success,complete
+GEOLOGY_date2023-06-10_range60_modealarm_sensorlandsat,a0199c52-ff7c-4fc8-a580-d8d1a537cb6e,GEOLOGY,alarm,60,landsat,success,complete
+GEOLOGY_date2023-06-10_range90_modealarm_sensorlandsat,be08e1e5-d5bb-4927-90b7-a0b36812347f,GEOLOGY,alarm,90,landsat,success,complete
+GEOLOGY_date2023-06-18_range5_modecont_sensorsentinel-2,cf7893ea-e323-4487-ac84-44a6ca89abf5,GEOLOGY,cont,5,sentinel-2,success,complete
+GEOLOGY_date2023-06-18_range10_modecont_sensorsentinel-2,db99972d-2940-4b0d-b81d-6ac636770c7d,GEOLOGY,cont,10,sentinel-2,success,complete
+GEOLOGY_date2023-06-18_range15_modecont_sensorsentinel-2,45b92884-ad29-46c8-aafa-3ec368281548,GEOLOGY,cont,15,sentinel-2,success,complete
+GEOLOGY_date2023-06-18_range21_modecont_sensorsentinel-2,aac2c904-0837-482c-b2d1-8647cea15f73,GEOLOGY,cont,21,sentinel-2,success,complete
+GEOLOGY_date2023-06-18_range30_modecont_sensorsentinel-2,f184892a-fd42-4146-b32d-cf11798182b2,GEOLOGY,cont,30,sentinel-2,success,complete
+GEOLOGY_date2023-06-18_range45_modecont_sensorsentinel-2,e8f18763-c250-4e41-be9d-1254ef33e057,GEOLOGY,cont,45,sentinel-2,success,complete
+GEOLOGY_date2023-06-18_range60_modecont_sensorsentinel-2,2627b2af-8429-433c-9e0d-815607d99aac,GEOLOGY,cont,60,sentinel-2,success,complete
+GEOLOGY_date2023-06-18_range90_modecont_sensorsentinel-2,3aa5f8ad-5daa-4442-8e4b-4294348bfb8f,GEOLOGY,cont,90,sentinel-2,success,complete
+GEOLOGY_date2023-06-18_range5_modecont_sensorlandsat,624af43f-ac92-4a9c-8710-fb8f268f924f,GEOLOGY,cont,5,landsat,success,complete
+GEOLOGY_date2023-06-18_range10_modecont_sensorlandsat,4a91d013-4cba-42c4-8411-37f48e56bb8f,GEOLOGY,cont,10,landsat,success,complete
+GEOLOGY_date2023-06-18_range15_modecont_sensorlandsat,b72ac93f-746d-495c-a7b2-5acec9804afa,GEOLOGY,cont,15,landsat,success,complete
+GEOLOGY_date2023-06-18_range21_modecont_sensorlandsat,5ad6a88d-9e49-410d-b00f-07fe2edde2f4,GEOLOGY,cont,21,landsat,success,complete
+GEOLOGY_date2023-06-18_range30_modecont_sensorlandsat,72611808-c6a5-4125-ac5a-096831a2eb44,GEOLOGY,cont,30,landsat,success,complete
+GEOLOGY_date2023-06-18_range45_modecont_sensorlandsat,5fbe8d21-6459-4fea-b402-326ca6f30f51,GEOLOGY,cont,45,landsat,success,complete
+GEOLOGY_date2023-06-18_range60_modecont_sensorlandsat,edb0f42d-7a8f-4b95-99b4-78a54c10b2d6,GEOLOGY,cont,60,landsat,success,complete
+GEOLOGY_date2023-06-18_range90_modecont_sensorlandsat,2e1433f7-96fa-472f-8cc3-22840391810f,GEOLOGY,cont,90,landsat,success,complete
+VALLEY_date2023-06-17_range5_modealarm_sensorsentinel-2,45af80cb-cf8c-43ce-8d11-2d62260d5ce1,VALLEY,alarm,5,sentinel-2,success,complete
+VALLEY_date2023-06-17_range10_modealarm_sensorsentinel-2,5d51d02a-efa8-47da-bef5-41bf87ad25ff,VALLEY,alarm,10,sentinel-2,success,complete
+VALLEY_date2023-06-17_range15_modealarm_sensorsentinel-2,4ad77758-acd0-4b7b-a4bc-33b7e5d50007,VALLEY,alarm,15,sentinel-2,success,complete
+VALLEY_date2023-06-17_range21_modealarm_sensorsentinel-2,b5455b41-c6f7-4acd-ab5b-eac9d2ca3a8b,VALLEY,alarm,21,sentinel-2,success,complete
+VALLEY_date2023-06-17_range30_modealarm_sensorsentinel-2,71a972ca-7c4f-472d-9bfe-749f3c253c46,VALLEY,alarm,30,sentinel-2,success,complete
+VALLEY_date2023-06-17_range45_modealarm_sensorsentinel-2,e216eb49-df1e-463d-a8e9-b6e4a0b83d87,VALLEY,alarm,45,sentinel-2,success,complete
+VALLEY_date2023-06-17_range60_modealarm_sensorsentinel-2,5767708d-e0a1-4278-896f-b44333625e35,VALLEY,alarm,60,sentinel-2,success,complete
+VALLEY_date2023-06-17_range90_modealarm_sensorsentinel-2,80bfd8a1-f67a-4b9b-b7b2-dcbafe7f97e1,VALLEY,alarm,90,sentinel-2,success,complete
+VALLEY_date2023-06-17_range5_modealarm_sensorlandsat,511e76af-d0ee-46f5-a9fa-7b5a5c51627d,VALLEY,alarm,5,landsat,success,complete
+VALLEY_date2023-06-17_range10_modealarm_sensorlandsat,b1ef9683-83af-45fd-a6d3-8249aa11c44d,VALLEY,alarm,10,landsat,success,complete
+VALLEY_date2023-06-17_range15_modealarm_sensorlandsat,18cb302a-22bd-4f1d-8dac-1b15fa8ffc97,VALLEY,alarm,15,landsat,success,complete
+VALLEY_date2023-06-17_range21_modealarm_sensorlandsat,079aa386-a710-4157-8948-e53915dfe55a,VALLEY,alarm,21,landsat,success,complete
+VALLEY_date2023-06-17_range30_modealarm_sensorlandsat,89a5ad2f-c564-440a-bca4-a50ebc901eeb,VALLEY,alarm,30,landsat,success,complete
+VALLEY_date2023-06-17_range45_modealarm_sensorlandsat,b112eeb7-70a1-4741-9cd9-0d8ac75bd557,VALLEY,alarm,45,landsat,success,complete
+VALLEY_date2023-06-17_range60_modealarm_sensorlandsat,e8717167-1b86-4344-ac25-f707973bc73f,VALLEY,alarm,60,landsat,success,complete
+VALLEY_date2023-06-17_range90_modealarm_sensorlandsat,384efc81-123f-48f9-8a1a-95e7d8befdf3,VALLEY,alarm,90,landsat,success,complete
+VALLEY_date2023-06-23_range5_modecont_sensorsentinel-2,c8c92715-b041-40de-850a-5bd5574b2d5a,VALLEY,cont,5,sentinel-2,success,complete
+VALLEY_date2023-06-23_range10_modecont_sensorsentinel-2,4663e4f0-95ca-4e74-b18c-35d01eca8444,VALLEY,cont,10,sentinel-2,success,complete
+VALLEY_date2023-06-23_range15_modecont_sensorsentinel-2,d7953e74-a25e-409b-82b3-e6f97b75f73d,VALLEY,cont,15,sentinel-2,success,complete
+VALLEY_date2023-06-23_range21_modecont_sensorsentinel-2,7d92306c-b30a-4ef3-9f2a-8441524ccf65,VALLEY,cont,21,sentinel-2,success,complete
+VALLEY_date2023-06-23_range30_modecont_sensorsentinel-2,dd948c65-eb26-44e5-8965-60ceea34b1b2,VALLEY,cont,30,sentinel-2,success,complete
+VALLEY_date2023-06-23_range45_modecont_sensorsentinel-2,f7e7d951-4886-42d4-8b64-770ba8144fd7,VALLEY,cont,45,sentinel-2,success,complete
+VALLEY_date2023-06-23_range60_modecont_sensorsentinel-2,98ce8b63-f587-40f1-b401-248e50eef867,VALLEY,cont,60,sentinel-2,success,complete
+VALLEY_date2023-06-23_range90_modecont_sensorsentinel-2,603aae81-f7e1-4486-a4dc-63ee90d0c035,VALLEY,cont,90,sentinel-2,success,complete
+VALLEY_date2023-06-23_range5_modecont_sensorlandsat,b4b587ec-0dc9-4a41-870f-dfb4494e359b,VALLEY,cont,5,landsat,success,complete
+VALLEY_date2023-06-23_range10_modecont_sensorlandsat,433765ac-6b05-4add-af2e-18a2e1d51b8a,VALLEY,cont,10,landsat,success,complete
+VALLEY_date2023-06-23_range15_modecont_sensorlandsat,e6682d90-3ad3-4282-aee4-7ed74ffd4cce,VALLEY,cont,15,landsat,success,complete
+VALLEY_date2023-06-23_range21_modecont_sensorlandsat,9e729d95-ad9c-4858-8fd6-2e215d081596,VALLEY,cont,21,landsat,success,complete
+VALLEY_date2023-06-23_range30_modecont_sensorlandsat,e441931e-c73e-4a81-8b2e-f3093fa3d45b,VALLEY,cont,30,landsat,success,complete
+VALLEY_date2023-06-23_range45_modecont_sensorlandsat,9b3eff04-8457-4378-bcfc-9fbf36096d8d,VALLEY,cont,45,landsat,success,complete
+VALLEY_date2023-06-23_range60_modecont_sensorlandsat,1fe8366d-0aa4-435e-aab8-28627fa08543,VALLEY,cont,60,landsat,success,complete
+VALLEY_date2023-06-23_range90_modecont_sensorlandsat,2ff8a80b-f6fd-476f-a53f-0e9671aa5626,VALLEY,cont,90,landsat,success,complete
+SYCAMORE_date2023-10-16_range5_modealarm_sensorsentinel-2,ce3d4c3c-2001-4c80-b940-98a44d50ffb3,SYCAMORE,alarm,5,sentinel-2,success,complete
+SYCAMORE_date2023-10-16_range10_modealarm_sensorsentinel-2,4f72d6cf-da9d-4d5e-8de2-13c8258489f9,SYCAMORE,alarm,10,sentinel-2,success,complete
+SYCAMORE_date2023-10-16_range15_modealarm_sensorsentinel-2,4eb99fed-8aef-4ca5-a205-074cffb99af5,SYCAMORE,alarm,15,sentinel-2,success,complete
+SYCAMORE_date2023-10-16_range21_modealarm_sensorsentinel-2,ed6e73be-71fa-451f-8d1f-1de22d1c38f4,SYCAMORE,alarm,21,sentinel-2,success,complete
+SYCAMORE_date2023-10-16_range30_modealarm_sensorsentinel-2,b22401b0-f8aa-4f90-b975-6b46b1b3e275,SYCAMORE,alarm,30,sentinel-2,success,complete
+SYCAMORE_date2023-10-16_range45_modealarm_sensorsentinel-2,93861c95-ca6e-4d93-a482-1fd19920032a,SYCAMORE,alarm,45,sentinel-2,success,complete
+SYCAMORE_date2023-10-16_range60_modealarm_sensorsentinel-2,bf0a711b-31e0-4043-9361-aeca28fc81a9,SYCAMORE,alarm,60,sentinel-2,success,complete
+SYCAMORE_date2023-10-16_range90_modealarm_sensorsentinel-2,22fab017-5810-4ad5-a6fe-c15f1616c694,SYCAMORE,alarm,90,sentinel-2,success,complete
+SYCAMORE_date2023-10-16_range5_modealarm_sensorlandsat,62902720-1a57-4a09-9e59-db8381130e94,SYCAMORE,alarm,5,landsat,success,failed
+SYCAMORE_date2023-10-16_range10_modealarm_sensorlandsat,afa209dc-0e86-4684-b280-4af557c9f6a3,SYCAMORE,alarm,10,landsat,success,complete
+SYCAMORE_date2023-10-16_range15_modealarm_sensorlandsat,831320d9-6a2f-4860-9ed3-61f8a5ee46f5,SYCAMORE,alarm,15,landsat,success,complete
+SYCAMORE_date2023-10-16_range21_modealarm_sensorlandsat,1dcda36c-20f7-41c0-a525-e3f69b999d77,SYCAMORE,alarm,21,landsat,success,complete
+SYCAMORE_date2023-10-16_range30_modealarm_sensorlandsat,84968bfc-9ee8-4b90-b914-10f980395f90,SYCAMORE,alarm,30,landsat,success,complete
+SYCAMORE_date2023-10-16_range45_modealarm_sensorlandsat,8df2bbd9-cfe9-47df-adc3-2c64b448c186,SYCAMORE,alarm,45,landsat,success,complete
+SYCAMORE_date2023-10-16_range60_modealarm_sensorlandsat,e7fbfacf-112b-4e0e-92d8-e793af4cbafc,SYCAMORE,alarm,60,landsat,success,complete
+SYCAMORE_date2023-10-16_range90_modealarm_sensorlandsat,4328247f-cc48-43b3-b83f-2d52b35dd9fd,SYCAMORE,alarm,90,landsat,success,complete
+SYCAMORE_date2023-10-20_range5_modecont_sensorsentinel-2,56bd93a1-ef98-4081-999c-875a978fb562,SYCAMORE,cont,5,sentinel-2,success,failed
+SYCAMORE_date2023-10-20_range10_modecont_sensorsentinel-2,cf24e0a7-ed2c-42a2-b74c-66bf2b388e2e,SYCAMORE,cont,10,sentinel-2,success,complete
+SYCAMORE_date2023-10-20_range15_modecont_sensorsentinel-2,da4b7691-db53-4c89-9bb2-2ddcaad3bce2,SYCAMORE,cont,15,sentinel-2,success,complete
+SYCAMORE_date2023-10-20_range21_modecont_sensorsentinel-2,e44405c6-4448-4c42-9583-86f3565bbcbd,SYCAMORE,cont,21,sentinel-2,success,complete
+SYCAMORE_date2023-10-20_range30_modecont_sensorsentinel-2,18feb149-08da-4053-8054-2f48561eade2,SYCAMORE,cont,30,sentinel-2,success,complete
+SYCAMORE_date2023-10-20_range45_modecont_sensorsentinel-2,08abe8a2-2c30-449a-8292-b2a4aca370c9,SYCAMORE,cont,45,sentinel-2,success,complete
+SYCAMORE_date2023-10-20_range60_modecont_sensorsentinel-2,267ab76b-b297-4d5a-8e76-2e5043751a03,SYCAMORE,cont,60,sentinel-2,success,complete
+SYCAMORE_date2023-10-20_range90_modecont_sensorsentinel-2,c337dd87-7f15-4538-a5fa-9f2a0c73b495,SYCAMORE,cont,90,sentinel-2,success,complete
+SYCAMORE_date2023-10-20_range5_modecont_sensorlandsat,94acd84c-98dd-4df1-919a-2b278f7be77e,SYCAMORE,cont,5,landsat,success,complete
+SYCAMORE_date2023-10-20_range10_modecont_sensorlandsat,7e2f0a38-3e03-4401-bb57-2f5270fe8982,SYCAMORE,cont,10,landsat,success,complete
+SYCAMORE_date2023-10-20_range15_modecont_sensorlandsat,17621310-6927-40d9-8fcb-b00dadfafb03,SYCAMORE,cont,15,landsat,success,complete
+SYCAMORE_date2023-10-20_range21_modecont_sensorlandsat,82cbaa6d-7aa9-458f-a219-fc0d2a9e34b0,SYCAMORE,cont,21,landsat,success,complete
+SYCAMORE_date2023-10-20_range30_modecont_sensorlandsat,8c0d9349-8781-45a0-9b2d-9896105b1d64,SYCAMORE,cont,30,landsat,success,complete
+SYCAMORE_date2023-10-20_range45_modecont_sensorlandsat,781de4d9-8e4a-480a-bb55-98faf2b6830a,SYCAMORE,cont,45,landsat,success,complete
+SYCAMORE_date2023-10-20_range60_modecont_sensorlandsat,61eb081d-707f-4a60-a26f-107b1dfef20c,SYCAMORE,cont,60,landsat,success,complete
+SYCAMORE_date2023-10-20_range90_modecont_sensorlandsat,932636ee-bd08-448c-8af9-97b08451ea36,SYCAMORE,cont,90,landsat,success,complete
+SUMMIT_date2022-08-03_range5_modealarm_sensorsentinel-2,fa9d0b37-db5d-466c-bddb-fd00463fbef4,SUMMIT,alarm,5,sentinel-2,success,complete
+SUMMIT_date2022-08-03_range10_modealarm_sensorsentinel-2,f3bdd15e-b2cb-4794-a142-85610b7e3f5e,SUMMIT,alarm,10,sentinel-2,success,complete
+SUMMIT_date2022-08-03_range15_modealarm_sensorsentinel-2,5fc66ced-1779-4ad6-afcb-fb0825705fdf,SUMMIT,alarm,15,sentinel-2,success,complete
+SUMMIT_date2022-08-03_range21_modealarm_sensorsentinel-2,3511355b-21cb-4a2e-97fb-9a961b796c5b,SUMMIT,alarm,21,sentinel-2,success,complete
+SUMMIT_date2022-08-03_range30_modealarm_sensorsentinel-2,54157a4a-76f1-4802-9100-d98a6b0603d3,SUMMIT,alarm,30,sentinel-2,success,complete
+SUMMIT_date2022-08-03_range45_modealarm_sensorsentinel-2,aa905018-3d48-44fc-9806-49c65d211484,SUMMIT,alarm,45,sentinel-2,success,complete
+SUMMIT_date2022-08-03_range60_modealarm_sensorsentinel-2,b5bc5345-6d44-432f-8e4f-0459108b696b,SUMMIT,alarm,60,sentinel-2,success,complete
+SUMMIT_date2022-08-03_range90_modealarm_sensorsentinel-2,fff9d053-b445-4528-9141-2cb49fb4f03e,SUMMIT,alarm,90,sentinel-2,success,complete
+SUMMIT_date2022-08-03_range5_modealarm_sensorlandsat,4f4fec25-5e94-4034-a499-3b26aaa247c3,SUMMIT,alarm,5,landsat,success,failed
+SUMMIT_date2022-08-03_range10_modealarm_sensorlandsat,601776a9-b0db-47c1-b682-0730f11664c9,SUMMIT,alarm,10,landsat,success,complete
+SUMMIT_date2022-08-03_range15_modealarm_sensorlandsat,c04c2fd7-8c50-4983-9ba1-79f7f69f2ebb,SUMMIT,alarm,15,landsat,success,complete
+SUMMIT_date2022-08-03_range21_modealarm_sensorlandsat,473ead2e-cf3e-4db5-a5fd-34b3304803d4,SUMMIT,alarm,21,landsat,success,complete
+SUMMIT_date2022-08-03_range30_modealarm_sensorlandsat,05a73bf2-bae3-470c-a7e9-716fd528764a,SUMMIT,alarm,30,landsat,success,complete
+SUMMIT_date2022-08-03_range45_modealarm_sensorlandsat,9083a933-b09c-4196-b0b5-d49b5ee8d773,SUMMIT,alarm,45,landsat,success,complete
+SUMMIT_date2022-08-03_range60_modealarm_sensorlandsat,5399a09b-5d8a-401a-bb0f-93f0969d3c8e,SUMMIT,alarm,60,landsat,success,complete
+SUMMIT_date2022-08-03_range90_modealarm_sensorlandsat,cc4cb5f8-37e8-46eb-9a39-89c94029f7d0,SUMMIT,alarm,90,landsat,success,complete
+SUMMIT_date2022-10-19_range5_modecont_sensorsentinel-2,29510ea1-296c-40c4-8126-2f8a9008f09e,SUMMIT,cont,5,sentinel-2,success,complete
+SUMMIT_date2022-10-19_range10_modecont_sensorsentinel-2,c3da18fd-a917-4e37-bac7-3ff34528382f,SUMMIT,cont,10,sentinel-2,success,complete
+SUMMIT_date2022-10-19_range15_modecont_sensorsentinel-2,aa0cdc30-0702-43c7-83fe-79da51489c5e,SUMMIT,cont,15,sentinel-2,success,complete
+SUMMIT_date2022-10-19_range21_modecont_sensorsentinel-2,44f3369b-0a63-4b78-aa76-e74a773207f0,SUMMIT,cont,21,sentinel-2,success,complete
+SUMMIT_date2022-10-19_range30_modecont_sensorsentinel-2,69bc7b9a-1138-45f9-829c-5ba70e78fca3,SUMMIT,cont,30,sentinel-2,success,complete
+SUMMIT_date2022-10-19_range45_modecont_sensorsentinel-2,4083a8ac-3afb-4e6d-ba5c-7d07684eb744,SUMMIT,cont,45,sentinel-2,success,complete
+SUMMIT_date2022-10-19_range60_modecont_sensorsentinel-2,9a9ac137-393f-4299-b558-be1cdb9068f9,SUMMIT,cont,60,sentinel-2,success,complete
+SUMMIT_date2022-10-19_range90_modecont_sensorsentinel-2,2d3e21b5-a4b3-4e0b-b73b-0a115e6deb28,SUMMIT,cont,90,sentinel-2,success,complete
+SUMMIT_date2022-10-19_range5_modecont_sensorlandsat,35b9a55d-c318-40a8-8500-94a6f220d658,SUMMIT,cont,5,landsat,success,complete
+SUMMIT_date2022-10-19_range10_modecont_sensorlandsat,93f9e83d-7e19-4bf9-92c4-6c2e7e3aeaca,SUMMIT,cont,10,landsat,success,complete
+SUMMIT_date2022-10-19_range15_modecont_sensorlandsat,012d7bc7-7bf1-4c6c-9e46-5077d5c9b7dd,SUMMIT,cont,15,landsat,success,complete
+SUMMIT_date2022-10-19_range21_modecont_sensorlandsat,d00216e8-94b8-4921-91a4-cc633ff82d42,SUMMIT,cont,21,landsat,success,complete
+SUMMIT_date2022-10-19_range30_modecont_sensorlandsat,cf7de637-7d85-46a8-a2a0-df35c3c8b01d,SUMMIT,cont,30,landsat,success,complete
+SUMMIT_date2022-10-19_range45_modecont_sensorlandsat,3cbd141a-cff3-465d-adf4-a64f82824485,SUMMIT,cont,45,landsat,success,complete
+SUMMIT_date2022-10-19_range60_modecont_sensorlandsat,c78abb0e-4b80-43de-ab99-dafe53eba1df,SUMMIT,cont,60,landsat,success,complete
+SUMMIT_date2022-10-19_range90_modecont_sensorlandsat,03eaf0ea-6613-483b-94e3-93386558b979,SUMMIT,cont,90,landsat,success,complete
+ELK TRAIL_date2022-05-26_range5_modealarm_sensorsentinel-2,85c4a719-cd6a-41fc-bbe7-23d6315eba22,ELK TRAIL,alarm,5,sentinel-2,success,complete
+ELK TRAIL_date2022-05-26_range10_modealarm_sensorsentinel-2,27e8486e-4635-42af-8c09-74c39061b137,ELK TRAIL,alarm,10,sentinel-2,success,complete
+ELK TRAIL_date2022-05-26_range15_modealarm_sensorsentinel-2,e498b0e0-6a11-44b9-8ee0-fd3359b07a0e,ELK TRAIL,alarm,15,sentinel-2,success,complete
+ELK TRAIL_date2022-05-26_range21_modealarm_sensorsentinel-2,629d4173-b793-459c-b301-f89a25f584fd,ELK TRAIL,alarm,21,sentinel-2,success,complete
+ELK TRAIL_date2022-05-26_range30_modealarm_sensorsentinel-2,a6208424-9a72-4059-b46b-3c59f65f9dd3,ELK TRAIL,alarm,30,sentinel-2,success,complete
+ELK TRAIL_date2022-05-26_range45_modealarm_sensorsentinel-2,b8b50821-b0aa-4b17-aed5-cf5c8a13cead,ELK TRAIL,alarm,45,sentinel-2,success,complete
+ELK TRAIL_date2022-05-26_range60_modealarm_sensorsentinel-2,4c74a7f2-c291-4a5a-b16d-2d972dca0e66,ELK TRAIL,alarm,60,sentinel-2,success,complete
+ELK TRAIL_date2022-05-26_range90_modealarm_sensorsentinel-2,1bab22c6-46aa-4c7e-9ad9-63a3c8996c48,ELK TRAIL,alarm,90,sentinel-2,success,complete
+ELK TRAIL_date2022-05-26_range5_modealarm_sensorlandsat,19ef3468-bc28-4bbc-9bd9-030f2f23db57,ELK TRAIL,alarm,5,landsat,success,failed
+ELK TRAIL_date2022-05-26_range10_modealarm_sensorlandsat,f5af2260-7b1c-4ceb-a5d0-6f79ea5b3ca1,ELK TRAIL,alarm,10,landsat,success,complete
+ELK TRAIL_date2022-05-26_range15_modealarm_sensorlandsat,f242ae9e-0708-4fa3-afb0-2ab799fec582,ELK TRAIL,alarm,15,landsat,success,complete
+ELK TRAIL_date2022-05-26_range21_modealarm_sensorlandsat,a2a41624-7584-4184-8705-ea8a856dfc7b,ELK TRAIL,alarm,21,landsat,success,complete
+ELK TRAIL_date2022-05-26_range30_modealarm_sensorlandsat,fc5c39a3-0dd3-42b1-bbd2-29257cbbdf70,ELK TRAIL,alarm,30,landsat,success,complete
+ELK TRAIL_date2022-05-26_range45_modealarm_sensorlandsat,09d15344-6a7d-4ce9-ab51-7d91d4fae85d,ELK TRAIL,alarm,45,landsat,success,complete
+ELK TRAIL_date2022-05-26_range60_modealarm_sensorlandsat,4963a8b1-b42b-4374-b026-6aaf0b9d7db8,ELK TRAIL,alarm,60,landsat,success,complete
+ELK TRAIL_date2022-05-26_range90_modealarm_sensorlandsat,6e4e917f-a5d3-4789-80f2-b45908a0c1f0,ELK TRAIL,alarm,90,landsat,success,complete
+ELK TRAIL_date2022-05-31_range5_modecont_sensorsentinel-2,0e34ec0a-8dcf-48d4-9924-359a12172d8f,ELK TRAIL,cont,5,sentinel-2,success,complete
+ELK TRAIL_date2022-05-31_range10_modecont_sensorsentinel-2,4e948e6f-6989-48da-b788-35dc18f62fc1,ELK TRAIL,cont,10,sentinel-2,success,complete
+ELK TRAIL_date2022-05-31_range15_modecont_sensorsentinel-2,48be4fa8-a03b-4142-9ecb-337677eef8ef,ELK TRAIL,cont,15,sentinel-2,success,complete
+ELK TRAIL_date2022-05-31_range21_modecont_sensorsentinel-2,0d9d3b18-5c45-4947-8f96-2f3a8c650512,ELK TRAIL,cont,21,sentinel-2,success,complete
+ELK TRAIL_date2022-05-31_range30_modecont_sensorsentinel-2,9f1474d7-135b-4b97-b991-7ce5852bbea3,ELK TRAIL,cont,30,sentinel-2,success,complete
+ELK TRAIL_date2022-05-31_range45_modecont_sensorsentinel-2,ec07b114-c406-4163-b1a0-564d2d93cba6,ELK TRAIL,cont,45,sentinel-2,success,complete
+ELK TRAIL_date2022-05-31_range60_modecont_sensorsentinel-2,1d188649-cff2-4b8d-9b52-6bb84ffa5474,ELK TRAIL,cont,60,sentinel-2,success,complete
+ELK TRAIL_date2022-05-31_range90_modecont_sensorsentinel-2,d9431cbe-d7c8-4967-9dc8-b26119e1e752,ELK TRAIL,cont,90,sentinel-2,success,complete
+ELK TRAIL_date2022-05-31_range5_modecont_sensorlandsat,a10d404e-0daa-4cb9-90be-004ac8fb7025,ELK TRAIL,cont,5,landsat,success,complete
+ELK TRAIL_date2022-05-31_range10_modecont_sensorlandsat,53b27a2d-890e-4046-8752-6f46ddd181fe,ELK TRAIL,cont,10,landsat,success,complete
+ELK TRAIL_date2022-05-31_range15_modecont_sensorlandsat,df69a13b-9882-416b-8f8a-6b8e55f0afa2,ELK TRAIL,cont,15,landsat,success,complete
+ELK TRAIL_date2022-05-31_range21_modecont_sensorlandsat,e485eaa5-66de-4c55-90c8-cf55a1b0e146,ELK TRAIL,cont,21,landsat,success,complete
+ELK TRAIL_date2022-05-31_range30_modecont_sensorlandsat,fd87e950-75ac-4358-9b1e-e45fff183c1e,ELK TRAIL,cont,30,landsat,success,complete
+ELK TRAIL_date2022-05-31_range45_modecont_sensorlandsat,0bcd585e-a342-4ead-a451-7a6051aa51a4,ELK TRAIL,cont,45,landsat,success,complete
+ELK TRAIL_date2022-05-31_range60_modecont_sensorlandsat,83165930-a206-4553-a605-1cc86e1c1589,ELK TRAIL,cont,60,landsat,success,complete
+ELK TRAIL_date2022-05-31_range90_modecont_sensorlandsat,00fb2f01-26bc-47b5-8f06-fa052edaf780,ELK TRAIL,cont,90,landsat,success,complete
+AVALANCHE_date2022-07-18_range5_modealarm_sensorsentinel-2,7e771dd6-a32f-4e34-8008-99c422700b33,AVALANCHE,alarm,5,sentinel-2,success,complete
+AVALANCHE_date2022-07-18_range10_modealarm_sensorsentinel-2,8e68df53-f6eb-4b93-8e4a-d039423025bb,AVALANCHE,alarm,10,sentinel-2,success,complete
+AVALANCHE_date2022-07-18_range15_modealarm_sensorsentinel-2,0645ca9b-3230-479b-bee6-b75063e2175b,AVALANCHE,alarm,15,sentinel-2,success,complete
+AVALANCHE_date2022-07-18_range21_modealarm_sensorsentinel-2,47d7ee6c-795e-4b62-b14b-f17636d64f30,AVALANCHE,alarm,21,sentinel-2,success,complete
+AVALANCHE_date2022-07-18_range30_modealarm_sensorsentinel-2,00147db4-aae5-469a-88dc-ac43e2ae8a21,AVALANCHE,alarm,30,sentinel-2,success,complete
+AVALANCHE_date2022-07-18_range45_modealarm_sensorsentinel-2,c274b53f-1368-4064-a015-a6ac7a945689,AVALANCHE,alarm,45,sentinel-2,success,complete
+AVALANCHE_date2022-07-18_range60_modealarm_sensorsentinel-2,3494193f-91e7-451a-9626-af68671d8714,AVALANCHE,alarm,60,sentinel-2,success,complete
+AVALANCHE_date2022-07-18_range90_modealarm_sensorsentinel-2,f74356cf-2b65-49b4-ad2f-2cc062f86718,AVALANCHE,alarm,90,sentinel-2,success,complete
+AVALANCHE_date2022-07-18_range5_modealarm_sensorlandsat,b6648783-3520-4922-bd6a-584762b00cae,AVALANCHE,alarm,5,landsat,success,failed
+AVALANCHE_date2022-07-18_range10_modealarm_sensorlandsat,6451fbbd-1182-44e8-922b-27e13121e8cb,AVALANCHE,alarm,10,landsat,success,complete
+AVALANCHE_date2022-07-18_range15_modealarm_sensorlandsat,4e532952-ffc6-4c4c-a825-06d5905ff867,AVALANCHE,alarm,15,landsat,success,complete
+AVALANCHE_date2022-07-18_range21_modealarm_sensorlandsat,5b332ecf-c791-4d82-b288-e7cd422a37ef,AVALANCHE,alarm,21,landsat,success,complete
+AVALANCHE_date2022-07-18_range30_modealarm_sensorlandsat,539642fc-c098-4a88-8daf-a0103312e080,AVALANCHE,alarm,30,landsat,success,complete
+AVALANCHE_date2022-07-18_range45_modealarm_sensorlandsat,5372db5a-2cca-4219-863b-793e8376c3c6,AVALANCHE,alarm,45,landsat,success,complete
+AVALANCHE_date2022-07-18_range60_modealarm_sensorlandsat,7b1da718-ec93-40eb-84a4-5c89f9fbaa7e,AVALANCHE,alarm,60,landsat,success,complete
+AVALANCHE_date2022-07-18_range90_modealarm_sensorlandsat,7cc3ad04-2ed8-452f-85f5-45bbfcabb0bf,AVALANCHE,alarm,90,landsat,success,complete
+AVALANCHE_date2022-11-10_range5_modecont_sensorsentinel-2,7ec045e9-049c-495c-872f-4ed7c6b5557b,AVALANCHE,cont,5,sentinel-2,success,complete
+AVALANCHE_date2022-11-10_range10_modecont_sensorsentinel-2,8f9ffea8-7242-4e0b-93a1-20aaadf1fd65,AVALANCHE,cont,10,sentinel-2,success,complete
+AVALANCHE_date2022-11-10_range15_modecont_sensorsentinel-2,571ce93c-527c-48fc-8848-bcf44fec7058,AVALANCHE,cont,15,sentinel-2,success,complete
+AVALANCHE_date2022-11-10_range21_modecont_sensorsentinel-2,6d46bb85-b61b-4dce-bd6e-3427952da0ab,AVALANCHE,cont,21,sentinel-2,success,complete
+AVALANCHE_date2022-11-10_range30_modecont_sensorsentinel-2,0ab888e8-fafe-4455-a8e9-ecefec85c180,AVALANCHE,cont,30,sentinel-2,success,complete
+AVALANCHE_date2022-11-10_range45_modecont_sensorsentinel-2,8694b32e-3583-4cbc-9e41-dc06183ddc9d,AVALANCHE,cont,45,sentinel-2,success,complete
+AVALANCHE_date2022-11-10_range60_modecont_sensorsentinel-2,92997f60-d351-4d34-858d-e88c33be8d56,AVALANCHE,cont,60,sentinel-2,success,complete
+AVALANCHE_date2022-11-10_range90_modecont_sensorsentinel-2,cfb5e653-a5f9-4e8b-9352-45de5cec5256,AVALANCHE,cont,90,sentinel-2,success,complete
+AVALANCHE_date2022-11-10_range5_modecont_sensorlandsat,65c8cc1b-7c0d-4e8a-a3bc-bc03b0d8e762,AVALANCHE,cont,5,landsat,success,failed
+AVALANCHE_date2022-11-10_range10_modecont_sensorlandsat,967c5a24-c860-4b20-a0c4-0a38ba7b15f7,AVALANCHE,cont,10,landsat,success,failed
+AVALANCHE_date2022-11-10_range15_modecont_sensorlandsat,0dfd275c-6a5a-4f1b-ab26-8b0bdcb04e64,AVALANCHE,cont,15,landsat,success,failed
+AVALANCHE_date2022-11-10_range21_modecont_sensorlandsat,feca9124-e44b-421c-ba17-39a6714507f0,AVALANCHE,cont,21,landsat,success,failed
+AVALANCHE_date2022-11-10_range30_modecont_sensorlandsat,0ee7da51-2655-4b0c-8ca9-f0aef63b2d4f,AVALANCHE,cont,30,landsat,success,failed
+AVALANCHE_date2022-11-10_range45_modecont_sensorlandsat,0fbb261f-adfa-4b22-813a-43f992afd93d,AVALANCHE,cont,45,landsat,success,failed
+AVALANCHE_date2022-11-10_range60_modecont_sensorlandsat,bf378537-70a7-480f-bffa-a0b6ff2d2481,AVALANCHE,cont,60,landsat,success,failed
+AVALANCHE_date2022-11-10_range90_modecont_sensorlandsat,8eca495d-4312-455d-b88b-d9cfd4d7279e,AVALANCHE,cont,90,landsat,success,failed
+KNP Complex_date2021-09-10_range5_modealarm_sensorsentinel-2,d19d1630-a786-4407-8dea-4d0cf821c6f1,KNP Complex,alarm,5,sentinel-2,success,failed
+KNP Complex_date2021-09-10_range10_modealarm_sensorsentinel-2,db89689e-5490-42c0-b1a4-9bd2d6a9e25c,KNP Complex,alarm,10,sentinel-2,success,failed
+KNP Complex_date2021-09-10_range15_modealarm_sensorsentinel-2,670cbcac-9338-47d4-8d2f-ddc5c2d52c71,KNP Complex,alarm,15,sentinel-2,success,failed
+KNP Complex_date2021-09-10_range21_modealarm_sensorsentinel-2,86f370a3-97a0-48d1-93f5-07962240e76f,KNP Complex,alarm,21,sentinel-2,success,failed
+KNP Complex_date2021-09-10_range30_modealarm_sensorsentinel-2,bbdf60ce-2cd6-4c41-8f99-663d2b04920d,KNP Complex,alarm,30,sentinel-2,success,failed
+KNP Complex_date2021-09-10_range45_modealarm_sensorsentinel-2,,KNP Complex,alarm,45,sentinel-2,failed_504,999
+KNP Complex_date2021-09-10_range60_modealarm_sensorsentinel-2,,KNP Complex,alarm,60,sentinel-2,failed_504,999
+KNP Complex_date2021-09-10_range90_modealarm_sensorsentinel-2,,KNP Complex,alarm,90,sentinel-2,failed_504,999
+KNP Complex_date2021-09-10_range5_modealarm_sensorlandsat,,KNP Complex,alarm,5,landsat,failed_504,999
+KNP Complex_date2021-09-10_range10_modealarm_sensorlandsat,a2e35e26-cdd4-416b-86a8-fe1ad9246f9e,KNP Complex,alarm,10,landsat,success,failed
+KNP Complex_date2021-09-10_range15_modealarm_sensorlandsat,cd8afbca-1c1a-4e0d-9ce8-eb22aeae225f,KNP Complex,alarm,15,landsat,success,failed
+KNP Complex_date2021-09-10_range21_modealarm_sensorlandsat,0c1d1162-c21d-460c-87a1-6e873fbcbbc5,KNP Complex,alarm,21,landsat,success,failed
+KNP Complex_date2021-09-10_range30_modealarm_sensorlandsat,1083b60b-5c12-4d0d-adc3-6f18a7043a22,KNP Complex,alarm,30,landsat,success,failed
+KNP Complex_date2021-09-10_range45_modealarm_sensorlandsat,2006ea90-25d7-44e6-9310-bdf663262dc1,KNP Complex,alarm,45,landsat,success,failed
+KNP Complex_date2021-09-10_range60_modealarm_sensorlandsat,9d12a0ec-7e5e-4dd9-8670-ec51eb4d2f66,KNP Complex,alarm,60,landsat,success,failed
+KNP Complex_date2021-09-10_range90_modealarm_sensorlandsat,9eaa0b9d-cedf-4b0d-8222-751aa004c8f0,KNP Complex,alarm,90,landsat,success,failed
+KNP Complex_date2021-12-16_range5_modecont_sensorsentinel-2,69e620ec-5074-49af-8325-3588f18ac94a,KNP Complex,cont,5,sentinel-2,success,failed
+KNP Complex_date2021-12-16_range10_modecont_sensorsentinel-2,c4df368f-b32d-403d-ab82-0ebe0ac563a3,KNP Complex,cont,10,sentinel-2,success,failed
+KNP Complex_date2021-12-16_range15_modecont_sensorsentinel-2,dc34e982-0eeb-45e9-9f1d-448586807a69,KNP Complex,cont,15,sentinel-2,success,failed
+KNP Complex_date2021-12-16_range21_modecont_sensorsentinel-2,8826018f-e6fe-4576-9d47-9c25ed7e92c8,KNP Complex,cont,21,sentinel-2,success,failed
+KNP Complex_date2021-12-16_range30_modecont_sensorsentinel-2,626e5fb1-8ce2-4909-b7b1-bbc3fcdf0384,KNP Complex,cont,30,sentinel-2,success,failed
+KNP Complex_date2021-12-16_range45_modecont_sensorsentinel-2,0ce06567-9a37-4d87-a49a-b02375383df7,KNP Complex,cont,45,sentinel-2,success,failed
+KNP Complex_date2021-12-16_range60_modecont_sensorsentinel-2,31a19a21-3188-499e-9bfd-72be638e7ccd,KNP Complex,cont,60,sentinel-2,success,failed
+KNP Complex_date2021-12-16_range90_modecont_sensorsentinel-2,,KNP Complex,cont,90,sentinel-2,failed_504,999
+KNP Complex_date2021-12-16_range5_modecont_sensorlandsat,0fda267f-ebe3-4a65-b6f7-c2e4ca86e01f,KNP Complex,cont,5,landsat,success,failed
+KNP Complex_date2021-12-16_range10_modecont_sensorlandsat,d2dc6538-c6ff-41ee-a663-34e80be1205b,KNP Complex,cont,10,landsat,success,failed
+KNP Complex_date2021-12-16_range15_modecont_sensorlandsat,d4e79c75-c8ff-4f62-af83-51ec452ee365,KNP Complex,cont,15,landsat,success,failed
+KNP Complex_date2021-12-16_range21_modecont_sensorlandsat,6da553ce-129b-4144-abbe-0a36e39c7172,KNP Complex,cont,21,landsat,success,failed
+KNP Complex_date2021-12-16_range30_modecont_sensorlandsat,28007971-ad62-4072-a463-a001935c5686,KNP Complex,cont,30,landsat,success,failed
+KNP Complex_date2021-12-16_range45_modecont_sensorlandsat,24909978-e9f6-4541-b532-2061860c5771,KNP Complex,cont,45,landsat,success,failed
+KNP Complex_date2021-12-16_range60_modecont_sensorlandsat,26ef8dc4-7217-407b-8a46-456ddd64348a,KNP Complex,cont,60,landsat,success,failed
+KNP Complex_date2021-12-16_range90_modecont_sensorlandsat,9a68f0ab-3877-45ba-abb4-8ed3a1b93cb5,KNP Complex,cont,90,landsat,success,failed
+MOJAVE_date2021-06-17_range5_modealarm_sensorsentinel-2,f2ba564c-135a-4997-927c-8f505e6ee6d9,MOJAVE,alarm,5,sentinel-2,success,complete
+MOJAVE_date2021-06-17_range10_modealarm_sensorsentinel-2,a960984b-a61a-4036-becf-c76192136339,MOJAVE,alarm,10,sentinel-2,success,complete
+MOJAVE_date2021-06-17_range15_modealarm_sensorsentinel-2,071e0484-f76e-467e-9231-eb4a17f61120,MOJAVE,alarm,15,sentinel-2,success,complete
+MOJAVE_date2021-06-17_range21_modealarm_sensorsentinel-2,3217390d-d566-43fc-a987-f23a3caaa590,MOJAVE,alarm,21,sentinel-2,success,complete
+MOJAVE_date2021-06-17_range30_modealarm_sensorsentinel-2,956b3a95-c795-42ff-b327-fb7aef64d46b,MOJAVE,alarm,30,sentinel-2,success,complete
+MOJAVE_date2021-06-17_range45_modealarm_sensorsentinel-2,db8d162d-08b6-4c68-ae00-664629296089,MOJAVE,alarm,45,sentinel-2,success,complete
+MOJAVE_date2021-06-17_range60_modealarm_sensorsentinel-2,369997b1-beed-4763-9208-31428a99e617,MOJAVE,alarm,60,sentinel-2,success,complete
+MOJAVE_date2021-06-17_range90_modealarm_sensorsentinel-2,c0b0bab1-657b-4aa7-8b0d-c80d6db405e9,MOJAVE,alarm,90,sentinel-2,success,complete
+MOJAVE_date2021-06-17_range5_modealarm_sensorlandsat,f6688389-ce3b-4383-855b-cea9896bdbdf,MOJAVE,alarm,5,landsat,success,failed
+MOJAVE_date2021-06-17_range10_modealarm_sensorlandsat,ee213ad8-dfb3-4cc8-8bf1-5db7460f828e,MOJAVE,alarm,10,landsat,success,failed
+MOJAVE_date2021-06-17_range15_modealarm_sensorlandsat,feb7be90-9a0e-497e-ad36-1a3025c3f615,MOJAVE,alarm,15,landsat,success,failed
+MOJAVE_date2021-06-17_range21_modealarm_sensorlandsat,77cf4a7f-d755-43e8-92e1-2b5ac80f0b7a,MOJAVE,alarm,21,landsat,success,failed
+MOJAVE_date2021-06-17_range30_modealarm_sensorlandsat,d679fcf1-e138-4312-853f-60a72e93ae92,MOJAVE,alarm,30,landsat,success,failed
+MOJAVE_date2021-06-17_range45_modealarm_sensorlandsat,f758b9d4-2217-4b4c-bc94-dff216037a0b,MOJAVE,alarm,45,landsat,success,failed
+MOJAVE_date2021-06-17_range60_modealarm_sensorlandsat,2b418417-83cb-4798-89ae-4906e2ac5976,MOJAVE,alarm,60,landsat,success,failed
+MOJAVE_date2021-06-17_range90_modealarm_sensorlandsat,0f050fa5-53ff-4431-9895-3e59981dea5a,MOJAVE,alarm,90,landsat,success,failed
+MOJAVE_date2021-06-25_range5_modecont_sensorsentinel-2,c8a98486-9548-4e97-b458-6a17442aef84,MOJAVE,cont,5,sentinel-2,success,complete
+MOJAVE_date2021-06-25_range10_modecont_sensorsentinel-2,d4efb896-6ccf-4a75-92e3-c3f0e4c17dd4,MOJAVE,cont,10,sentinel-2,success,complete
+MOJAVE_date2021-06-25_range15_modecont_sensorsentinel-2,9b233ee4-c8e6-4efa-9d58-59c848b6b791,MOJAVE,cont,15,sentinel-2,success,complete
+MOJAVE_date2021-06-25_range21_modecont_sensorsentinel-2,42e9a004-8e31-426a-b061-b0a4fd211b86,MOJAVE,cont,21,sentinel-2,success,complete
+MOJAVE_date2021-06-25_range30_modecont_sensorsentinel-2,2faf0b33-16ce-459a-a9e9-ccfd5f5f2d8a,MOJAVE,cont,30,sentinel-2,success,complete
+MOJAVE_date2021-06-25_range45_modecont_sensorsentinel-2,58608ef0-bfab-4230-a3c2-4af2ab0e510d,MOJAVE,cont,45,sentinel-2,success,complete
+MOJAVE_date2021-06-25_range60_modecont_sensorsentinel-2,207f88fb-a2de-41b7-b49a-086b7a2851fc,MOJAVE,cont,60,sentinel-2,success,complete
+MOJAVE_date2021-06-25_range90_modecont_sensorsentinel-2,8fa450e9-531b-46ba-ac9d-01643a4acb77,MOJAVE,cont,90,sentinel-2,success,complete
+MOJAVE_date2021-06-25_range5_modecont_sensorlandsat,5dcecef5-61c6-492a-9a10-ce1a1408f6d3,MOJAVE,cont,5,landsat,success,failed
+MOJAVE_date2021-06-25_range10_modecont_sensorlandsat,0ec74345-25a0-4d4d-b45c-f6f9ccaf9a2e,MOJAVE,cont,10,landsat,success,failed
+MOJAVE_date2021-06-25_range15_modecont_sensorlandsat,83f5490a-882a-4c69-adf5-15bf62c5cdf2,MOJAVE,cont,15,landsat,success,failed
+MOJAVE_date2021-06-25_range21_modecont_sensorlandsat,ed0072a5-a728-4199-8275-c31298b2a9cc,MOJAVE,cont,21,landsat,success,failed
+MOJAVE_date2021-06-25_range30_modecont_sensorlandsat,47961dfc-93d8-4683-b179-a565a3cebc87,MOJAVE,cont,30,landsat,success,failed
+MOJAVE_date2021-06-25_range45_modecont_sensorlandsat,917c7c0b-063d-4e45-9858-48b1897e4bb4,MOJAVE,cont,45,landsat,success,failed
+MOJAVE_date2021-06-25_range60_modecont_sensorlandsat,6234d999-1bc7-4122-b5a8-a2faa306c0e7,MOJAVE,cont,60,landsat,success,failed
+MOJAVE_date2021-06-25_range90_modecont_sensorlandsat,ac458cca-51de-4428-9962-fae714fba47c,MOJAVE,cont,90,landsat,success,failed
+POND_date2021-08-30_range5_modealarm_sensorsentinel-2,6ae3f766-8b47-44ee-9fe4-a35bebe453c9,POND,alarm,5,sentinel-2,success,complete
+POND_date2021-08-30_range10_modealarm_sensorsentinel-2,0a485935-d5b1-4912-8f83-176ac2dcd812,POND,alarm,10,sentinel-2,success,complete
+POND_date2021-08-30_range15_modealarm_sensorsentinel-2,78583e68-bd2a-486d-96da-313fb6ca348d,POND,alarm,15,sentinel-2,success,complete
+POND_date2021-08-30_range21_modealarm_sensorsentinel-2,93f81805-6941-4efa-9332-9d2bb3913bc1,POND,alarm,21,sentinel-2,success,complete
+POND_date2021-08-30_range30_modealarm_sensorsentinel-2,4170c9b0-b9e0-4746-a17c-797f1d978bc4,POND,alarm,30,sentinel-2,success,complete
+POND_date2021-08-30_range45_modealarm_sensorsentinel-2,dbbde0f1-5a52-4338-9a6d-99a10d0636c1,POND,alarm,45,sentinel-2,success,complete
+POND_date2021-08-30_range60_modealarm_sensorsentinel-2,fe108a8d-85d1-43bf-b1f7-6882c5ae04a4,POND,alarm,60,sentinel-2,success,complete
+POND_date2021-08-30_range90_modealarm_sensorsentinel-2,47f20425-1830-49aa-8235-f989b0bd6342,POND,alarm,90,sentinel-2,success,complete
+POND_date2021-08-30_range5_modealarm_sensorlandsat,fd1f4c98-711b-48db-8de9-8025d3d9a5a4,POND,alarm,5,landsat,success,failed
+POND_date2021-08-30_range10_modealarm_sensorlandsat,2cd700e8-0df4-4051-bd22-1963b837b054,POND,alarm,10,landsat,success,failed
+POND_date2021-08-30_range15_modealarm_sensorlandsat,a6d71ad1-4968-4713-982d-82d83b4050e9,POND,alarm,15,landsat,success,failed
+POND_date2021-08-30_range21_modealarm_sensorlandsat,0543e43f-c75d-47e3-870c-9f8bc853e91c,POND,alarm,21,landsat,success,failed
+POND_date2021-08-30_range30_modealarm_sensorlandsat,448b9a81-b832-4ed2-b78f-2de06fd0e5ee,POND,alarm,30,landsat,success,failed
+POND_date2021-08-30_range45_modealarm_sensorlandsat,2f998c2c-e66c-4f3d-8620-9e75b7794818,POND,alarm,45,landsat,success,failed
+POND_date2021-08-30_range60_modealarm_sensorlandsat,5d01e9a9-ae38-4e10-9024-79d0a81b0743,POND,alarm,60,landsat,success,failed
+POND_date2021-08-30_range90_modealarm_sensorlandsat,deb39c8d-7808-4995-9925-ab06ea2bc821,POND,alarm,90,landsat,success,failed
+POND_date2021-09-04_range5_modecont_sensorsentinel-2,3975222b-3368-475e-acee-08c33b2a1249,POND,cont,5,sentinel-2,success,complete
+POND_date2021-09-04_range10_modecont_sensorsentinel-2,205c32e6-0151-4e9a-a614-8a8032c7fcb6,POND,cont,10,sentinel-2,success,complete
+POND_date2021-09-04_range15_modecont_sensorsentinel-2,7abaa17d-d301-40be-a5e2-4198f0145695,POND,cont,15,sentinel-2,success,complete
+POND_date2021-09-04_range21_modecont_sensorsentinel-2,11579762-2320-454b-a26f-dcf3a1234a85,POND,cont,21,sentinel-2,success,complete
+POND_date2021-09-04_range30_modecont_sensorsentinel-2,dcd88d8b-0675-4038-a268-b669f96cb148,POND,cont,30,sentinel-2,success,complete
+POND_date2021-09-04_range45_modecont_sensorsentinel-2,79c3993b-17e8-4283-99a7-6e98205845fb,POND,cont,45,sentinel-2,success,complete
+POND_date2021-09-04_range60_modecont_sensorsentinel-2,79e05a56-9c81-4763-95d9-5c79ea5d2a50,POND,cont,60,sentinel-2,success,complete
+POND_date2021-09-04_range90_modecont_sensorsentinel-2,098058a8-f469-4ca8-81a6-5897323e6945,POND,cont,90,sentinel-2,success,complete
+POND_date2021-09-04_range5_modecont_sensorlandsat,b68e9cec-b175-43a0-8dbc-c70adef7420d,POND,cont,5,landsat,success,failed
+POND_date2021-09-04_range10_modecont_sensorlandsat,4da2e6ad-005c-4a25-8d87-96f720153cf2,POND,cont,10,landsat,success,failed
+POND_date2021-09-04_range15_modecont_sensorlandsat,666aedd6-271b-4f34-b20c-32f20da37680,POND,cont,15,landsat,success,failed
+POND_date2021-09-04_range21_modecont_sensorlandsat,6121a1fb-0403-413a-b0b7-1b3924b1a57a,POND,cont,21,landsat,success,failed
+POND_date2021-09-04_range30_modecont_sensorlandsat,609891b1-7578-4641-a668-297352c92aa6,POND,cont,30,landsat,success,failed
+POND_date2021-09-04_range45_modecont_sensorlandsat,7166ff1e-94a1-44b7-8a47-0114e7dba0e3,POND,cont,45,landsat,success,failed
+POND_date2021-09-04_range60_modecont_sensorlandsat,e7acae8c-e221-4fc5-9daa-7eab26fdf935,POND,cont,60,landsat,success,failed
+POND_date2021-09-04_range90_modecont_sensorlandsat,ff8c3600-aedf-42d4-b6c6-3a7fcf2e58cc,POND,cont,90,landsat,success,failed
+LOST_date2021-07-10_range5_modealarm_sensorsentinel-2,c485a223-0c0b-4b46-baf9-9e14c37eef10,LOST,alarm,5,sentinel-2,success,complete
+LOST_date2021-07-10_range10_modealarm_sensorsentinel-2,2a041cd9-a2dc-4bd4-a327-170689c2c659,LOST,alarm,10,sentinel-2,success,complete
+LOST_date2021-07-10_range15_modealarm_sensorsentinel-2,35ec5671-cd37-4d2c-9eea-637ff4056429,LOST,alarm,15,sentinel-2,success,complete
+LOST_date2021-07-10_range21_modealarm_sensorsentinel-2,f55b1e2a-831c-47ed-b685-7074ec284f97,LOST,alarm,21,sentinel-2,success,complete
+LOST_date2021-07-10_range30_modealarm_sensorsentinel-2,0daa6e71-e24c-4c76-9c29-23383e1a412e,LOST,alarm,30,sentinel-2,success,complete
+LOST_date2021-07-10_range45_modealarm_sensorsentinel-2,aba60a3e-0bcc-440b-bc2f-3c1e5c87e032,LOST,alarm,45,sentinel-2,success,complete
+LOST_date2021-07-10_range60_modealarm_sensorsentinel-2,8db373b7-578d-4fd2-b67e-aaa34ac7cc1a,LOST,alarm,60,sentinel-2,success,complete
+LOST_date2021-07-10_range90_modealarm_sensorsentinel-2,b21a6403-3fe1-42a7-9566-43489a1aa96f,LOST,alarm,90,sentinel-2,success,complete
+LOST_date2021-07-10_range5_modealarm_sensorlandsat,337d1731-b953-4a5a-947e-9741b71cf66a,LOST,alarm,5,landsat,success,failed
+LOST_date2021-07-10_range10_modealarm_sensorlandsat,68dad6c0-0f03-4bdb-b364-95353b03c590,LOST,alarm,10,landsat,success,failed
+LOST_date2021-07-10_range15_modealarm_sensorlandsat,b1e485f1-8035-4fdf-a5e1-450d5003d36c,LOST,alarm,15,landsat,success,failed
+LOST_date2021-07-10_range21_modealarm_sensorlandsat,dde04de9-8967-45fa-aaca-6a157add7f7e,LOST,alarm,21,landsat,success,failed
+LOST_date2021-07-10_range30_modealarm_sensorlandsat,f907866a-ab6d-427a-bdfa-7a5e8e1b494a,LOST,alarm,30,landsat,success,failed
+LOST_date2021-07-10_range45_modealarm_sensorlandsat,1de3d95d-d143-4c54-b271-45bde821c700,LOST,alarm,45,landsat,success,failed
+LOST_date2021-07-10_range60_modealarm_sensorlandsat,58658076-3b2d-4a5f-a1c3-add03c8bf3ff,LOST,alarm,60,landsat,success,failed
+LOST_date2021-07-10_range90_modealarm_sensorlandsat,847c5533-1257-4811-9a0a-e2e000cd4818,LOST,alarm,90,landsat,success,failed
+LOST_date2021-07-18_range5_modecont_sensorsentinel-2,b221d9f5-7803-40f7-97ec-baa98c2ab63f,LOST,cont,5,sentinel-2,success,complete
+LOST_date2021-07-18_range10_modecont_sensorsentinel-2,c80373c2-7ba2-4851-aaea-ee4f9beb2978,LOST,cont,10,sentinel-2,success,complete
+LOST_date2021-07-18_range15_modecont_sensorsentinel-2,e4b990b4-d8fa-4383-bfd3-492d91868cf4,LOST,cont,15,sentinel-2,success,complete
+LOST_date2021-07-18_range21_modecont_sensorsentinel-2,d3bb5696-d2c0-4a4f-a6a1-b9402a98ebf7,LOST,cont,21,sentinel-2,success,complete
+LOST_date2021-07-18_range30_modecont_sensorsentinel-2,9ebc4150-a021-4657-826a-9dd5b18f79db,LOST,cont,30,sentinel-2,success,complete
+LOST_date2021-07-18_range45_modecont_sensorsentinel-2,b13d23d6-2e47-4a0d-934a-80efe61c7391,LOST,cont,45,sentinel-2,success,complete
+LOST_date2021-07-18_range60_modecont_sensorsentinel-2,afe8c4e6-e804-4824-8bfe-6f62e2c3b616,LOST,cont,60,sentinel-2,success,complete
+LOST_date2021-07-18_range90_modecont_sensorsentinel-2,95115a68-b05c-4ad6-b391-097da9535120,LOST,cont,90,sentinel-2,success,complete
+LOST_date2021-07-18_range5_modecont_sensorlandsat,749b20ed-7f19-4a62-90ad-ab74438fb585,LOST,cont,5,landsat,success,failed
+LOST_date2021-07-18_range10_modecont_sensorlandsat,872509ef-8f40-4f53-bfa4-e8117b861b8a,LOST,cont,10,landsat,success,failed
+LOST_date2021-07-18_range15_modecont_sensorlandsat,3840c2dc-e250-480a-a4d9-f81c02cc0b18,LOST,cont,15,landsat,success,failed
+LOST_date2021-07-18_range21_modecont_sensorlandsat,6f7c28f1-f710-49fb-91d1-857bbbdad315,LOST,cont,21,landsat,success,failed
+LOST_date2021-07-18_range30_modecont_sensorlandsat,321ce1ff-6bb1-47c2-b70f-a9dcda6eb97f,LOST,cont,30,landsat,success,failed
+LOST_date2021-07-18_range45_modecont_sensorlandsat,e7fa0c93-f28e-4875-a8e6-4ea391735f4f,LOST,cont,45,landsat,success,failed
+LOST_date2021-07-18_range60_modecont_sensorlandsat,65e294ab-6ecd-4676-96e8-b26b20569140,LOST,cont,60,landsat,success,failed
+LOST_date2021-07-18_range90_modecont_sensorlandsat,5474740d-b86f-45dc-8d3a-aa8c45fe3fbf,LOST,cont,90,landsat,success,failed
+HART_date2021-08-31_range5_modealarm_sensorsentinel-2,d8ffb100-29e8-4cb7-9d86-604d020644fa,HART,alarm,5,sentinel-2,success,complete
+HART_date2021-08-31_range10_modealarm_sensorsentinel-2,d837d090-fb4a-4fca-822b-47267082d9a9,HART,alarm,10,sentinel-2,success,complete
+HART_date2021-08-31_range15_modealarm_sensorsentinel-2,168875a7-043b-442d-95da-2c897b0af6d8,HART,alarm,15,sentinel-2,success,complete
+HART_date2021-08-31_range21_modealarm_sensorsentinel-2,8a7898fd-dc39-4f62-997e-4f777e4a0cd5,HART,alarm,21,sentinel-2,success,complete
+HART_date2021-08-31_range30_modealarm_sensorsentinel-2,cb5dd35b-7178-48e4-b2a6-2e2f524f2631,HART,alarm,30,sentinel-2,success,complete
+HART_date2021-08-31_range45_modealarm_sensorsentinel-2,68d34e4e-bf8b-4d1e-abeb-777fb3e77a09,HART,alarm,45,sentinel-2,success,complete
+HART_date2021-08-31_range60_modealarm_sensorsentinel-2,24b5014e-effd-4980-b220-dfcf80cf98bb,HART,alarm,60,sentinel-2,success,complete
+HART_date2021-08-31_range90_modealarm_sensorsentinel-2,d1845ef0-df8b-4be7-943e-fe87fae3c29d,HART,alarm,90,sentinel-2,success,complete
+HART_date2021-08-31_range5_modealarm_sensorlandsat,12c87514-9519-4a16-8f92-387338b7d896,HART,alarm,5,landsat,success,failed
+HART_date2021-08-31_range10_modealarm_sensorlandsat,fb5fde55-d2ef-428f-816b-59eb6d51fcef,HART,alarm,10,landsat,success,failed
+HART_date2021-08-31_range15_modealarm_sensorlandsat,ff98f425-9a9b-4c5a-bbc9-b675d3a4a4ab,HART,alarm,15,landsat,success,failed
+HART_date2021-08-31_range21_modealarm_sensorlandsat,d7c895f5-1f05-42cb-a32c-e1f3dd83c401,HART,alarm,21,landsat,success,failed
+HART_date2021-08-31_range30_modealarm_sensorlandsat,d34a604c-1fbd-4736-96fe-380c27c100de,HART,alarm,30,landsat,success,failed
+HART_date2021-08-31_range45_modealarm_sensorlandsat,d620ea78-125d-416f-a387-b30e998e969c,HART,alarm,45,landsat,success,failed
+HART_date2021-08-31_range60_modealarm_sensorlandsat,168bafbd-13a8-4604-934e-61e241989317,HART,alarm,60,landsat,success,failed
+HART_date2021-08-31_range90_modealarm_sensorlandsat,cb4cc2fc-36f3-49be-80fd-e2226f520c01,HART,alarm,90,landsat,success,failed
+HART_date2021-09-04_range5_modecont_sensorsentinel-2,77f3fd31-b00f-4a55-9a83-43c8d95df771,HART,cont,5,sentinel-2,success,complete
+HART_date2021-09-04_range10_modecont_sensorsentinel-2,f0d48570-5740-4f2e-b2d9-ba58d4479fd7,HART,cont,10,sentinel-2,success,complete
+HART_date2021-09-04_range15_modecont_sensorsentinel-2,86f626c2-24cc-48ca-9a75-a800732ffb0b,HART,cont,15,sentinel-2,success,complete
+HART_date2021-09-04_range21_modecont_sensorsentinel-2,3a9e5b71-f235-4035-bfd1-1663a17b3a13,HART,cont,21,sentinel-2,success,complete
+HART_date2021-09-04_range30_modecont_sensorsentinel-2,2e603915-e17d-438f-b8c8-853d0afcbe2c,HART,cont,30,sentinel-2,success,complete
+HART_date2021-09-04_range45_modecont_sensorsentinel-2,5bea4a80-fcc9-4b23-b7c1-f624ecce98f2,HART,cont,45,sentinel-2,success,complete
+HART_date2021-09-04_range60_modecont_sensorsentinel-2,dc5114b8-08b1-4624-b032-d05fd1310c29,HART,cont,60,sentinel-2,success,complete
+HART_date2021-09-04_range90_modecont_sensorsentinel-2,f854841c-54e8-4100-83a6-9aa8d3f68363,HART,cont,90,sentinel-2,success,complete
+HART_date2021-09-04_range5_modecont_sensorlandsat,c39d029b-8ee0-4e27-ac4c-930db20607eb,HART,cont,5,landsat,success,failed
+HART_date2021-09-04_range10_modecont_sensorlandsat,81212df9-2bb6-4f31-a991-7c9fd35cc14c,HART,cont,10,landsat,success,complete
+HART_date2021-09-04_range15_modecont_sensorlandsat,c9211188-7f06-428f-9430-e2ce859985d3,HART,cont,15,landsat,success,complete
+HART_date2021-09-04_range21_modecont_sensorlandsat,64342f16-8f59-4474-867f-85d668d4f63f,HART,cont,21,landsat,success,complete
+HART_date2021-09-04_range30_modecont_sensorlandsat,8bf9395c-081b-424f-9d64-6328760bb9af,HART,cont,30,landsat,success,complete
+HART_date2021-09-04_range45_modecont_sensorlandsat,d079695c-361b-460d-b80c-e058231d254a,HART,cont,45,landsat,success,complete
+HART_date2021-09-04_range60_modecont_sensorlandsat,435ae589-45f4-48f1-bc55-ccf5de91d9a9,HART,cont,60,landsat,success,complete
+HART_date2021-09-04_range90_modecont_sensorlandsat,a8abc19b-c0d5-485c-b951-96a7baa2f4ad,HART,cont,90,landsat,success,complete
+CASTLE_date2021-03-19_range5_modealarm_sensorsentinel-2,413c7c00-03fd-48f4-aa0a-2fffdfb40a8a,CASTLE,alarm,5,sentinel-2,success,complete
+CASTLE_date2021-03-19_range10_modealarm_sensorsentinel-2,fe97a996-f0bc-484e-bd0b-1e615d0c0ddb,CASTLE,alarm,10,sentinel-2,success,complete
+CASTLE_date2021-03-19_range15_modealarm_sensorsentinel-2,5f105222-97f1-4d85-9fac-67cb25f7dd0a,CASTLE,alarm,15,sentinel-2,success,complete
+CASTLE_date2021-03-19_range21_modealarm_sensorsentinel-2,ba30498a-7b22-4d6c-a3cd-71ba33385ea4,CASTLE,alarm,21,sentinel-2,success,complete
+CASTLE_date2021-03-19_range30_modealarm_sensorsentinel-2,2270433b-e4a5-49e7-917f-715499b323b4,CASTLE,alarm,30,sentinel-2,success,complete
+CASTLE_date2021-03-19_range45_modealarm_sensorsentinel-2,0f40c6d5-ffdb-4f0c-984d-f1bc2bdd1fba,CASTLE,alarm,45,sentinel-2,success,complete
+CASTLE_date2021-03-19_range60_modealarm_sensorsentinel-2,62aced34-7749-4f4a-906b-e3ba13ddff60,CASTLE,alarm,60,sentinel-2,success,complete
+CASTLE_date2021-03-19_range90_modealarm_sensorsentinel-2,bac713ad-4104-4a7d-99fa-40c44562e2b7,CASTLE,alarm,90,sentinel-2,success,complete
+CASTLE_date2021-03-19_range5_modealarm_sensorlandsat,174dce2d-fb42-417e-a98d-8dc977416b92,CASTLE,alarm,5,landsat,success,failed
+CASTLE_date2021-03-19_range10_modealarm_sensorlandsat,9f242589-b4ed-47c5-a563-b0da19fea07a,CASTLE,alarm,10,landsat,success,complete
+CASTLE_date2021-03-19_range15_modealarm_sensorlandsat,166136a8-9d53-415e-99b5-d63aa40e1996,CASTLE,alarm,15,landsat,success,complete
+CASTLE_date2021-03-19_range21_modealarm_sensorlandsat,11f06dee-3610-4fce-8ce9-618e48171da9,CASTLE,alarm,21,landsat,success,complete
+CASTLE_date2021-03-19_range30_modealarm_sensorlandsat,554792b0-2d6f-4f20-bde0-a8077faa874c,CASTLE,alarm,30,landsat,success,complete
+CASTLE_date2021-03-19_range45_modealarm_sensorlandsat,b3d06bfd-d4e6-44ed-b6fe-da41e5330122,CASTLE,alarm,45,landsat,success,complete
+CASTLE_date2021-03-19_range60_modealarm_sensorlandsat,18d20c67-b555-4f26-8095-eb05c5ee9a04,CASTLE,alarm,60,landsat,success,complete
+CASTLE_date2021-03-19_range90_modealarm_sensorlandsat,d623c28a-bbd4-4965-a7c4-b8127e1be505,CASTLE,alarm,90,landsat,success,complete
+CASTLE_date2021-03-21_range5_modecont_sensorsentinel-2,8d61faca-694b-44bd-bda0-4185dcaf5c18,CASTLE,cont,5,sentinel-2,success,complete
+CASTLE_date2021-03-21_range10_modecont_sensorsentinel-2,d3ea2e0c-12f0-4efa-a7ee-48df450475e2,CASTLE,cont,10,sentinel-2,success,complete
+CASTLE_date2021-03-21_range15_modecont_sensorsentinel-2,53e05382-8f86-424f-8fab-ba12713cd3e7,CASTLE,cont,15,sentinel-2,success,complete
+CASTLE_date2021-03-21_range21_modecont_sensorsentinel-2,cd9eebc7-b068-4fb3-8705-0c2e16ae9e73,CASTLE,cont,21,sentinel-2,success,complete
+CASTLE_date2021-03-21_range30_modecont_sensorsentinel-2,caa5fdf2-ca16-4894-86a7-2eaa00660684,CASTLE,cont,30,sentinel-2,success,complete
+CASTLE_date2021-03-21_range45_modecont_sensorsentinel-2,e39b2eee-8f82-46f4-ba8b-f8aad641fe6c,CASTLE,cont,45,sentinel-2,success,complete
+CASTLE_date2021-03-21_range60_modecont_sensorsentinel-2,c053503f-bba0-4141-bd30-84ab3b114e89,CASTLE,cont,60,sentinel-2,success,complete
+CASTLE_date2021-03-21_range90_modecont_sensorsentinel-2,fd3ad1b2-caf0-4d69-90ae-583961bf72da,CASTLE,cont,90,sentinel-2,success,complete
+CASTLE_date2021-03-21_range5_modecont_sensorlandsat,380a3608-bdf0-4dda-b246-857f8078478d,CASTLE,cont,5,landsat,success,failed
+CASTLE_date2021-03-21_range10_modecont_sensorlandsat,fcc75cb2-79ff-43fa-9b38-29c963df09e4,CASTLE,cont,10,landsat,success,complete
+CASTLE_date2021-03-21_range15_modecont_sensorlandsat,f0f211c4-5739-4f69-8465-e11c76ceaef9,CASTLE,cont,15,landsat,success,complete
+CASTLE_date2021-03-21_range21_modecont_sensorlandsat,15cfe86d-e69f-45ca-8bc6-f305c9930855,CASTLE,cont,21,landsat,success,complete
+CASTLE_date2021-03-21_range30_modecont_sensorlandsat,c5d5a17b-79e8-4a14-ab93-9e9904e654f4,CASTLE,cont,30,landsat,success,complete
+CASTLE_date2021-03-21_range45_modecont_sensorlandsat,62512810-105d-414f-9d97-eb2f065afd9e,CASTLE,cont,45,landsat,success,complete
+CASTLE_date2021-03-21_range60_modecont_sensorlandsat,d184adb9-0c2c-400f-8aa5-9083a5d20e33,CASTLE,cont,60,landsat,success,complete
+CASTLE_date2021-03-21_range90_modecont_sensorlandsat,8b49e38d-45bb-48ab-a90e-9b7ab34a8770,CASTLE,cont,90,landsat,success,complete
+DOME_date2020-08-15_range5_modealarm_sensorsentinel-2,0b7d47db-d3c5-489e-967e-a74db8ba26f5,DOME,alarm,5,sentinel-2,success,failed
+DOME_date2020-08-15_range10_modealarm_sensorsentinel-2,88bc178a-6bdb-43ce-8b4a-dad507ad9c61,DOME,alarm,10,sentinel-2,success,failed
+DOME_date2020-08-15_range15_modealarm_sensorsentinel-2,0f32018c-6515-4a44-b1e5-03ee1ea4b432,DOME,alarm,15,sentinel-2,success,failed
+DOME_date2020-08-15_range21_modealarm_sensorsentinel-2,1592fed9-b8b0-4ee6-a0d8-95b1ff7afdae,DOME,alarm,21,sentinel-2,success,failed
+DOME_date2020-08-15_range30_modealarm_sensorsentinel-2,aa553555-e27c-4341-ab71-757b8a0e50ad,DOME,alarm,30,sentinel-2,success,failed
+DOME_date2020-08-15_range45_modealarm_sensorsentinel-2,05ce6a27-1e9c-4328-9cde-e8740079143d,DOME,alarm,45,sentinel-2,success,failed
+DOME_date2020-08-15_range60_modealarm_sensorsentinel-2,39949d8d-fb5b-4bf4-8596-12c5a8e7ed23,DOME,alarm,60,sentinel-2,success,failed
+DOME_date2020-08-15_range90_modealarm_sensorsentinel-2,6613d2c2-c736-4689-a0eb-75f02960c2fa,DOME,alarm,90,sentinel-2,success,failed
+DOME_date2020-08-15_range5_modealarm_sensorlandsat,f1ff8fd4-7347-4a5f-ae4f-2a1bafe8bd46,DOME,alarm,5,landsat,success,failed
+DOME_date2020-08-15_range10_modealarm_sensorlandsat,c4c28fbe-62d8-4f26-8ee2-00a838c33cad,DOME,alarm,10,landsat,success,complete
+DOME_date2020-08-15_range15_modealarm_sensorlandsat,ca2c033e-0471-407a-b9ec-2475d8d37f4b,DOME,alarm,15,landsat,success,complete
+DOME_date2020-08-15_range21_modealarm_sensorlandsat,27a6f2a1-ce58-4f3e-9c3c-3fcc4ba8ae01,DOME,alarm,21,landsat,success,complete
+DOME_date2020-08-15_range30_modealarm_sensorlandsat,f03552eb-cf26-441e-b39a-e892b81e959e,DOME,alarm,30,landsat,success,complete
+DOME_date2020-08-15_range45_modealarm_sensorlandsat,65142927-1d3a-4549-8c00-a2a3225b25e3,DOME,alarm,45,landsat,success,complete
+DOME_date2020-08-15_range60_modealarm_sensorlandsat,83bef45b-1889-4802-a641-f97e757bfb43,DOME,alarm,60,landsat,success,complete
+DOME_date2020-08-15_range90_modealarm_sensorlandsat,03d81a50-3dae-49c4-963d-11e9dc74e61c,DOME,alarm,90,landsat,success,complete
+DOME_date2020-09-12_range5_modecont_sensorsentinel-2,f934e3fa-e083-424a-a77a-b75c140ec5f6,DOME,cont,5,sentinel-2,success,failed
+DOME_date2020-09-12_range10_modecont_sensorsentinel-2,3c6735fc-812e-41ff-b7c8-b763a7240dc7,DOME,cont,10,sentinel-2,success,failed
+DOME_date2020-09-12_range15_modecont_sensorsentinel-2,015032b3-3ccb-4bc5-8563-b0f6a13f5982,DOME,cont,15,sentinel-2,success,failed
+DOME_date2020-09-12_range21_modecont_sensorsentinel-2,b3560cc2-4fac-4507-8783-cd4787571296,DOME,cont,21,sentinel-2,success,failed
+DOME_date2020-09-12_range30_modecont_sensorsentinel-2,f0312b24-739c-4a5b-80f5-03dfd75bda0a,DOME,cont,30,sentinel-2,success,failed
+DOME_date2020-09-12_range45_modecont_sensorsentinel-2,aa81ca81-3812-417a-8890-8059ca78bc14,DOME,cont,45,sentinel-2,success,failed
+DOME_date2020-09-12_range60_modecont_sensorsentinel-2,74423744-9648-4943-a510-a2531cd23c77,DOME,cont,60,sentinel-2,success,failed
+DOME_date2020-09-12_range90_modecont_sensorsentinel-2,b505315f-3150-45c1-a3ed-df0e510878af,DOME,cont,90,sentinel-2,success,failed
+DOME_date2020-09-12_range5_modecont_sensorlandsat,1c4d1cff-18bd-47a8-8f5b-80044a093c91,DOME,cont,5,landsat,success,complete
+DOME_date2020-09-12_range10_modecont_sensorlandsat,b8b7985e-2e8b-40a3-84d6-c85c63056b60,DOME,cont,10,landsat,success,complete
+DOME_date2020-09-12_range15_modecont_sensorlandsat,91b686e5-8c21-47a7-82ec-ff0cfc0ed80d,DOME,cont,15,landsat,success,complete
+DOME_date2020-09-12_range21_modecont_sensorlandsat,f6e81c8d-174c-40fa-9e2b-877c4006f3c9,DOME,cont,21,landsat,success,complete
+DOME_date2020-09-12_range30_modecont_sensorlandsat,2588be0e-2e97-4016-a4b8-098480eeadc4,DOME,cont,30,landsat,success,complete
+DOME_date2020-09-12_range45_modecont_sensorlandsat,a39c3ab0-9e7c-47bf-87d1-fb5caafaa53f,DOME,cont,45,landsat,success,complete
+DOME_date2020-09-12_range60_modecont_sensorlandsat,680aca2c-f72a-4aac-b4cc-8515490c0532,DOME,cont,60,landsat,success,complete
+DOME_date2020-09-12_range90_modecont_sensorlandsat,c9051833-9e4e-4bf4-9e1c-d9cc70be1e04,DOME,cont,90,landsat,success,complete
+RATTLESNAKE_date2020-08-16_range5_modealarm_sensorsentinel-2,d25773db-3ec2-4da3-8987-40e1047ad401,RATTLESNAKE,alarm,5,sentinel-2,success,complete
+RATTLESNAKE_date2020-08-16_range10_modealarm_sensorsentinel-2,bb920832-b8e4-41d1-a0be-1687260c8e14,RATTLESNAKE,alarm,10,sentinel-2,success,complete
+RATTLESNAKE_date2020-08-16_range15_modealarm_sensorsentinel-2,22ee5ed3-2627-4f4b-940b-44e682185dfe,RATTLESNAKE,alarm,15,sentinel-2,success,complete
+RATTLESNAKE_date2020-08-16_range21_modealarm_sensorsentinel-2,358bbe3f-a31f-44e9-a72c-c0ea7ba131f3,RATTLESNAKE,alarm,21,sentinel-2,success,complete
+RATTLESNAKE_date2020-08-16_range30_modealarm_sensorsentinel-2,6063c075-a4b0-4052-9cc2-c2388676d169,RATTLESNAKE,alarm,30,sentinel-2,success,complete
+RATTLESNAKE_date2020-08-16_range45_modealarm_sensorsentinel-2,a9df821d-2654-4c8a-ba80-72e744a8731e,RATTLESNAKE,alarm,45,sentinel-2,success,complete
+RATTLESNAKE_date2020-08-16_range60_modealarm_sensorsentinel-2,01b60911-f762-45cf-882f-b960c8c8bacc,RATTLESNAKE,alarm,60,sentinel-2,success,complete
+RATTLESNAKE_date2020-08-16_range90_modealarm_sensorsentinel-2,79732842-ff86-4438-a36c-e2c9bef105df,RATTLESNAKE,alarm,90,sentinel-2,success,complete
+RATTLESNAKE_date2020-08-16_range5_modealarm_sensorlandsat,cc3ad65d-e1d1-469d-8e0f-cc02212b5dc0,RATTLESNAKE,alarm,5,landsat,success,complete
+RATTLESNAKE_date2020-08-16_range10_modealarm_sensorlandsat,e79e94f2-6ea4-4ce5-bff7-29de29e93a3a,RATTLESNAKE,alarm,10,landsat,success,complete
+RATTLESNAKE_date2020-08-16_range15_modealarm_sensorlandsat,accf8a6d-7b06-4184-ab02-cc5005e63416,RATTLESNAKE,alarm,15,landsat,success,complete
+RATTLESNAKE_date2020-08-16_range21_modealarm_sensorlandsat,9711ad21-f33c-4845-957f-005235135c25,RATTLESNAKE,alarm,21,landsat,success,complete
+RATTLESNAKE_date2020-08-16_range30_modealarm_sensorlandsat,ef99b8f5-bf13-4c1f-96a2-911f0a906ad9,RATTLESNAKE,alarm,30,landsat,success,complete
+RATTLESNAKE_date2020-08-16_range45_modealarm_sensorlandsat,71496b0b-58c6-48c5-926d-e236c6855394,RATTLESNAKE,alarm,45,landsat,success,complete
+RATTLESNAKE_date2020-08-16_range60_modealarm_sensorlandsat,0395b861-c6fd-4651-ab74-d25265b91e66,RATTLESNAKE,alarm,60,landsat,success,complete
+RATTLESNAKE_date2020-08-16_range90_modealarm_sensorlandsat,ee28fc76-f180-44b2-973e-1939af1b56bd,RATTLESNAKE,alarm,90,landsat,success,complete
+RATTLESNAKE_date2020-12-28_range5_modecont_sensorsentinel-2,3f529adc-04b6-495f-ace5-d497345787e9,RATTLESNAKE,cont,5,sentinel-2,success,complete
+RATTLESNAKE_date2020-12-28_range10_modecont_sensorsentinel-2,90fb26c6-68a2-4c80-98c7-274d038c8e03,RATTLESNAKE,cont,10,sentinel-2,success,complete
+RATTLESNAKE_date2020-12-28_range15_modecont_sensorsentinel-2,4368fc8d-f070-4796-9c70-05c5d44e0ead,RATTLESNAKE,cont,15,sentinel-2,success,complete
+RATTLESNAKE_date2020-12-28_range21_modecont_sensorsentinel-2,ee7b721d-f1fc-4538-be88-abd2873b2177,RATTLESNAKE,cont,21,sentinel-2,success,complete
+RATTLESNAKE_date2020-12-28_range30_modecont_sensorsentinel-2,175ab143-aef9-4742-9aef-03bd5302b8f9,RATTLESNAKE,cont,30,sentinel-2,success,complete
+RATTLESNAKE_date2020-12-28_range45_modecont_sensorsentinel-2,96eee87a-7abc-4d60-85c5-195edc11631c,RATTLESNAKE,cont,45,sentinel-2,success,complete
+RATTLESNAKE_date2020-12-28_range60_modecont_sensorsentinel-2,a33b78b5-889a-4ba8-a6ac-c33343ff18f0,RATTLESNAKE,cont,60,sentinel-2,success,complete
+RATTLESNAKE_date2020-12-28_range90_modecont_sensorsentinel-2,727337df-379c-4455-a756-32c2c2bd5562,RATTLESNAKE,cont,90,sentinel-2,success,complete
+RATTLESNAKE_date2020-12-28_range5_modecont_sensorlandsat,71a73122-f50f-443b-a5de-2717dd3e0765,RATTLESNAKE,cont,5,landsat,success,failed
+RATTLESNAKE_date2020-12-28_range10_modecont_sensorlandsat,bddd4a5a-ec56-49d2-aa3a-990a0f5633b7,RATTLESNAKE,cont,10,landsat,success,complete
+RATTLESNAKE_date2020-12-28_range15_modecont_sensorlandsat,fb1194cd-637c-4133-847e-529ca5be3666,RATTLESNAKE,cont,15,landsat,success,complete
+RATTLESNAKE_date2020-12-28_range21_modecont_sensorlandsat,0cd70891-2b82-44e8-af7e-f0167b110b13,RATTLESNAKE,cont,21,landsat,success,complete
+RATTLESNAKE_date2020-12-28_range30_modecont_sensorlandsat,4a568e07-db5a-4340-8c9d-4bc8de49bf26,RATTLESNAKE,cont,30,landsat,success,complete
+RATTLESNAKE_date2020-12-28_range45_modecont_sensorlandsat,fafc34d1-f64c-4408-933f-b6639e37ca19,RATTLESNAKE,cont,45,landsat,success,complete
+RATTLESNAKE_date2020-12-28_range60_modecont_sensorlandsat,1eb6b453-6b14-4d33-b83d-eca299421b58,RATTLESNAKE,cont,60,landsat,success,complete
+RATTLESNAKE_date2020-12-28_range90_modecont_sensorlandsat,beb68bb3-a356-4398-b688-0c8a64dbc4eb,RATTLESNAKE,cont,90,landsat,success,complete
+SCORPION_date2020-05-31_range5_modealarm_sensorsentinel-2,655468e5-f8b3-498d-b0d5-8163d4a5e285,SCORPION,alarm,5,sentinel-2,success,complete
+SCORPION_date2020-05-31_range10_modealarm_sensorsentinel-2,805f0cb0-7b4d-456e-af32-1e91b1b1e691,SCORPION,alarm,10,sentinel-2,success,complete
+SCORPION_date2020-05-31_range15_modealarm_sensorsentinel-2,77a9700d-4bab-429e-8402-d9927ab414dd,SCORPION,alarm,15,sentinel-2,success,complete
+SCORPION_date2020-05-31_range21_modealarm_sensorsentinel-2,16e884e2-e481-4d5c-b1eb-2bf85108ac2a,SCORPION,alarm,21,sentinel-2,success,complete
+SCORPION_date2020-05-31_range30_modealarm_sensorsentinel-2,10a28710-128d-4b5c-a732-308645b319bb,SCORPION,alarm,30,sentinel-2,success,complete
+SCORPION_date2020-05-31_range45_modealarm_sensorsentinel-2,2ab10bb9-ee3f-419d-ac89-c34079b7d6d6,SCORPION,alarm,45,sentinel-2,success,complete
+SCORPION_date2020-05-31_range60_modealarm_sensorsentinel-2,f97af24f-5cd3-4c76-8712-95b357e6040e,SCORPION,alarm,60,sentinel-2,success,complete
+SCORPION_date2020-05-31_range90_modealarm_sensorsentinel-2,2d0793ab-a1d7-494a-958a-2aa622e4576e,SCORPION,alarm,90,sentinel-2,success,complete
+SCORPION_date2020-05-31_range5_modealarm_sensorlandsat,602f87e2-89de-4b3a-9284-b4ac7bfd85c7,SCORPION,alarm,5,landsat,success,complete
+SCORPION_date2020-05-31_range10_modealarm_sensorlandsat,3e320e9a-811d-4854-8ef7-c7119d52e4bc,SCORPION,alarm,10,landsat,success,complete
+SCORPION_date2020-05-31_range15_modealarm_sensorlandsat,912ac03c-fc97-415e-9ab3-a993d143924b,SCORPION,alarm,15,landsat,success,complete
+SCORPION_date2020-05-31_range21_modealarm_sensorlandsat,845a1b8a-072d-43b9-89af-bf8e58210bc9,SCORPION,alarm,21,landsat,success,complete
+SCORPION_date2020-05-31_range30_modealarm_sensorlandsat,96cade97-a409-40be-93ec-3d16a216343b,SCORPION,alarm,30,landsat,success,complete
+SCORPION_date2020-05-31_range45_modealarm_sensorlandsat,d91b64e3-bb09-4db3-9426-4520018c240e,SCORPION,alarm,45,landsat,success,complete
+SCORPION_date2020-05-31_range60_modealarm_sensorlandsat,fce425c2-a552-4479-a0fc-25f22edff888,SCORPION,alarm,60,landsat,success,complete
+SCORPION_date2020-05-31_range90_modealarm_sensorlandsat,f0b4edd5-fd69-4e2b-860f-1b01ea31f1f2,SCORPION,alarm,90,landsat,success,complete
+SCORPION_date2020-06-05_range5_modecont_sensorsentinel-2,bcb8424a-b5ba-4da6-9285-4f060edc7cfb,SCORPION,cont,5,sentinel-2,success,complete
+SCORPION_date2020-06-05_range10_modecont_sensorsentinel-2,4d04b565-1290-4d0f-9220-b9cefc00e40f,SCORPION,cont,10,sentinel-2,success,complete
+SCORPION_date2020-06-05_range15_modecont_sensorsentinel-2,81172117-4bdb-44bd-8eb5-90bbb1e17009,SCORPION,cont,15,sentinel-2,success,complete
+SCORPION_date2020-06-05_range21_modecont_sensorsentinel-2,1b61675b-8a8f-4b81-b5bc-849af1fe1bab,SCORPION,cont,21,sentinel-2,success,complete
+SCORPION_date2020-06-05_range30_modecont_sensorsentinel-2,085a8abf-72ca-4091-8b32-43cbbca52363,SCORPION,cont,30,sentinel-2,success,complete
+SCORPION_date2020-06-05_range45_modecont_sensorsentinel-2,9c047224-c68a-4e13-8ed4-d547b69a5190,SCORPION,cont,45,sentinel-2,success,complete
+SCORPION_date2020-06-05_range60_modecont_sensorsentinel-2,9e1b155e-e338-41c1-9d7c-9c5d9f07f439,SCORPION,cont,60,sentinel-2,success,complete
+SCORPION_date2020-06-05_range90_modecont_sensorsentinel-2,1fafce68-a74d-44d3-86ef-d712e02e4d28,SCORPION,cont,90,sentinel-2,success,complete
+SCORPION_date2020-06-05_range5_modecont_sensorlandsat,bed134ea-29d2-4576-9fcb-08cbf8e4bb04,SCORPION,cont,5,landsat,success,complete
+SCORPION_date2020-06-05_range10_modecont_sensorlandsat,54436408-058f-44db-8571-335f944b25d6,SCORPION,cont,10,landsat,success,complete
+SCORPION_date2020-06-05_range15_modecont_sensorlandsat,cabe61c5-b825-4cb6-92f0-20bf4763b760,SCORPION,cont,15,landsat,success,complete
+SCORPION_date2020-06-05_range21_modecont_sensorlandsat,4a1923db-0bc8-4916-bc81-a36508821116,SCORPION,cont,21,landsat,success,complete
+SCORPION_date2020-06-05_range30_modecont_sensorlandsat,6078c385-3794-4aed-b5ff-7471859846c5,SCORPION,cont,30,landsat,success,complete
+SCORPION_date2020-06-05_range45_modecont_sensorlandsat,32b4d03a-1abe-4911-9549-57ad6c6e248b,SCORPION,cont,45,landsat,success,complete
+SCORPION_date2020-06-05_range60_modecont_sensorlandsat,2b100b7c-586f-4e91-86f2-fab79c92a5dd,SCORPION,cont,60,landsat,success,complete
+SCORPION_date2020-06-05_range90_modecont_sensorlandsat,e535fc87-ac0b-4184-80e8-c97e6c01dc80,SCORPION,cont,90,landsat,success,complete
+MORAINE_date2020-08-21_range5_modealarm_sensorsentinel-2,6892deb9-9c87-4bac-89da-f9a45fc86005,MORAINE,alarm,5,sentinel-2,success,complete
+MORAINE_date2020-08-21_range10_modealarm_sensorsentinel-2,71f20558-3285-4833-a11f-782deb0351ed,MORAINE,alarm,10,sentinel-2,success,complete
+MORAINE_date2020-08-21_range15_modealarm_sensorsentinel-2,6a7b4c2b-e2fc-4f3a-b514-77682808dc0c,MORAINE,alarm,15,sentinel-2,success,complete
+MORAINE_date2020-08-21_range21_modealarm_sensorsentinel-2,3b6c8c1f-857b-40cb-977b-f345939332af,MORAINE,alarm,21,sentinel-2,success,complete
+MORAINE_date2020-08-21_range30_modealarm_sensorsentinel-2,a59b023e-2463-4126-9014-9f4090b9e936,MORAINE,alarm,30,sentinel-2,success,complete
+MORAINE_date2020-08-21_range45_modealarm_sensorsentinel-2,b83e306b-c347-4a97-b5fd-2882d3d81ebc,MORAINE,alarm,45,sentinel-2,success,complete
+MORAINE_date2020-08-21_range60_modealarm_sensorsentinel-2,cfc74fb1-b432-487a-9a7a-377bd5e6ff31,MORAINE,alarm,60,sentinel-2,success,complete
+MORAINE_date2020-08-21_range90_modealarm_sensorsentinel-2,cc1b1000-2f17-40a1-968b-3bbdeb28fb57,MORAINE,alarm,90,sentinel-2,success,complete
+MORAINE_date2020-08-21_range5_modealarm_sensorlandsat,d9a1f44e-24d2-4e9b-a9f4-f90a8f267899,MORAINE,alarm,5,landsat,success,failed
+MORAINE_date2020-08-21_range10_modealarm_sensorlandsat,4c976ea0-6957-4c4d-b6c1-257ee2f7da76,MORAINE,alarm,10,landsat,success,complete
+MORAINE_date2020-08-21_range15_modealarm_sensorlandsat,febdb33e-b831-461a-8076-c89aa80a1379,MORAINE,alarm,15,landsat,success,complete
+MORAINE_date2020-08-21_range21_modealarm_sensorlandsat,cdbd302a-deff-4c63-974c-0c18ce28bed5,MORAINE,alarm,21,landsat,success,complete
+MORAINE_date2020-08-21_range30_modealarm_sensorlandsat,eb876ba2-c64b-4f1d-91e0-a005487c9eeb,MORAINE,alarm,30,landsat,success,complete
+MORAINE_date2020-08-21_range45_modealarm_sensorlandsat,f8851c73-e0f9-43e1-8981-a222bd9d3b09,MORAINE,alarm,45,landsat,success,complete
+MORAINE_date2020-08-21_range60_modealarm_sensorlandsat,d120b3a0-3bed-491f-b6bb-05073a44e3af,MORAINE,alarm,60,landsat,success,complete
+MORAINE_date2020-08-21_range90_modealarm_sensorlandsat,ab8cf006-070b-4eee-bbf8-8be7df75914b,MORAINE,alarm,90,landsat,success,complete
+MORAINE_date2020-12-29_range5_modecont_sensorsentinel-2,bc9f70a8-a85a-4446-96c9-6135f6ca5be9,MORAINE,cont,5,sentinel-2,success,complete
+MORAINE_date2020-12-29_range10_modecont_sensorsentinel-2,ee091e84-7d60-4f22-8e69-beccf3e73d44,MORAINE,cont,10,sentinel-2,success,complete
+MORAINE_date2020-12-29_range15_modecont_sensorsentinel-2,957c6372-6dd9-465d-bcc6-cd5fb811afdb,MORAINE,cont,15,sentinel-2,success,complete
+MORAINE_date2020-12-29_range21_modecont_sensorsentinel-2,ff2d06ee-e77d-4ae8-8c27-9944743d16ba,MORAINE,cont,21,sentinel-2,success,complete
+MORAINE_date2020-12-29_range30_modecont_sensorsentinel-2,5911653b-2aaa-4071-b9c8-ff21a2b997d8,MORAINE,cont,30,sentinel-2,success,complete
+MORAINE_date2020-12-29_range45_modecont_sensorsentinel-2,8e587a7e-88a2-4d4f-aa8c-01155b7edbf3,MORAINE,cont,45,sentinel-2,success,complete
+MORAINE_date2020-12-29_range60_modecont_sensorsentinel-2,a7bcb962-0346-43b7-9c18-9f69b904ea06,MORAINE,cont,60,sentinel-2,success,complete
+MORAINE_date2020-12-29_range90_modecont_sensorsentinel-2,38fb19d5-6c9f-47fe-9c70-833131788b41,MORAINE,cont,90,sentinel-2,success,complete
+MORAINE_date2020-12-29_range5_modecont_sensorlandsat,79c541e2-841e-4e54-ac61-220ae7d5c5bb,MORAINE,cont,5,landsat,success,complete
+MORAINE_date2020-12-29_range10_modecont_sensorlandsat,8ceb987b-42cb-4414-90db-defc311b749a,MORAINE,cont,10,landsat,success,complete
+MORAINE_date2020-12-29_range15_modecont_sensorlandsat,7e29c3fd-8d6c-4a4b-987a-4c2796d674e2,MORAINE,cont,15,landsat,success,complete
+MORAINE_date2020-12-29_range21_modecont_sensorlandsat,bef73717-73ee-4f08-b5cf-9efaaae3c4c9,MORAINE,cont,21,landsat,success,complete
+MORAINE_date2020-12-29_range30_modecont_sensorlandsat,b9a7422d-4f80-4b1a-811a-91f5e0b55084,MORAINE,cont,30,landsat,success,complete
+MORAINE_date2020-12-29_range45_modecont_sensorlandsat,1ffb2850-7791-410d-adc3-f5aa0a83cb64,MORAINE,cont,45,landsat,success,complete
+MORAINE_date2020-12-29_range60_modecont_sensorlandsat,0cce57b9-8a9f-4168-994f-d9cb13cfe87f,MORAINE,cont,60,landsat,success,complete
+MORAINE_date2020-12-29_range90_modecont_sensorlandsat,879b06ee-f531-4a5d-a8f0-b910ed992ced,MORAINE,cont,90,landsat,success,complete
+IVANPAH_date2020-06-22_range5_modealarm_sensorsentinel-2,0029c6be-cf41-44cd-8fa6-229d736a2de5,IVANPAH,alarm,5,sentinel-2,success,complete
+IVANPAH_date2020-06-22_range10_modealarm_sensorsentinel-2,c5bcf5fc-af77-440b-8dd9-304d5d074c21,IVANPAH,alarm,10,sentinel-2,success,complete
+IVANPAH_date2020-06-22_range15_modealarm_sensorsentinel-2,7dc2907a-1fb1-453a-b065-a761d6b6bc6b,IVANPAH,alarm,15,sentinel-2,success,complete
+IVANPAH_date2020-06-22_range21_modealarm_sensorsentinel-2,6015809d-b9b5-49dc-a6a6-6af8fa85e735,IVANPAH,alarm,21,sentinel-2,success,complete
+IVANPAH_date2020-06-22_range30_modealarm_sensorsentinel-2,bc76a675-a3ab-47f8-96c6-bfd377d49dbd,IVANPAH,alarm,30,sentinel-2,success,complete
+IVANPAH_date2020-06-22_range45_modealarm_sensorsentinel-2,87a7e250-3b87-440c-b077-49990948c47e,IVANPAH,alarm,45,sentinel-2,success,complete
+IVANPAH_date2020-06-22_range60_modealarm_sensorsentinel-2,08eae265-1428-4967-a097-26b23ffbb200,IVANPAH,alarm,60,sentinel-2,success,complete
+IVANPAH_date2020-06-22_range90_modealarm_sensorsentinel-2,343b9866-d80b-44db-a770-7f7c48fd44c3,IVANPAH,alarm,90,sentinel-2,success,complete
+IVANPAH_date2020-06-22_range5_modealarm_sensorlandsat,0ca8fe7b-3302-439a-b96e-71ed513d9dcf,IVANPAH,alarm,5,landsat,success,failed
+IVANPAH_date2020-06-22_range10_modealarm_sensorlandsat,46b063d5-9daa-4608-893d-e44751fb1422,IVANPAH,alarm,10,landsat,success,complete
+IVANPAH_date2020-06-22_range15_modealarm_sensorlandsat,4e30a081-df12-464f-8c77-6f7040fd0799,IVANPAH,alarm,15,landsat,success,complete
+IVANPAH_date2020-06-22_range21_modealarm_sensorlandsat,e0a84db0-332a-43b6-9fe4-cb6d4686bb3a,IVANPAH,alarm,21,landsat,success,complete
+IVANPAH_date2020-06-22_range30_modealarm_sensorlandsat,5242f6d5-04b1-4caa-b593-a730f4bfda35,IVANPAH,alarm,30,landsat,success,complete
+IVANPAH_date2020-06-22_range45_modealarm_sensorlandsat,affdd996-acac-464d-86bb-7315ea87aa0b,IVANPAH,alarm,45,landsat,success,complete
+IVANPAH_date2020-06-22_range60_modealarm_sensorlandsat,5d04a34a-4b2d-4a02-8f78-552c261fe78a,IVANPAH,alarm,60,landsat,success,complete
+IVANPAH_date2020-06-22_range90_modealarm_sensorlandsat,166adcd5-1c0a-4e58-8eb0-928b33ab877e,IVANPAH,alarm,90,landsat,success,complete
+IVANPAH_date2020-06-26_range5_modecont_sensorsentinel-2,5a5a3bd4-b206-45b1-afb4-2bb75e3c544d,IVANPAH,cont,5,sentinel-2,success,complete
+IVANPAH_date2020-06-26_range10_modecont_sensorsentinel-2,5634fe94-3b73-463c-9544-8ff47ab6fdcc,IVANPAH,cont,10,sentinel-2,success,complete
+IVANPAH_date2020-06-26_range15_modecont_sensorsentinel-2,e5e7528c-b51a-4729-9608-1cef6551cb08,IVANPAH,cont,15,sentinel-2,success,complete
+IVANPAH_date2020-06-26_range21_modecont_sensorsentinel-2,2e7bab25-105b-4d12-8e74-9ee04e2cf105,IVANPAH,cont,21,sentinel-2,success,complete
+IVANPAH_date2020-06-26_range30_modecont_sensorsentinel-2,fc11734a-05e6-49c2-b44e-bb63a286120c,IVANPAH,cont,30,sentinel-2,success,complete
+IVANPAH_date2020-06-26_range45_modecont_sensorsentinel-2,7ac2ad19-2387-467b-acb3-4b9b4021925d,IVANPAH,cont,45,sentinel-2,success,complete
+IVANPAH_date2020-06-26_range60_modecont_sensorsentinel-2,c198a2e3-8306-4869-8203-3d31d796be98,IVANPAH,cont,60,sentinel-2,success,complete
+IVANPAH_date2020-06-26_range90_modecont_sensorsentinel-2,2c48cc7d-2fba-4a3c-8547-7b77efddc53c,IVANPAH,cont,90,sentinel-2,success,complete
+IVANPAH_date2020-06-26_range5_modecont_sensorlandsat,b02464b0-066b-4ea6-a114-3361b9741a4c,IVANPAH,cont,5,landsat,success,complete
+IVANPAH_date2020-06-26_range10_modecont_sensorlandsat,fb4a192d-ed22-4ff3-a9ad-0493eaee031b,IVANPAH,cont,10,landsat,success,complete
+IVANPAH_date2020-06-26_range15_modecont_sensorlandsat,93bd1053-a21d-474d-8c8a-57656a20c3df,IVANPAH,cont,15,landsat,success,complete
+IVANPAH_date2020-06-26_range21_modecont_sensorlandsat,99223f1d-107e-4789-b166-b828c41be11e,IVANPAH,cont,21,landsat,success,complete
+IVANPAH_date2020-06-26_range30_modecont_sensorlandsat,cfba5dff-6c0a-4877-957f-de05260ef02c,IVANPAH,cont,30,landsat,success,complete
+IVANPAH_date2020-06-26_range45_modecont_sensorlandsat,16daf43d-dbb8-4f77-b31a-1fa7e2a53e75,IVANPAH,cont,45,landsat,success,complete
+IVANPAH_date2020-06-26_range60_modecont_sensorlandsat,b9d35621-8484-413d-ab0a-da4c165174a5,IVANPAH,cont,60,landsat,success,complete
+IVANPAH_date2020-06-26_range90_modecont_sensorlandsat,b47c8148-c3cd-42ff-9665-df70de5a08a9,IVANPAH,cont,90,landsat,success,complete
+BULL_date2020-09-05_range5_modealarm_sensorsentinel-2,ad6b5772-fc66-4d62-9d9c-d07b845f062a,BULL,alarm,5,sentinel-2,success,complete
+BULL_date2020-09-05_range10_modealarm_sensorsentinel-2,9895ec99-4a22-48dc-8189-3679cbf9f6b6,BULL,alarm,10,sentinel-2,success,complete
+BULL_date2020-09-05_range15_modealarm_sensorsentinel-2,da386356-027d-4811-b9b8-f5a73e5829cc,BULL,alarm,15,sentinel-2,success,complete
+BULL_date2020-09-05_range21_modealarm_sensorsentinel-2,91de13aa-cd50-490f-a349-9808e43712f5,BULL,alarm,21,sentinel-2,success,complete
+BULL_date2020-09-05_range30_modealarm_sensorsentinel-2,e4aa1b18-9018-4bd0-a5c2-04543328f443,BULL,alarm,30,sentinel-2,success,complete
+BULL_date2020-09-05_range45_modealarm_sensorsentinel-2,82ac72a3-829a-4796-899b-6dbef0f9ab13,BULL,alarm,45,sentinel-2,success,complete
+BULL_date2020-09-05_range60_modealarm_sensorsentinel-2,5c4f894f-610a-4ea3-9caf-b2702c49dc03,BULL,alarm,60,sentinel-2,success,complete
+BULL_date2020-09-05_range90_modealarm_sensorsentinel-2,1ed120f7-21a3-4b91-8163-c9b95de98a2a,BULL,alarm,90,sentinel-2,success,complete
+BULL_date2020-09-05_range5_modealarm_sensorlandsat,cb3b0a62-dfe9-46db-899f-f39327ef4ab5,BULL,alarm,5,landsat,success,complete
+BULL_date2020-09-05_range10_modealarm_sensorlandsat,78996ea4-e98d-4dc3-a226-56eafb290777,BULL,alarm,10,landsat,success,complete
+BULL_date2020-09-05_range15_modealarm_sensorlandsat,2ad2c72f-bbe0-446d-a557-9a10ae3dc39a,BULL,alarm,15,landsat,success,complete
+BULL_date2020-09-05_range21_modealarm_sensorlandsat,1e994d14-dff3-4148-ba87-1d8ccc3073fe,BULL,alarm,21,landsat,success,complete
+BULL_date2020-09-05_range30_modealarm_sensorlandsat,089b2ea8-1ce5-4629-9e69-296c9bcf8fcb,BULL,alarm,30,landsat,success,complete
+BULL_date2020-09-05_range45_modealarm_sensorlandsat,e3475de5-74dc-4d8c-9a85-27838dba32a4,BULL,alarm,45,landsat,success,complete
+BULL_date2020-09-05_range60_modealarm_sensorlandsat,514e228a-0392-4d2e-bd16-b3a150726d75,BULL,alarm,60,landsat,success,complete
+BULL_date2020-09-05_range90_modealarm_sensorlandsat,8a4c6c45-42ca-436c-9b27-97b6673cdc9c,BULL,alarm,90,landsat,success,complete
+BULL_date2020-09-05_range5_modecont_sensorsentinel-2,bfe04e6a-8b51-4e46-9b03-2daf41a80dee,BULL,cont,5,sentinel-2,success,complete
+BULL_date2020-09-05_range10_modecont_sensorsentinel-2,88abb423-9658-4088-a915-28c353d86d6f,BULL,cont,10,sentinel-2,success,complete
+BULL_date2020-09-05_range15_modecont_sensorsentinel-2,b66bc54c-0621-4e52-a4e9-3aaed2b8f14f,BULL,cont,15,sentinel-2,success,complete
+BULL_date2020-09-05_range21_modecont_sensorsentinel-2,9b05d8b1-ce9e-4b02-85a5-6f00a8b2e7eb,BULL,cont,21,sentinel-2,success,complete
+BULL_date2020-09-05_range30_modecont_sensorsentinel-2,307a39da-eac2-4f21-b676-68a00d1e540b,BULL,cont,30,sentinel-2,success,complete
+BULL_date2020-09-05_range45_modecont_sensorsentinel-2,20902326-9bf9-4637-a0dc-63157ab6a100,BULL,cont,45,sentinel-2,success,complete
+BULL_date2020-09-05_range60_modecont_sensorsentinel-2,3b772d1f-4e15-4373-94a1-28436425f90a,BULL,cont,60,sentinel-2,success,complete
+BULL_date2020-09-05_range90_modecont_sensorsentinel-2,2166f415-a61b-49c1-a5aa-2836954d5d19,BULL,cont,90,sentinel-2,success,complete
+BULL_date2020-09-05_range5_modecont_sensorlandsat,fb005d64-5304-43bf-b80b-161b27b1f01c,BULL,cont,5,landsat,success,complete
+BULL_date2020-09-05_range10_modecont_sensorlandsat,ad2e65d5-3bec-4ea3-8631-0266209449fd,BULL,cont,10,landsat,success,complete
+BULL_date2020-09-05_range15_modecont_sensorlandsat,cf1c67c3-7953-495f-aede-9f1389904f7f,BULL,cont,15,landsat,success,complete
+BULL_date2020-09-05_range21_modecont_sensorlandsat,e62072d0-3203-440f-9ee4-977e3d430cb5,BULL,cont,21,landsat,success,complete
+BULL_date2020-09-05_range30_modecont_sensorlandsat,de1550df-2955-40bd-8d66-2e416e7e6313,BULL,cont,30,landsat,success,complete
+BULL_date2020-09-05_range45_modecont_sensorlandsat,7abc0bab-9a93-44fa-b308-a489e26054b5,BULL,cont,45,landsat,success,complete
+BULL_date2020-09-05_range60_modecont_sensorlandsat,94819772-c421-4ed1-9d7d-44b9f7178791,BULL,cont,60,landsat,success,complete
+BULL_date2020-09-05_range90_modecont_sensorlandsat,1d2d437d-997b-4a78-8d37-d513f01294c6,BULL,cont,90,landsat,success,complete
+WENDY_date2019-10-10_range5_modealarm_sensorsentinel-2,eb5deb7e-3b07-42aa-ac65-2a15a2879a8a,WENDY,alarm,5,sentinel-2,success,complete
+WENDY_date2019-10-10_range10_modealarm_sensorsentinel-2,b0fa0478-71e0-46d6-8dc1-b2855a4c3bf6,WENDY,alarm,10,sentinel-2,success,complete
+WENDY_date2019-10-10_range15_modealarm_sensorsentinel-2,38b63d3a-9251-4596-b33f-8c3b320fe6e3,WENDY,alarm,15,sentinel-2,success,complete
+WENDY_date2019-10-10_range21_modealarm_sensorsentinel-2,4f83347c-1149-4ef9-aa48-32e456e1e382,WENDY,alarm,21,sentinel-2,success,complete
+WENDY_date2019-10-10_range30_modealarm_sensorsentinel-2,1e18bd1a-c847-4ac0-a0ed-c4e27c6fc5ca,WENDY,alarm,30,sentinel-2,success,complete
+WENDY_date2019-10-10_range45_modealarm_sensorsentinel-2,8ccb7e60-d74f-4a2d-84b1-21b00aebcd88,WENDY,alarm,45,sentinel-2,success,complete
+WENDY_date2019-10-10_range60_modealarm_sensorsentinel-2,498027b0-cf8c-41e2-953b-66cbf9cb7753,WENDY,alarm,60,sentinel-2,success,complete
+WENDY_date2019-10-10_range90_modealarm_sensorsentinel-2,299d124d-cd16-493a-819a-1c547b894d77,WENDY,alarm,90,sentinel-2,success,complete
+WENDY_date2019-10-10_range5_modealarm_sensorlandsat,a7eb7ecf-045a-4ce8-8737-1bd3daa427bb,WENDY,alarm,5,landsat,success,complete
+WENDY_date2019-10-10_range10_modealarm_sensorlandsat,e777e4c7-4c95-4a3f-b8fc-3597cfcb466d,WENDY,alarm,10,landsat,success,complete
+WENDY_date2019-10-10_range15_modealarm_sensorlandsat,56325044-daf9-4980-83ab-fab4bee397a9,WENDY,alarm,15,landsat,success,complete
+WENDY_date2019-10-10_range21_modealarm_sensorlandsat,c4cec2a5-fe55-4abc-a737-743ffa7e9daa,WENDY,alarm,21,landsat,success,complete
+WENDY_date2019-10-10_range30_modealarm_sensorlandsat,f5ff5757-82ea-48ad-86ab-2720aa1cca87,WENDY,alarm,30,landsat,success,complete
+WENDY_date2019-10-10_range45_modealarm_sensorlandsat,6ceb2539-a1ed-41ac-a76c-abcddb983acc,WENDY,alarm,45,landsat,success,complete
+WENDY_date2019-10-10_range60_modealarm_sensorlandsat,49b9a5f6-c9e0-4d95-91a2-a8477de8f8aa,WENDY,alarm,60,landsat,success,complete
+WENDY_date2019-10-10_range90_modealarm_sensorlandsat,6f9cf5f7-b21d-48c8-98fc-4f1d14e1a41e,WENDY,alarm,90,landsat,success,complete
+WENDY_date2019-10-14_range5_modecont_sensorsentinel-2,a11eeae1-3b53-4d84-ad41-57ef2c8a9d3a,WENDY,cont,5,sentinel-2,success,complete
+WENDY_date2019-10-14_range10_modecont_sensorsentinel-2,e25ebcf2-d17b-4cec-a8a8-2c5515601deb,WENDY,cont,10,sentinel-2,success,complete
+WENDY_date2019-10-14_range15_modecont_sensorsentinel-2,429a1888-bf84-41e9-858a-b44ab80a3998,WENDY,cont,15,sentinel-2,success,complete
+WENDY_date2019-10-14_range21_modecont_sensorsentinel-2,cb3666f8-8727-435a-9921-73e9abf786a2,WENDY,cont,21,sentinel-2,success,complete
+WENDY_date2019-10-14_range30_modecont_sensorsentinel-2,46dc663a-bd61-451d-8f8b-24d1f4565212,WENDY,cont,30,sentinel-2,success,complete
+WENDY_date2019-10-14_range45_modecont_sensorsentinel-2,31c1548b-d4b7-432d-b4f4-2413af316c75,WENDY,cont,45,sentinel-2,success,complete
+WENDY_date2019-10-14_range60_modecont_sensorsentinel-2,7df72dc5-36ef-4595-9a5d-0ff63c90e40b,WENDY,cont,60,sentinel-2,success,complete
+WENDY_date2019-10-14_range90_modecont_sensorsentinel-2,3e2425c7-dc84-4a66-9c46-31d7dc25d119,WENDY,cont,90,sentinel-2,success,complete
+WENDY_date2019-10-14_range5_modecont_sensorlandsat,62d39977-971b-4be0-a2dc-24ce638b398d,WENDY,cont,5,landsat,success,failed
+WENDY_date2019-10-14_range10_modecont_sensorlandsat,566adda7-b4e4-4a6c-a4bb-22329a75823c,WENDY,cont,10,landsat,success,complete
+WENDY_date2019-10-14_range15_modecont_sensorlandsat,a644b901-eaac-4b8d-a188-f665f355eb7b,WENDY,cont,15,landsat,success,complete
+WENDY_date2019-10-14_range21_modecont_sensorlandsat,9a96a960-7ebc-4326-b942-ee7d6a87c2d5,WENDY,cont,21,landsat,success,complete
+WENDY_date2019-10-14_range30_modecont_sensorlandsat,826fc1ff-a573-41fb-8626-29b1dbc0e0c7,WENDY,cont,30,landsat,success,complete
+WENDY_date2019-10-14_range45_modecont_sensorlandsat,3f2cad39-d529-4fd1-987d-29b6806ffdf4,WENDY,cont,45,landsat,success,complete
+WENDY_date2019-10-14_range60_modecont_sensorlandsat,1d97fa2c-25b6-44d1-8d8b-13bf0753ebcf,WENDY,cont,60,landsat,success,complete
+WENDY_date2019-10-14_range90_modecont_sensorlandsat,06f8f521-5aec-4733-9232-fa8d0cfcac6e,WENDY,cont,90,landsat,success,complete
+STAR_date1899-12-30_range5_modealarm_sensorsentinel-2,f894ca02-6f18-48b8-926a-95d0001f5ade,STAR,alarm,5,sentinel-2,success,failed
+STAR_date1899-12-30_range10_modealarm_sensorsentinel-2,7de1e485-788f-49b9-9f85-cc83274024b4,STAR,alarm,10,sentinel-2,success,failed
+STAR_date1899-12-30_range15_modealarm_sensorsentinel-2,4d59a98a-87da-482f-a931-838169592485,STAR,alarm,15,sentinel-2,success,failed
+STAR_date1899-12-30_range21_modealarm_sensorsentinel-2,8cc8ae7a-9c43-4375-989e-56e4dc5f203b,STAR,alarm,21,sentinel-2,success,failed
+STAR_date1899-12-30_range30_modealarm_sensorsentinel-2,eaa0e949-0c81-4029-a355-9781ea2554e0,STAR,alarm,30,sentinel-2,success,failed
+STAR_date1899-12-30_range45_modealarm_sensorsentinel-2,af0f4ce8-447a-456c-851e-ad111e92bc6b,STAR,alarm,45,sentinel-2,success,failed
+STAR_date1899-12-30_range60_modealarm_sensorsentinel-2,6ce9ae36-fc3b-405e-97fb-69e1c9c8c413,STAR,alarm,60,sentinel-2,success,failed
+STAR_date1899-12-30_range90_modealarm_sensorsentinel-2,c090859b-663c-4ba5-b1ad-79c4bf27c9ca,STAR,alarm,90,sentinel-2,success,failed
+STAR_date1899-12-30_range5_modealarm_sensorlandsat,a65835d1-6909-4bb5-bd65-2fc045c95d01,STAR,alarm,5,landsat,success,failed
+STAR_date1899-12-30_range10_modealarm_sensorlandsat,5a2d58c4-e45b-431d-843e-fe2d8ff8c981,STAR,alarm,10,landsat,success,failed
+STAR_date1899-12-30_range15_modealarm_sensorlandsat,fedf9453-628b-47d8-9efb-38cfe55eeecf,STAR,alarm,15,landsat,success,failed
+STAR_date1899-12-30_range21_modealarm_sensorlandsat,4a8ac43d-74ec-4d0c-8dd8-f8fc72fced97,STAR,alarm,21,landsat,success,failed
+STAR_date1899-12-30_range30_modealarm_sensorlandsat,495fd3f5-b297-4002-84dc-8b77da99eb37,STAR,alarm,30,landsat,success,failed
+STAR_date1899-12-30_range45_modealarm_sensorlandsat,25f37a97-d520-4993-91c8-405d9bfa19d3,STAR,alarm,45,landsat,success,failed
+STAR_date1899-12-30_range60_modealarm_sensorlandsat,975274bc-5af6-4e36-a71b-7054e7d9c440,STAR,alarm,60,landsat,success,failed
+STAR_date1899-12-30_range90_modealarm_sensorlandsat,8bde0d1e-b8c2-4bab-a51a-9343d9043b41,STAR,alarm,90,landsat,success,failed
+STAR_date1899-12-30_range5_modecont_sensorsentinel-2,8d876584-b08f-4ffd-bad6-0efc0857ef4c,STAR,cont,5,sentinel-2,success,failed
+STAR_date1899-12-30_range10_modecont_sensorsentinel-2,d438dbf3-438a-4589-be32-6cdfea6c50c2,STAR,cont,10,sentinel-2,success,failed
+STAR_date1899-12-30_range15_modecont_sensorsentinel-2,8de26df3-6b1d-48b2-aede-96cd90de6432,STAR,cont,15,sentinel-2,success,failed
+STAR_date1899-12-30_range21_modecont_sensorsentinel-2,ceab267c-bfcb-4d5d-8ecd-e7f449d5c2e8,STAR,cont,21,sentinel-2,success,failed
+STAR_date1899-12-30_range30_modecont_sensorsentinel-2,7b99faf0-0953-4afc-9698-84870bdb8ecd,STAR,cont,30,sentinel-2,success,failed
+STAR_date1899-12-30_range45_modecont_sensorsentinel-2,3b625e91-5db4-4598-b4f7-355b84876a3a,STAR,cont,45,sentinel-2,success,failed
+STAR_date1899-12-30_range60_modecont_sensorsentinel-2,4da3186f-3a29-4b9f-9171-df7b00d0b9de,STAR,cont,60,sentinel-2,success,failed
+STAR_date1899-12-30_range90_modecont_sensorsentinel-2,3cf0568a-73ca-4e82-a04b-8d69e930747e,STAR,cont,90,sentinel-2,success,failed
+STAR_date1899-12-30_range5_modecont_sensorlandsat,128a6976-b16c-4f9c-aa01-9495708f9975,STAR,cont,5,landsat,success,failed
+STAR_date1899-12-30_range10_modecont_sensorlandsat,e2679f16-ca91-4504-8f75-d67b430bb1d6,STAR,cont,10,landsat,success,failed
+STAR_date1899-12-30_range15_modecont_sensorlandsat,00b8ad82-ecd9-4a9d-a556-570a6cf40f78,STAR,cont,15,landsat,success,failed
+STAR_date1899-12-30_range21_modecont_sensorlandsat,d3b2408b-4cb5-40f9-84b3-9ee99e3cb1ed,STAR,cont,21,landsat,success,failed
+STAR_date1899-12-30_range30_modecont_sensorlandsat,d5a9c5b6-348f-40b1-8b5c-0bbae91ad92f,STAR,cont,30,landsat,success,failed
+STAR_date1899-12-30_range45_modecont_sensorlandsat,f7036fcf-8077-4959-8466-9fee4c21ecc0,STAR,cont,45,landsat,success,failed
+STAR_date1899-12-30_range60_modecont_sensorlandsat,8e8cd74e-f987-445c-8f2e-bc642596ad13,STAR,cont,60,landsat,success,failed
+STAR_date1899-12-30_range90_modecont_sensorlandsat,b25d3d54-e1f1-4473-b3ff-21d27878e70b,STAR,cont,90,landsat,success,failed
+EDEN_date2018-10-04_range5_modealarm_sensorsentinel-2,be7447c5-407c-405f-8547-9726ac60d4d9,EDEN,alarm,5,sentinel-2,success,complete
+EDEN_date2018-10-04_range10_modealarm_sensorsentinel-2,5ab5f4b7-d847-433d-8b40-8768c67b5101,EDEN,alarm,10,sentinel-2,success,complete
+EDEN_date2018-10-04_range15_modealarm_sensorsentinel-2,b6b89e43-6b33-4b1d-8860-85ed2346c03d,EDEN,alarm,15,sentinel-2,success,complete
+EDEN_date2018-10-04_range21_modealarm_sensorsentinel-2,a0967478-07aa-46be-85b7-1dd19334c0ad,EDEN,alarm,21,sentinel-2,success,complete
+EDEN_date2018-10-04_range30_modealarm_sensorsentinel-2,f797f0df-8ec0-43ff-91a5-6e5e38cc6f69,EDEN,alarm,30,sentinel-2,success,complete
+EDEN_date2018-10-04_range45_modealarm_sensorsentinel-2,ce60d034-5a20-4e27-9024-f3fca11cc237,EDEN,alarm,45,sentinel-2,success,complete
+EDEN_date2018-10-04_range60_modealarm_sensorsentinel-2,819f7c47-f3be-4aa6-9588-bd136e8f820a,EDEN,alarm,60,sentinel-2,success,complete
+EDEN_date2018-10-04_range90_modealarm_sensorsentinel-2,3c3c642b-9227-45a4-9b14-1eb733f88d2b,EDEN,alarm,90,sentinel-2,success,complete
+EDEN_date2018-10-04_range5_modealarm_sensorlandsat,3cbfaf9b-42e1-40f4-b968-f1bc4f3f8963,EDEN,alarm,5,landsat,success,failed
+EDEN_date2018-10-04_range10_modealarm_sensorlandsat,db13ca85-fed2-4f10-8d12-71b0772fbe2b,EDEN,alarm,10,landsat,success,complete
+EDEN_date2018-10-04_range15_modealarm_sensorlandsat,0befdb04-9ee4-404a-bfe2-09c5c98f0798,EDEN,alarm,15,landsat,success,complete
+EDEN_date2018-10-04_range21_modealarm_sensorlandsat,bca27e97-c51c-4571-90c1-39fb9529998c,EDEN,alarm,21,landsat,success,complete
+EDEN_date2018-10-04_range30_modealarm_sensorlandsat,3fd53e1e-d437-4de1-b8b8-5d691f845b04,EDEN,alarm,30,landsat,success,complete
+EDEN_date2018-10-04_range45_modealarm_sensorlandsat,6bf25c24-adbd-4dbe-ad4e-272a6cc091da,EDEN,alarm,45,landsat,success,complete
+EDEN_date2018-10-04_range60_modealarm_sensorlandsat,4d8a056c-25cb-41b1-9c54-667893ca9e99,EDEN,alarm,60,landsat,success,complete
+EDEN_date2018-10-04_range90_modealarm_sensorlandsat,671a77d2-ea39-4322-a876-0a2100816ba5,EDEN,alarm,90,landsat,success,complete
+EDEN_date2018-12-04_range5_modecont_sensorsentinel-2,02a1b0c5-61b1-4b82-a190-2fcf1727ec54,EDEN,cont,5,sentinel-2,success,complete
+EDEN_date2018-12-04_range10_modecont_sensorsentinel-2,dfd97317-21df-438e-96fe-7624c881c1ea,EDEN,cont,10,sentinel-2,success,complete
+EDEN_date2018-12-04_range15_modecont_sensorsentinel-2,3e6cfac5-bf72-455c-a794-1d33583afdfd,EDEN,cont,15,sentinel-2,success,complete
+EDEN_date2018-12-04_range21_modecont_sensorsentinel-2,ae5a271c-8966-41bb-a05b-b87bbf1c1dc5,EDEN,cont,21,sentinel-2,success,complete
+EDEN_date2018-12-04_range30_modecont_sensorsentinel-2,d46dae77-7796-4932-81b2-e4037a4d9f0c,EDEN,cont,30,sentinel-2,success,complete
+EDEN_date2018-12-04_range45_modecont_sensorsentinel-2,cf6af521-5b70-48ea-9331-df2884cd067d,EDEN,cont,45,sentinel-2,success,complete
+EDEN_date2018-12-04_range60_modecont_sensorsentinel-2,be82f6ff-f97f-4592-a6cb-0d2bd5464ee8,EDEN,cont,60,sentinel-2,success,complete
+EDEN_date2018-12-04_range90_modecont_sensorsentinel-2,3578b6df-e7e8-42ef-bfa1-438a255c08b0,EDEN,cont,90,sentinel-2,success,complete
+EDEN_date2018-12-04_range5_modecont_sensorlandsat,f8964267-bcd6-4698-a56d-35cb4ddd044a,EDEN,cont,5,landsat,success,complete
+EDEN_date2018-12-04_range10_modecont_sensorlandsat,c9f2df33-e853-46a4-8358-4a07b80e36dd,EDEN,cont,10,landsat,success,complete
+EDEN_date2018-12-04_range15_modecont_sensorlandsat,9ce87bfb-be14-4f81-a914-4dc83acffecd,EDEN,cont,15,landsat,success,complete
+EDEN_date2018-12-04_range21_modecont_sensorlandsat,daf04af5-53f2-4590-a34f-b0652ea0c50b,EDEN,cont,21,landsat,success,complete
+EDEN_date2018-12-04_range30_modecont_sensorlandsat,c498c81d-505b-48c0-b3b2-75d13d1b5308,EDEN,cont,30,landsat,success,complete
+EDEN_date2018-12-04_range45_modecont_sensorlandsat,e0fbcbbe-5e79-4de3-8dd8-b7246aea03f6,EDEN,cont,45,landsat,success,complete
+EDEN_date2018-12-04_range60_modecont_sensorlandsat,beee14cf-1ddd-48d5-96fd-6aa9da7e2889,EDEN,cont,60,landsat,success,complete
+EDEN_date2018-12-04_range90_modecont_sensorlandsat,26b4e6fd-850b-4bc6-9c1c-071ac5efae19,EDEN,cont,90,landsat,success,complete
+SANTA CRUZ_date2018-03-27_range5_modealarm_sensorsentinel-2,a991888e-c3a7-4c5d-8751-42d6b0f4b879,SANTA CRUZ,alarm,5,sentinel-2,success,complete
+SANTA CRUZ_date2018-03-27_range10_modealarm_sensorsentinel-2,d805df8c-d3b7-4a47-8eef-edbe8d8fdb78,SANTA CRUZ,alarm,10,sentinel-2,success,complete
+SANTA CRUZ_date2018-03-27_range15_modealarm_sensorsentinel-2,e9af7a4d-3047-4791-a9b8-081800502429,SANTA CRUZ,alarm,15,sentinel-2,success,complete
+SANTA CRUZ_date2018-03-27_range21_modealarm_sensorsentinel-2,7619667d-951b-41c6-a150-cc2ff84d2615,SANTA CRUZ,alarm,21,sentinel-2,success,complete
+SANTA CRUZ_date2018-03-27_range30_modealarm_sensorsentinel-2,6168b8e9-2a34-445b-bbf1-646464f509dd,SANTA CRUZ,alarm,30,sentinel-2,success,complete
+SANTA CRUZ_date2018-03-27_range45_modealarm_sensorsentinel-2,a3e1a7b6-df57-4ed1-bf96-5698247f8671,SANTA CRUZ,alarm,45,sentinel-2,success,complete
+SANTA CRUZ_date2018-03-27_range60_modealarm_sensorsentinel-2,b7634c56-a7ba-4d12-a734-ab969dfde661,SANTA CRUZ,alarm,60,sentinel-2,success,complete
+SANTA CRUZ_date2018-03-27_range90_modealarm_sensorsentinel-2,c1cd5fc5-3100-48b5-b2e5-70a26bb36a76,SANTA CRUZ,alarm,90,sentinel-2,success,complete
+SANTA CRUZ_date2018-03-27_range5_modealarm_sensorlandsat,0b664a0e-8479-41b9-861a-6726e35555cf,SANTA CRUZ,alarm,5,landsat,success,complete
+SANTA CRUZ_date2018-03-27_range10_modealarm_sensorlandsat,af7cd19b-00c0-40f6-94ca-d8980dbd2cd0,SANTA CRUZ,alarm,10,landsat,success,complete
+SANTA CRUZ_date2018-03-27_range15_modealarm_sensorlandsat,fb9601bb-43c4-4bb9-ab4f-920e1affde81,SANTA CRUZ,alarm,15,landsat,success,complete
+SANTA CRUZ_date2018-03-27_range21_modealarm_sensorlandsat,12ef7c97-cbed-4de4-9e8c-3ca4bcfa17ab,SANTA CRUZ,alarm,21,landsat,success,complete
+SANTA CRUZ_date2018-03-27_range30_modealarm_sensorlandsat,9d087c0c-eaaa-40a0-a09c-2df4aff5d2ef,SANTA CRUZ,alarm,30,landsat,success,complete
+SANTA CRUZ_date2018-03-27_range45_modealarm_sensorlandsat,a7bb2e87-312b-4866-9d0e-e4a0e180dd5c,SANTA CRUZ,alarm,45,landsat,success,complete
+SANTA CRUZ_date2018-03-27_range60_modealarm_sensorlandsat,b46686af-fc47-4f50-bf06-2a2453274faa,SANTA CRUZ,alarm,60,landsat,success,complete
+SANTA CRUZ_date2018-03-27_range90_modealarm_sensorlandsat,3bbdff0a-d94f-45b8-bc22-ecd37a8391df,SANTA CRUZ,alarm,90,landsat,success,complete
+SANTA CRUZ_date2018-04-05_range5_modecont_sensorsentinel-2,b6c22592-2154-471e-8cae-4ed3213fd0a4,SANTA CRUZ,cont,5,sentinel-2,success,complete
+SANTA CRUZ_date2018-04-05_range10_modecont_sensorsentinel-2,592c182e-ede0-4350-ad74-c882a4b91f71,SANTA CRUZ,cont,10,sentinel-2,success,complete
+SANTA CRUZ_date2018-04-05_range15_modecont_sensorsentinel-2,439f445c-b347-4698-917d-5999c79444d6,SANTA CRUZ,cont,15,sentinel-2,success,complete
+SANTA CRUZ_date2018-04-05_range21_modecont_sensorsentinel-2,2d7a4284-37e8-4d9d-aabe-438d2662476f,SANTA CRUZ,cont,21,sentinel-2,success,complete
+SANTA CRUZ_date2018-04-05_range30_modecont_sensorsentinel-2,6a30bf27-c7ed-4c71-bb4b-cdae29635218,SANTA CRUZ,cont,30,sentinel-2,success,complete
+SANTA CRUZ_date2018-04-05_range45_modecont_sensorsentinel-2,a2faaf45-2c49-44c6-8189-45c9b30f4fa0,SANTA CRUZ,cont,45,sentinel-2,success,complete
+SANTA CRUZ_date2018-04-05_range60_modecont_sensorsentinel-2,a0ddbbf2-242e-4451-94b6-9b9e3da1b0b8,SANTA CRUZ,cont,60,sentinel-2,success,complete
+SANTA CRUZ_date2018-04-05_range90_modecont_sensorsentinel-2,a345b2d2-98d3-4c3e-b55b-97ce974f11b1,SANTA CRUZ,cont,90,sentinel-2,success,complete
+SANTA CRUZ_date2018-04-05_range5_modecont_sensorlandsat,f80c4d6a-a8ac-4f3d-8ad4-ec81c0aaa453,SANTA CRUZ,cont,5,landsat,success,complete
+SANTA CRUZ_date2018-04-05_range10_modecont_sensorlandsat,32afaf57-a3b8-47e4-9259-ec2f098b0acc,SANTA CRUZ,cont,10,landsat,success,complete
+SANTA CRUZ_date2018-04-05_range15_modecont_sensorlandsat,f482e2dc-2346-4321-8b3a-31ae9a502f3e,SANTA CRUZ,cont,15,landsat,success,complete
+SANTA CRUZ_date2018-04-05_range21_modecont_sensorlandsat,61de3657-2fac-4b2b-9576-0eb702ae6844,SANTA CRUZ,cont,21,landsat,success,complete
+SANTA CRUZ_date2018-04-05_range30_modecont_sensorlandsat,2e60c8d2-ebcc-49c3-8e26-cea072892e2b,SANTA CRUZ,cont,30,landsat,success,complete
+SANTA CRUZ_date2018-04-05_range45_modecont_sensorlandsat,86a4b83c-834a-4079-807c-c55805f27fda,SANTA CRUZ,cont,45,landsat,success,complete
+SANTA CRUZ_date2018-04-05_range60_modecont_sensorlandsat,378e2bac-dca1-4b74-85be-0a417800e657,SANTA CRUZ,cont,60,landsat,success,complete
+SANTA CRUZ_date2018-04-05_range90_modecont_sensorlandsat,323b33e7-559b-441d-8c20-81d7f347956d,SANTA CRUZ,cont,90,landsat,success,complete
+NORTH BUBBS_date2018-08-01_range5_modealarm_sensorsentinel-2,88a304b6-eb14-4fe7-984c-d1ad4a975733,NORTH BUBBS,alarm,5,sentinel-2,success,complete
+NORTH BUBBS_date2018-08-01_range10_modealarm_sensorsentinel-2,b718cc83-6b7f-4523-84bb-9bbc3a07f691,NORTH BUBBS,alarm,10,sentinel-2,success,complete
+NORTH BUBBS_date2018-08-01_range15_modealarm_sensorsentinel-2,dffff512-228b-4d1a-baa2-e141d697a8bc,NORTH BUBBS,alarm,15,sentinel-2,success,complete
+NORTH BUBBS_date2018-08-01_range21_modealarm_sensorsentinel-2,81d34e47-d3b7-42b7-af02-821da23f171d,NORTH BUBBS,alarm,21,sentinel-2,success,complete
+NORTH BUBBS_date2018-08-01_range30_modealarm_sensorsentinel-2,418f0ddc-de4a-467e-b0d6-9f3e2027e618,NORTH BUBBS,alarm,30,sentinel-2,success,complete
+NORTH BUBBS_date2018-08-01_range45_modealarm_sensorsentinel-2,a46ea106-5ead-4f55-88df-e2590aa37e77,NORTH BUBBS,alarm,45,sentinel-2,success,complete
+NORTH BUBBS_date2018-08-01_range60_modealarm_sensorsentinel-2,e8d3b7e2-160b-460c-896b-edb3a67d138e,NORTH BUBBS,alarm,60,sentinel-2,success,complete
+NORTH BUBBS_date2018-08-01_range90_modealarm_sensorsentinel-2,c9cc39fb-308e-47e1-aee3-2fc6d9d770ee,NORTH BUBBS,alarm,90,sentinel-2,success,complete
+NORTH BUBBS_date2018-08-01_range5_modealarm_sensorlandsat,de5a1abd-0126-438c-9f78-5a4ef3ff2107,NORTH BUBBS,alarm,5,landsat,success,failed
+NORTH BUBBS_date2018-08-01_range10_modealarm_sensorlandsat,96b52283-086c-4ee8-a3ce-0ce00325ad92,NORTH BUBBS,alarm,10,landsat,success,complete
+NORTH BUBBS_date2018-08-01_range15_modealarm_sensorlandsat,a5414540-f22b-488f-8d53-c2c5d9c754c5,NORTH BUBBS,alarm,15,landsat,success,complete
+NORTH BUBBS_date2018-08-01_range21_modealarm_sensorlandsat,3cc4c568-9598-42c7-8eae-31a6e7c48030,NORTH BUBBS,alarm,21,landsat,success,complete
+NORTH BUBBS_date2018-08-01_range30_modealarm_sensorlandsat,e021687d-dbaa-48d0-b901-5e4739293386,NORTH BUBBS,alarm,30,landsat,success,complete
+NORTH BUBBS_date2018-08-01_range45_modealarm_sensorlandsat,48af7e22-4ebf-4623-9fdd-0698987ca533,NORTH BUBBS,alarm,45,landsat,success,complete
+NORTH BUBBS_date2018-08-01_range60_modealarm_sensorlandsat,2a0190ae-a2e9-4f1c-9e14-54f1f9b772cb,NORTH BUBBS,alarm,60,landsat,success,complete
+NORTH BUBBS_date2018-08-01_range90_modealarm_sensorlandsat,d81b88ae-01fd-4bf8-a957-f07b084e366e,NORTH BUBBS,alarm,90,landsat,success,complete
+NORTH BUBBS_date2018-09-06_range5_modecont_sensorsentinel-2,f5eb6c03-f9b6-4552-8b0f-9131588a2b36,NORTH BUBBS,cont,5,sentinel-2,success,complete
+NORTH BUBBS_date2018-09-06_range10_modecont_sensorsentinel-2,8defc60d-6c37-4cb9-a0da-6542431f09b1,NORTH BUBBS,cont,10,sentinel-2,success,complete
+NORTH BUBBS_date2018-09-06_range15_modecont_sensorsentinel-2,4130a0c2-d724-4b5a-9338-3864ca88e690,NORTH BUBBS,cont,15,sentinel-2,success,complete
+NORTH BUBBS_date2018-09-06_range21_modecont_sensorsentinel-2,fbf5f1a8-7eb3-46ea-87bd-66e0ac99add0,NORTH BUBBS,cont,21,sentinel-2,success,complete
+NORTH BUBBS_date2018-09-06_range30_modecont_sensorsentinel-2,b980160b-b0c6-4d50-b576-0579a0a2172d,NORTH BUBBS,cont,30,sentinel-2,success,complete
+NORTH BUBBS_date2018-09-06_range45_modecont_sensorsentinel-2,7e632ddc-ce73-4878-ba99-117baa234279,NORTH BUBBS,cont,45,sentinel-2,success,complete
+NORTH BUBBS_date2018-09-06_range60_modecont_sensorsentinel-2,703f8a39-8b2a-42f8-a28c-af8c24274078,NORTH BUBBS,cont,60,sentinel-2,success,complete
+NORTH BUBBS_date2018-09-06_range90_modecont_sensorsentinel-2,12e23ed7-759e-4760-9a64-703428e12bcc,NORTH BUBBS,cont,90,sentinel-2,success,complete
+NORTH BUBBS_date2018-09-06_range5_modecont_sensorlandsat,99f4985b-25a8-466a-859e-ea9747ec76db,NORTH BUBBS,cont,5,landsat,success,complete
+NORTH BUBBS_date2018-09-06_range10_modecont_sensorlandsat,5589af6e-118d-4f99-8ff2-c882ca676732,NORTH BUBBS,cont,10,landsat,success,complete
+NORTH BUBBS_date2018-09-06_range15_modecont_sensorlandsat,077dace6-40cf-4fd7-8f7f-21c3aef419ce,NORTH BUBBS,cont,15,landsat,success,complete
+NORTH BUBBS_date2018-09-06_range21_modecont_sensorlandsat,55deb8e9-fabc-488b-a814-9dc7dfdf794a,NORTH BUBBS,cont,21,landsat,success,complete
+NORTH BUBBS_date2018-09-06_range30_modecont_sensorlandsat,3de7ff38-1d1d-432b-baee-f8b23ce2c3c3,NORTH BUBBS,cont,30,landsat,success,complete
+NORTH BUBBS_date2018-09-06_range45_modecont_sensorlandsat,5b6f12d7-0cb3-4070-b63e-fa33faf1e965,NORTH BUBBS,cont,45,landsat,success,complete
+NORTH BUBBS_date2018-09-06_range60_modecont_sensorlandsat,a6dfc6b8-7bdd-4d56-948c-d4b6a7aef68e,NORTH BUBBS,cont,60,landsat,success,complete
+NORTH BUBBS_date2018-09-06_range90_modecont_sensorlandsat,94c7df52-8c6e-4801-9568-a4ae88f152db,NORTH BUBBS,cont,90,landsat,success,complete
+DENNISON_date2018-10-13_range5_modealarm_sensorsentinel-2,fbd8f718-e4f8-483f-a21d-91e2af18bf34,DENNISON,alarm,5,sentinel-2,success,complete
+DENNISON_date2018-10-13_range10_modealarm_sensorsentinel-2,2cf559a2-765c-404e-a608-79f57a110c66,DENNISON,alarm,10,sentinel-2,success,complete
+DENNISON_date2018-10-13_range15_modealarm_sensorsentinel-2,ada2ada4-b337-4b94-8f43-ca7b7f3035e7,DENNISON,alarm,15,sentinel-2,success,complete
+DENNISON_date2018-10-13_range21_modealarm_sensorsentinel-2,7633e17c-f30d-424f-920e-fa3f72d9acb4,DENNISON,alarm,21,sentinel-2,success,complete
+DENNISON_date2018-10-13_range30_modealarm_sensorsentinel-2,c1be27e8-c93b-4e60-b07c-319b40095b53,DENNISON,alarm,30,sentinel-2,success,complete
+DENNISON_date2018-10-13_range45_modealarm_sensorsentinel-2,36434340-eb3a-4889-a5be-5cd90784432c,DENNISON,alarm,45,sentinel-2,success,complete
+DENNISON_date2018-10-13_range60_modealarm_sensorsentinel-2,093dd254-4034-4d30-be84-0f5571ca21d8,DENNISON,alarm,60,sentinel-2,success,complete
+DENNISON_date2018-10-13_range90_modealarm_sensorsentinel-2,d62e3e52-925e-4ee1-8c0e-994546909495,DENNISON,alarm,90,sentinel-2,success,complete
+DENNISON_date2018-10-13_range5_modealarm_sensorlandsat,0bfe4fd2-8876-4c48-a342-6b2b52e0ce6f,DENNISON,alarm,5,landsat,success,complete
+DENNISON_date2018-10-13_range10_modealarm_sensorlandsat,99edf1f4-3f34-44b3-b564-b24cc0a1c0d7,DENNISON,alarm,10,landsat,success,complete
+DENNISON_date2018-10-13_range15_modealarm_sensorlandsat,ed8ff332-3503-4f06-b927-37a27023c82a,DENNISON,alarm,15,landsat,success,complete
+DENNISON_date2018-10-13_range21_modealarm_sensorlandsat,50fdbe03-e08f-4744-8894-f92a2e62f859,DENNISON,alarm,21,landsat,success,complete
+DENNISON_date2018-10-13_range30_modealarm_sensorlandsat,f0f86c56-4963-4946-9763-edf91d1737a0,DENNISON,alarm,30,landsat,success,complete
+DENNISON_date2018-10-13_range45_modealarm_sensorlandsat,ccf31974-d3a0-4a53-a8fa-9299d5c8ecf5,DENNISON,alarm,45,landsat,success,complete
+DENNISON_date2018-10-13_range60_modealarm_sensorlandsat,ad58ce78-b8a2-4f76-971b-6e46c727554a,DENNISON,alarm,60,landsat,success,complete
+DENNISON_date2018-10-13_range90_modealarm_sensorlandsat,66e8337a-ff71-4d79-b90b-f961706da13c,DENNISON,alarm,90,landsat,success,complete
+DENNISON_date2018-12-04_range5_modecont_sensorsentinel-2,a58bc3e3-07a7-41b9-be30-3efaabd65f53,DENNISON,cont,5,sentinel-2,success,complete
+DENNISON_date2018-12-04_range10_modecont_sensorsentinel-2,ca4918a4-63a2-4a75-8e45-a2add6ce0f0a,DENNISON,cont,10,sentinel-2,success,complete
+DENNISON_date2018-12-04_range15_modecont_sensorsentinel-2,c8fc8801-f855-4880-bc6a-de4087360098,DENNISON,cont,15,sentinel-2,success,complete
+DENNISON_date2018-12-04_range21_modecont_sensorsentinel-2,b9fd0411-56c5-4f80-ac40-a761d3eabba9,DENNISON,cont,21,sentinel-2,success,complete
+DENNISON_date2018-12-04_range30_modecont_sensorsentinel-2,f6b87fd9-d9af-4e43-8ed0-843ea488cc43,DENNISON,cont,30,sentinel-2,success,complete
+DENNISON_date2018-12-04_range45_modecont_sensorsentinel-2,dd5e9223-0bf5-4d36-a1ee-ffa9b9937323,DENNISON,cont,45,sentinel-2,success,complete
+DENNISON_date2018-12-04_range60_modecont_sensorsentinel-2,0a6bec11-afa0-447c-b21a-572b0253512a,DENNISON,cont,60,sentinel-2,success,complete
+DENNISON_date2018-12-04_range90_modecont_sensorsentinel-2,b9d7e84b-8641-4080-b124-1b04f7bcd89e,DENNISON,cont,90,sentinel-2,success,complete
+DENNISON_date2018-12-04_range5_modecont_sensorlandsat,69004c60-c909-46da-8704-a7833b6c00fc,DENNISON,cont,5,landsat,success,complete
+DENNISON_date2018-12-04_range10_modecont_sensorlandsat,6779d141-385c-4a95-bce3-74bcd1c69f34,DENNISON,cont,10,landsat,success,complete
+DENNISON_date2018-12-04_range15_modecont_sensorlandsat,6b8077fb-353d-4568-aa1f-75539c4f1a62,DENNISON,cont,15,landsat,success,complete
+DENNISON_date2018-12-04_range21_modecont_sensorlandsat,fd100224-8f11-473f-9ab1-9c6aa459a68e,DENNISON,cont,21,landsat,success,complete
+DENNISON_date2018-12-04_range30_modecont_sensorlandsat,b293c077-c31b-45da-91b9-0e768f7b6748,DENNISON,cont,30,landsat,success,complete
+DENNISON_date2018-12-04_range45_modecont_sensorlandsat,dd94ddc5-3499-40d0-b777-77b413d77523,DENNISON,cont,45,landsat,success,complete
+DENNISON_date2018-12-04_range60_modecont_sensorlandsat,86924658-21c1-4b01-82d2-6aa07f78d6f5,DENNISON,cont,60,landsat,success,complete
+DENNISON_date2018-12-04_range90_modecont_sensorlandsat,899e0308-dae7-4832-8ed2-9c65ee28db4c,DENNISON,cont,90,landsat,success,complete
+HORSE CREEK_date2018-07-19_range5_modealarm_sensorsentinel-2,b6c3b870-654f-4837-baea-4529569662ee,HORSE CREEK,alarm,5,sentinel-2,success,complete
+HORSE CREEK_date2018-07-19_range10_modealarm_sensorsentinel-2,6c3fbfc9-99e9-4d34-87c8-43ec3d8f0814,HORSE CREEK,alarm,10,sentinel-2,success,complete
+HORSE CREEK_date2018-07-19_range15_modealarm_sensorsentinel-2,38e43f03-67b9-4710-91bd-cd85028b2a78,HORSE CREEK,alarm,15,sentinel-2,success,complete
+HORSE CREEK_date2018-07-19_range21_modealarm_sensorsentinel-2,72c0bdb3-6510-44d3-bb21-c952e655854a,HORSE CREEK,alarm,21,sentinel-2,success,complete
+HORSE CREEK_date2018-07-19_range30_modealarm_sensorsentinel-2,deb1257e-2052-4879-8d90-7e1845d64c0d,HORSE CREEK,alarm,30,sentinel-2,success,complete
+HORSE CREEK_date2018-07-19_range45_modealarm_sensorsentinel-2,f20ccac8-c08d-4efb-99ff-ca0175a88b83,HORSE CREEK,alarm,45,sentinel-2,success,complete
+HORSE CREEK_date2018-07-19_range60_modealarm_sensorsentinel-2,34f26689-9db1-4472-9d9a-d79def28bc84,HORSE CREEK,alarm,60,sentinel-2,success,complete
+HORSE CREEK_date2018-07-19_range90_modealarm_sensorsentinel-2,c99d473c-4139-4d52-9b4b-90e179be1680,HORSE CREEK,alarm,90,sentinel-2,success,complete
+HORSE CREEK_date2018-07-19_range5_modealarm_sensorlandsat,7e2c435a-04dd-4b14-9870-27ecba87b941,HORSE CREEK,alarm,5,landsat,success,complete
+HORSE CREEK_date2018-07-19_range10_modealarm_sensorlandsat,07342864-464d-4a28-aa01-25ebe87c0eb1,HORSE CREEK,alarm,10,landsat,success,complete
+HORSE CREEK_date2018-07-19_range15_modealarm_sensorlandsat,0acff5f9-3368-420d-9832-381e2d0a95bb,HORSE CREEK,alarm,15,landsat,success,complete
+HORSE CREEK_date2018-07-19_range21_modealarm_sensorlandsat,50a010ae-e382-45be-8552-ccfabafc0052,HORSE CREEK,alarm,21,landsat,success,complete
+HORSE CREEK_date2018-07-19_range30_modealarm_sensorlandsat,484e10d7-4c71-467a-9745-d15dc0f0f056,HORSE CREEK,alarm,30,landsat,success,complete
+HORSE CREEK_date2018-07-19_range45_modealarm_sensorlandsat,ca41e2c1-9ce6-43e8-a4b7-184fe32620fa,HORSE CREEK,alarm,45,landsat,success,complete
+HORSE CREEK_date2018-07-19_range60_modealarm_sensorlandsat,9430a532-d8af-4d3c-ba8d-492b01979877,HORSE CREEK,alarm,60,landsat,success,complete
+HORSE CREEK_date2018-07-19_range90_modealarm_sensorlandsat,c944ee0c-61a0-49a8-b8eb-e500639923c7,HORSE CREEK,alarm,90,landsat,success,complete
+HORSE CREEK_date2018-09-06_range5_modecont_sensorsentinel-2,b722001c-7f17-4e48-9747-d8a1e1ef9744,HORSE CREEK,cont,5,sentinel-2,success,complete
+HORSE CREEK_date2018-09-06_range10_modecont_sensorsentinel-2,47f9d382-459f-488f-b7e0-c04cec72d20d,HORSE CREEK,cont,10,sentinel-2,success,complete
+HORSE CREEK_date2018-09-06_range15_modecont_sensorsentinel-2,42c0e8d8-5c6f-48f4-ae82-7797ccaf58e4,HORSE CREEK,cont,15,sentinel-2,success,complete
+HORSE CREEK_date2018-09-06_range21_modecont_sensorsentinel-2,b69f2183-9cbf-4ce2-83e7-99516bddf9a0,HORSE CREEK,cont,21,sentinel-2,success,complete
+HORSE CREEK_date2018-09-06_range30_modecont_sensorsentinel-2,eb81a502-fc99-4fc3-a283-a3ae01f165f7,HORSE CREEK,cont,30,sentinel-2,success,complete
+HORSE CREEK_date2018-09-06_range45_modecont_sensorsentinel-2,fb14d42e-4030-4959-83b8-24580dd76b04,HORSE CREEK,cont,45,sentinel-2,success,complete
+HORSE CREEK_date2018-09-06_range60_modecont_sensorsentinel-2,fc67ed16-29be-4930-91fc-1d95cea79c3c,HORSE CREEK,cont,60,sentinel-2,success,complete
+HORSE CREEK_date2018-09-06_range90_modecont_sensorsentinel-2,f29aaa9e-302b-4f4c-ba27-649f49691f50,HORSE CREEK,cont,90,sentinel-2,success,complete
+HORSE CREEK_date2018-09-06_range5_modecont_sensorlandsat,c5fdd141-7683-4274-a121-a5d62f26e1fc,HORSE CREEK,cont,5,landsat,success,complete
+HORSE CREEK_date2018-09-06_range10_modecont_sensorlandsat,649fa21a-b7eb-4471-8aff-0feba19aae35,HORSE CREEK,cont,10,landsat,success,complete
+HORSE CREEK_date2018-09-06_range15_modecont_sensorlandsat,1fc7d7c2-effe-4d8e-acbe-d14809d63293,HORSE CREEK,cont,15,landsat,success,complete
+HORSE CREEK_date2018-09-06_range21_modecont_sensorlandsat,a52f14a4-5f6d-494b-a09e-2891991d962b,HORSE CREEK,cont,21,landsat,success,complete
+HORSE CREEK_date2018-09-06_range30_modecont_sensorlandsat,dfbdb236-095f-4235-b6f7-e02c38b9e664,HORSE CREEK,cont,30,landsat,success,complete
+HORSE CREEK_date2018-09-06_range45_modecont_sensorlandsat,29bdaf2e-c830-4f8d-ab84-fc1c5059e56b,HORSE CREEK,cont,45,landsat,success,complete
+HORSE CREEK_date2018-09-06_range60_modecont_sensorlandsat,55164b5a-6be8-45a1-8864-c2ea33dcf526,HORSE CREEK,cont,60,landsat,success,complete
+HORSE CREEK_date2018-09-06_range90_modecont_sensorlandsat,31095c9b-ee9b-40d1-887b-40b288f0794b,HORSE CREEK,cont,90,landsat,success,complete
+SERRA_date2018-01-29_range5_modealarm_sensorsentinel-2,86d77cf8-f0cc-46dc-b89f-3221667a2f25,SERRA,alarm,5,sentinel-2,success,complete
+SERRA_date2018-01-29_range10_modealarm_sensorsentinel-2,69dd0b54-1958-4553-bf99-cabb4ae3c0ce,SERRA,alarm,10,sentinel-2,success,complete
+SERRA_date2018-01-29_range15_modealarm_sensorsentinel-2,3ebbbfda-5ef0-4d17-9e97-5a472f28e320,SERRA,alarm,15,sentinel-2,success,complete
+SERRA_date2018-01-29_range21_modealarm_sensorsentinel-2,cc377600-01ab-48ea-b0d3-7b535c2b832e,SERRA,alarm,21,sentinel-2,success,complete
+SERRA_date2018-01-29_range30_modealarm_sensorsentinel-2,a0e5b527-3f64-44ee-bd2b-65198915cef9,SERRA,alarm,30,sentinel-2,success,complete
+SERRA_date2018-01-29_range45_modealarm_sensorsentinel-2,83ae72be-2336-477b-b329-31b19617caf7,SERRA,alarm,45,sentinel-2,success,complete
+SERRA_date2018-01-29_range60_modealarm_sensorsentinel-2,33381ffb-ea4b-489d-b113-9a9ecf595742,SERRA,alarm,60,sentinel-2,success,complete
+SERRA_date2018-01-29_range90_modealarm_sensorsentinel-2,76d402c7-074b-448d-84c6-5c5784508fe7,SERRA,alarm,90,sentinel-2,success,complete
+SERRA_date2018-01-29_range5_modealarm_sensorlandsat,cd356d18-6875-4e8d-9579-113fbf45d1dd,SERRA,alarm,5,landsat,success,failed
+SERRA_date2018-01-29_range10_modealarm_sensorlandsat,9537a502-2940-46fc-b2a7-a02787077cc1,SERRA,alarm,10,landsat,success,complete
+SERRA_date2018-01-29_range15_modealarm_sensorlandsat,d074d889-564c-4ce3-92b5-3daa087888cd,SERRA,alarm,15,landsat,success,complete
+SERRA_date2018-01-29_range21_modealarm_sensorlandsat,f3348b9b-a9d1-4ee7-b91a-e1b9155b9997,SERRA,alarm,21,landsat,success,complete
+SERRA_date2018-01-29_range30_modealarm_sensorlandsat,c8da9d5c-403c-45a9-8b52-1abeee572abc,SERRA,alarm,30,landsat,success,complete
+SERRA_date2018-01-29_range45_modealarm_sensorlandsat,6c0b330e-0fc1-4eb7-9109-3e207743e98f,SERRA,alarm,45,landsat,success,complete
+SERRA_date2018-01-29_range60_modealarm_sensorlandsat,1ee58145-afa6-4ef5-a92c-421ff030f128,SERRA,alarm,60,landsat,success,complete
+SERRA_date2018-01-29_range90_modealarm_sensorlandsat,79e4da20-bde5-4897-9df4-432c13633d2f,SERRA,alarm,90,landsat,success,complete
+SERRA_date2018-01-30_range5_modecont_sensorsentinel-2,a2ca4e3c-d95c-4c78-96f5-2d4c2684c692,SERRA,cont,5,sentinel-2,success,complete
+SERRA_date2018-01-30_range10_modecont_sensorsentinel-2,8f96683c-663f-4b5d-adc5-46ef1f967fbd,SERRA,cont,10,sentinel-2,success,complete
+SERRA_date2018-01-30_range15_modecont_sensorsentinel-2,3827770f-5aea-4755-9823-47a59d61e5ac,SERRA,cont,15,sentinel-2,success,complete
+SERRA_date2018-01-30_range21_modecont_sensorsentinel-2,3daa892d-579d-46cb-aa64-41bcaacf1ec3,SERRA,cont,21,sentinel-2,success,complete
+SERRA_date2018-01-30_range30_modecont_sensorsentinel-2,ae6699d8-d155-4b7e-a7c5-26be58477f27,SERRA,cont,30,sentinel-2,success,complete
+SERRA_date2018-01-30_range45_modecont_sensorsentinel-2,b1611578-f18d-4057-a395-2a15ba48a5ec,SERRA,cont,45,sentinel-2,success,complete
+SERRA_date2018-01-30_range60_modecont_sensorsentinel-2,deb53b5e-1ca1-4808-b6fa-f18ea3bf7515,SERRA,cont,60,sentinel-2,success,complete
+SERRA_date2018-01-30_range90_modecont_sensorsentinel-2,002a1457-ae0f-4820-a5af-ea8ad0d72331,SERRA,cont,90,sentinel-2,success,complete
+SERRA_date2018-01-30_range5_modecont_sensorlandsat,605c7936-3af3-41f4-b40f-017a0dc0363e,SERRA,cont,5,landsat,success,failed
+SERRA_date2018-01-30_range10_modecont_sensorlandsat,1f1107ca-f48f-4e8c-bd68-75208e3523e7,SERRA,cont,10,landsat,success,complete
+SERRA_date2018-01-30_range15_modecont_sensorlandsat,864f4429-6e67-4ed0-9712-339fa1ddf157,SERRA,cont,15,landsat,success,complete
+SERRA_date2018-01-30_range21_modecont_sensorlandsat,517a0dfd-3bf3-46c8-83ec-455bbd52c0c3,SERRA,cont,21,landsat,success,complete
+SERRA_date2018-01-30_range30_modecont_sensorlandsat,e8d8289c-7798-40a2-9359-25f96232c855,SERRA,cont,30,landsat,success,complete
+SERRA_date2018-01-30_range45_modecont_sensorlandsat,f8c7b5fb-636e-4f56-9f1f-36571995508f,SERRA,cont,45,landsat,success,complete
+SERRA_date2018-01-30_range60_modecont_sensorlandsat,f6bd0f50-1333-4033-809d-2c86db5e994e,SERRA,cont,60,landsat,success,complete
+SERRA_date2018-01-30_range90_modecont_sensorlandsat,cf985553-0228-4c62-aa13-e8cd91dc8435,SERRA,cont,90,landsat,success,complete
+THARPS_date2018-10-12_range5_modealarm_sensorsentinel-2,464cbacd-69b6-4e98-92ce-facdf15b7c5a,THARPS,alarm,5,sentinel-2,success,complete
+THARPS_date2018-10-12_range10_modealarm_sensorsentinel-2,f250bd89-2c0b-4a29-889b-a3d5167a3fd3,THARPS,alarm,10,sentinel-2,success,complete
+THARPS_date2018-10-12_range15_modealarm_sensorsentinel-2,bf40350a-b874-4912-a3d2-2b08c3e38031,THARPS,alarm,15,sentinel-2,success,complete
+THARPS_date2018-10-12_range21_modealarm_sensorsentinel-2,f981d2dd-1019-46c9-9312-376c1a1ec0a3,THARPS,alarm,21,sentinel-2,success,complete
+THARPS_date2018-10-12_range30_modealarm_sensorsentinel-2,6b9d354f-52a7-4381-a21d-411ea4e64634,THARPS,alarm,30,sentinel-2,success,complete
+THARPS_date2018-10-12_range45_modealarm_sensorsentinel-2,cdc577dc-955d-481d-95fa-f08ff592cf2a,THARPS,alarm,45,sentinel-2,success,complete
+THARPS_date2018-10-12_range60_modealarm_sensorsentinel-2,9b05c1a0-1325-4f12-91cd-28fc39fb5835,THARPS,alarm,60,sentinel-2,success,complete
+THARPS_date2018-10-12_range90_modealarm_sensorsentinel-2,bb0ce4b7-abaf-4004-b8f7-8ea84af1dffd,THARPS,alarm,90,sentinel-2,success,complete
+THARPS_date2018-10-12_range5_modealarm_sensorlandsat,090839b7-195f-42cb-8f39-4e6fb69e2a64,THARPS,alarm,5,landsat,success,failed
+THARPS_date2018-10-12_range10_modealarm_sensorlandsat,6ede4cb8-805d-4d4a-be8d-6d5310e4c03b,THARPS,alarm,10,landsat,success,complete
+THARPS_date2018-10-12_range15_modealarm_sensorlandsat,b918e2ba-7cec-4340-a271-7b8d0d89ef79,THARPS,alarm,15,landsat,success,complete
+THARPS_date2018-10-12_range21_modealarm_sensorlandsat,7bb20e87-d595-46b9-9555-de928588c8ac,THARPS,alarm,21,landsat,success,complete
+THARPS_date2018-10-12_range30_modealarm_sensorlandsat,4f01eece-c18e-4d9a-91d6-45dc78261add,THARPS,alarm,30,landsat,success,complete
+THARPS_date2018-10-12_range45_modealarm_sensorlandsat,a9717115-8fdb-4de3-8640-a10fa7af1aa9,THARPS,alarm,45,landsat,success,complete
+THARPS_date2018-10-12_range60_modealarm_sensorlandsat,7e5b7804-5d6d-4fc2-94f0-2b9a77d79dfb,THARPS,alarm,60,landsat,success,complete
+THARPS_date2018-10-12_range90_modealarm_sensorlandsat,2723c9f6-71bc-49c8-9c04-0449eeebbd8a,THARPS,alarm,90,landsat,success,complete
+THARPS_date2018-11-28_range5_modecont_sensorsentinel-2,4112a652-7eb2-467a-b15b-3b5e787f6551,THARPS,cont,5,sentinel-2,success,complete
+THARPS_date2018-11-28_range10_modecont_sensorsentinel-2,294c6349-d810-4c23-98da-67f80c4644a2,THARPS,cont,10,sentinel-2,success,complete
+THARPS_date2018-11-28_range15_modecont_sensorsentinel-2,520ba3f2-775a-4b29-9aad-f1f7ff0a2c29,THARPS,cont,15,sentinel-2,success,complete
+THARPS_date2018-11-28_range21_modecont_sensorsentinel-2,de48ad6a-31ed-4864-b409-81cd589b2df6,THARPS,cont,21,sentinel-2,success,complete
+THARPS_date2018-11-28_range30_modecont_sensorsentinel-2,cc14c1e9-fd97-47e2-90e2-65b4422739c0,THARPS,cont,30,sentinel-2,success,complete
+THARPS_date2018-11-28_range45_modecont_sensorsentinel-2,949e517a-2e2e-4f0a-8784-4508d3d8ae10,THARPS,cont,45,sentinel-2,success,complete
+THARPS_date2018-11-28_range60_modecont_sensorsentinel-2,6e8c6bd6-55d4-433b-a90a-da11230fa72a,THARPS,cont,60,sentinel-2,success,complete
+THARPS_date2018-11-28_range90_modecont_sensorsentinel-2,5b019f20-99d1-40d0-ab33-aeb60ae31649,THARPS,cont,90,sentinel-2,success,complete
+THARPS_date2018-11-28_range5_modecont_sensorlandsat,fffc5828-67da-4248-86c1-4036ee2a3108,THARPS,cont,5,landsat,success,failed
+THARPS_date2018-11-28_range10_modecont_sensorlandsat,bf61e57d-ef25-4105-bb34-3511ef898ac0,THARPS,cont,10,landsat,success,complete
+THARPS_date2018-11-28_range15_modecont_sensorlandsat,2310accf-dec5-48f6-b033-901bf33041e4,THARPS,cont,15,landsat,success,complete
+THARPS_date2018-11-28_range21_modecont_sensorlandsat,3f1411ed-eba0-42a2-acb4-61f011a6d2be,THARPS,cont,21,landsat,success,complete
+THARPS_date2018-11-28_range30_modecont_sensorlandsat,a19ba2f7-e385-4060-bcf6-aca2fec2591a,THARPS,cont,30,landsat,success,complete
+THARPS_date2018-11-28_range45_modecont_sensorlandsat,f80041e9-1813-47ec-b76a-4237621bf5c7,THARPS,cont,45,landsat,success,complete
+THARPS_date2018-11-28_range60_modecont_sensorlandsat,67334446-6651-444b-a321-a0a7d1ada4a7,THARPS,cont,60,landsat,success,complete
+THARPS_date2018-11-28_range90_modecont_sensorlandsat,be4b2822-39a3-4994-8298-34e62967b3be,THARPS,cont,90,landsat,success,complete
+KNOLLS_date2018-10-19_range5_modealarm_sensorsentinel-2,62b560f9-633e-40b2-b19f-9f5f67fbb629,KNOLLS,alarm,5,sentinel-2,success,complete
+KNOLLS_date2018-10-19_range10_modealarm_sensorsentinel-2,e6dc0cc5-806f-4586-a20f-dc45f6a800e9,KNOLLS,alarm,10,sentinel-2,success,complete
+KNOLLS_date2018-10-19_range15_modealarm_sensorsentinel-2,a3b1beea-c3d9-48cf-a6df-420ed89ab454,KNOLLS,alarm,15,sentinel-2,success,complete
+KNOLLS_date2018-10-19_range21_modealarm_sensorsentinel-2,13afdf64-48e7-4f5f-8d1a-edf2e0123537,KNOLLS,alarm,21,sentinel-2,success,complete
+KNOLLS_date2018-10-19_range30_modealarm_sensorsentinel-2,28fa559e-c4bc-44a2-a38f-a6c4eb35c60e,KNOLLS,alarm,30,sentinel-2,success,complete
+KNOLLS_date2018-10-19_range45_modealarm_sensorsentinel-2,6124c951-a5e0-4ee8-99f8-96d8ffe5c677,KNOLLS,alarm,45,sentinel-2,success,complete
+KNOLLS_date2018-10-19_range60_modealarm_sensorsentinel-2,97be036e-cde3-4db8-80b3-9c17b60039ed,KNOLLS,alarm,60,sentinel-2,success,complete
+KNOLLS_date2018-10-19_range90_modealarm_sensorsentinel-2,8d4091b5-b8d7-4a3d-9aef-2c8b0a4f6a3a,KNOLLS,alarm,90,sentinel-2,success,complete
+KNOLLS_date2018-10-19_range5_modealarm_sensorlandsat,19b14bc1-1949-4be3-932a-933154241f9e,KNOLLS,alarm,5,landsat,success,failed
+KNOLLS_date2018-10-19_range10_modealarm_sensorlandsat,0b33c1ee-6888-4a77-8b42-2e3da44536ed,KNOLLS,alarm,10,landsat,success,complete
+KNOLLS_date2018-10-19_range15_modealarm_sensorlandsat,6c68470c-e04e-4f90-88b9-d037a79dc403,KNOLLS,alarm,15,landsat,success,complete
+KNOLLS_date2018-10-19_range21_modealarm_sensorlandsat,66ad8ba4-db91-459e-8f76-b961aeb97894,KNOLLS,alarm,21,landsat,success,complete
+KNOLLS_date2018-10-19_range30_modealarm_sensorlandsat,a5ee520c-daf1-436d-91f2-c1066b822c54,KNOLLS,alarm,30,landsat,success,complete
+KNOLLS_date2018-10-19_range45_modealarm_sensorlandsat,91732d53-d470-46c9-92ca-4e167c7a50f3,KNOLLS,alarm,45,landsat,success,complete
+KNOLLS_date2018-10-19_range60_modealarm_sensorlandsat,38964308-e53b-4a45-a60e-65a936ad35b4,KNOLLS,alarm,60,landsat,success,complete
+KNOLLS_date2018-10-19_range90_modealarm_sensorlandsat,939a9e70-d540-4171-a719-2cdac8988c62,KNOLLS,alarm,90,landsat,success,complete
+KNOLLS_date2018-10-20_range5_modecont_sensorsentinel-2,051f9102-9a3f-4da7-88af-4868e01adcf3,KNOLLS,cont,5,sentinel-2,success,complete
+KNOLLS_date2018-10-20_range10_modecont_sensorsentinel-2,6a1d46f2-731c-40e0-ae12-f291299498fa,KNOLLS,cont,10,sentinel-2,success,complete
+KNOLLS_date2018-10-20_range15_modecont_sensorsentinel-2,a6afad11-c3dd-4f78-87d0-ef0c55869181,KNOLLS,cont,15,sentinel-2,success,complete
+KNOLLS_date2018-10-20_range21_modecont_sensorsentinel-2,b35e3cb7-def3-4e74-a9da-0b48bb425f68,KNOLLS,cont,21,sentinel-2,success,complete
+KNOLLS_date2018-10-20_range30_modecont_sensorsentinel-2,d4df196f-aec8-48fb-9b03-ecaddd63b844,KNOLLS,cont,30,sentinel-2,success,complete
+KNOLLS_date2018-10-20_range45_modecont_sensorsentinel-2,e4d7e470-53ff-422f-816b-768e06c4ae60,KNOLLS,cont,45,sentinel-2,success,complete
+KNOLLS_date2018-10-20_range60_modecont_sensorsentinel-2,6b26e9c5-cefb-40a2-8d6c-ed4e77df5b48,KNOLLS,cont,60,sentinel-2,success,complete
+KNOLLS_date2018-10-20_range90_modecont_sensorsentinel-2,eb95993d-9ed0-44fe-b981-f653c9a3e5bd,KNOLLS,cont,90,sentinel-2,success,complete
+KNOLLS_date2018-10-20_range5_modecont_sensorlandsat,bbc83d9c-e4f1-4935-a5d6-3943d1ba8465,KNOLLS,cont,5,landsat,success,failed
+KNOLLS_date2018-10-20_range10_modecont_sensorlandsat,81c01bbf-8237-452e-bc1a-432aa3d43398,KNOLLS,cont,10,landsat,success,complete
+KNOLLS_date2018-10-20_range15_modecont_sensorlandsat,dc26d161-dfe1-46e0-88df-be01efbbacbb,KNOLLS,cont,15,landsat,success,complete
+KNOLLS_date2018-10-20_range21_modecont_sensorlandsat,dea301ec-cc3e-4691-bd20-4f9fbc4b5431,KNOLLS,cont,21,landsat,success,complete
+KNOLLS_date2018-10-20_range30_modecont_sensorlandsat,b51b1c56-e034-4599-9818-92134d6870c3,KNOLLS,cont,30,landsat,success,complete
+KNOLLS_date2018-10-20_range45_modecont_sensorlandsat,c96a6742-3e35-458d-8845-5ac0af254d5d,KNOLLS,cont,45,landsat,success,complete
+KNOLLS_date2018-10-20_range60_modecont_sensorlandsat,88dcd79b-aaf9-450f-be3c-dc83ee91a6e3,KNOLLS,cont,60,landsat,success,complete
+KNOLLS_date2018-10-20_range90_modecont_sensorlandsat,30519af4-9121-4d0c-b344-4ee386a7b550,KNOLLS,cont,90,landsat,success,complete
+CORNELL_date2018-05-29_range5_modealarm_sensorsentinel-2,b4650c4e-8915-4df4-a2df-7192eb813027,CORNELL,alarm,5,sentinel-2,success,complete
+CORNELL_date2018-05-29_range10_modealarm_sensorsentinel-2,51818dff-d074-4309-aab2-15be2104597a,CORNELL,alarm,10,sentinel-2,success,complete
+CORNELL_date2018-05-29_range15_modealarm_sensorsentinel-2,a0cf7f55-456e-4dbc-99d4-6692ee0110dd,CORNELL,alarm,15,sentinel-2,success,complete
+CORNELL_date2018-05-29_range21_modealarm_sensorsentinel-2,2269fa19-c11f-4f5d-97ba-dcab49681f9e,CORNELL,alarm,21,sentinel-2,success,complete
+CORNELL_date2018-05-29_range30_modealarm_sensorsentinel-2,f1996263-8ae7-4bc2-be82-d5675119a926,CORNELL,alarm,30,sentinel-2,success,complete
+CORNELL_date2018-05-29_range45_modealarm_sensorsentinel-2,4ebcbf74-b4ff-4294-bc5a-0a5e8a898e0c,CORNELL,alarm,45,sentinel-2,success,complete
+CORNELL_date2018-05-29_range60_modealarm_sensorsentinel-2,55575912-b07e-408b-988c-8b01d3fd922d,CORNELL,alarm,60,sentinel-2,success,complete
+CORNELL_date2018-05-29_range90_modealarm_sensorsentinel-2,3437e66b-6bb7-49cb-9d5a-d46c9a348d36,CORNELL,alarm,90,sentinel-2,success,complete
+CORNELL_date2018-05-29_range5_modealarm_sensorlandsat,16e76ab4-5ed4-49bf-8f4e-532345ec8973,CORNELL,alarm,5,landsat,success,failed
+CORNELL_date2018-05-29_range10_modealarm_sensorlandsat,59311a98-56ee-4980-ac16-6f750cc5bcfb,CORNELL,alarm,10,landsat,success,complete
+CORNELL_date2018-05-29_range15_modealarm_sensorlandsat,6b54eaab-fd28-43bd-8a2c-70d3c9b075fc,CORNELL,alarm,15,landsat,success,complete
+CORNELL_date2018-05-29_range21_modealarm_sensorlandsat,09c5c32e-00a6-4cfb-8433-5eb7e300b9d4,CORNELL,alarm,21,landsat,success,complete
+CORNELL_date2018-05-29_range30_modealarm_sensorlandsat,34fa47c6-8ea6-4c3a-8c9b-483f6ef5c2b9,CORNELL,alarm,30,landsat,success,complete
+CORNELL_date2018-05-29_range45_modealarm_sensorlandsat,9b33d0e4-a384-487e-8295-7b11f17f956e,CORNELL,alarm,45,landsat,success,complete
+CORNELL_date2018-05-29_range60_modealarm_sensorlandsat,98744ac1-c3e2-4ce2-9b83-fec7a17a978a,CORNELL,alarm,60,landsat,success,complete
+CORNELL_date2018-05-29_range90_modealarm_sensorlandsat,79b14cd8-96ca-4fef-9843-76e6fd62ed49,CORNELL,alarm,90,landsat,success,complete
+CORNELL_date2018-05-30_range5_modecont_sensorsentinel-2,bd51d330-1c9b-4808-a9cc-ecfeae77a45d,CORNELL,cont,5,sentinel-2,success,complete
+CORNELL_date2018-05-30_range10_modecont_sensorsentinel-2,793e4691-ab01-4de3-83e9-6019c7f05ef3,CORNELL,cont,10,sentinel-2,success,complete
+CORNELL_date2018-05-30_range15_modecont_sensorsentinel-2,a6fc6ba0-5cda-41e9-a74c-c677ccfc4675,CORNELL,cont,15,sentinel-2,success,complete
+CORNELL_date2018-05-30_range21_modecont_sensorsentinel-2,3775d6bf-d349-4a06-a22b-aa0e63b5ea46,CORNELL,cont,21,sentinel-2,success,complete
+CORNELL_date2018-05-30_range30_modecont_sensorsentinel-2,5849fd5a-cb42-43c9-a4fd-52bbe652413e,CORNELL,cont,30,sentinel-2,success,complete
+CORNELL_date2018-05-30_range45_modecont_sensorsentinel-2,97040224-1132-40dd-9eba-1ef474f4a83c,CORNELL,cont,45,sentinel-2,success,complete
+CORNELL_date2018-05-30_range60_modecont_sensorsentinel-2,59e3ad65-86e0-4d18-b4ed-1bcb93cf1fd9,CORNELL,cont,60,sentinel-2,success,complete
+CORNELL_date2018-05-30_range90_modecont_sensorsentinel-2,2d6a9179-d9ff-4d37-88fc-f1864093ce72,CORNELL,cont,90,sentinel-2,success,complete
+CORNELL_date2018-05-30_range5_modecont_sensorlandsat,507b7dd8-2b17-45d6-a3df-807fe2a54888,CORNELL,cont,5,landsat,success,failed
+CORNELL_date2018-05-30_range10_modecont_sensorlandsat,ff3257f1-b75b-4f15-8c57-7d37f5181847,CORNELL,cont,10,landsat,success,complete
+CORNELL_date2018-05-30_range15_modecont_sensorlandsat,662e49ae-11e8-4399-aa78-deb551619371,CORNELL,cont,15,landsat,success,complete
+CORNELL_date2018-05-30_range21_modecont_sensorlandsat,a766d65a-c4ea-4584-ac50-43b201c1778e,CORNELL,cont,21,landsat,success,complete
+CORNELL_date2018-05-30_range30_modecont_sensorlandsat,e6a1f253-0593-41c3-a990-0729e8f0c9cd,CORNELL,cont,30,landsat,success,complete
+CORNELL_date2018-05-30_range45_modecont_sensorlandsat,587e2b7c-bb43-47dd-8f5e-ec1f9928e910,CORNELL,cont,45,landsat,success,complete
+CORNELL_date2018-05-30_range60_modecont_sensorlandsat,c08e0240-ada0-49a9-bf44-9883c5eb8710,CORNELL,cont,60,landsat,success,complete
+CORNELL_date2018-05-30_range90_modecont_sensorlandsat,5d6c6735-964a-40a6-b6bd-e7bec49c46dc,CORNELL,cont,90,landsat,success,complete
+NORTH GUARD_date2017-07-18_range5_modealarm_sensorsentinel-2,aef34873-8304-49fc-951d-f0d1acb13a11,NORTH GUARD,alarm,5,sentinel-2,success,complete
+NORTH GUARD_date2017-07-18_range10_modealarm_sensorsentinel-2,b503b406-e578-4e27-aa1f-0829a2c55c78,NORTH GUARD,alarm,10,sentinel-2,success,complete
+NORTH GUARD_date2017-07-18_range15_modealarm_sensorsentinel-2,97f83cb6-0780-478a-a71a-e1cb6c665058,NORTH GUARD,alarm,15,sentinel-2,success,complete
+NORTH GUARD_date2017-07-18_range21_modealarm_sensorsentinel-2,ce1472e8-18f3-41fb-808c-f320ebd1bbb4,NORTH GUARD,alarm,21,sentinel-2,success,complete
+NORTH GUARD_date2017-07-18_range30_modealarm_sensorsentinel-2,cf2a5142-d010-467d-aac0-18c503ced12c,NORTH GUARD,alarm,30,sentinel-2,success,complete
+NORTH GUARD_date2017-07-18_range45_modealarm_sensorsentinel-2,7e64fac2-3eef-4380-9e30-aa327a0d382c,NORTH GUARD,alarm,45,sentinel-2,success,complete
+NORTH GUARD_date2017-07-18_range60_modealarm_sensorsentinel-2,6765c987-4fc4-4932-93ac-7910267a3174,NORTH GUARD,alarm,60,sentinel-2,success,complete
+NORTH GUARD_date2017-07-18_range90_modealarm_sensorsentinel-2,ab596b6d-c786-46a2-9d86-1ae05b48e3ee,NORTH GUARD,alarm,90,sentinel-2,success,complete
+NORTH GUARD_date2017-07-18_range5_modealarm_sensorlandsat,1b9b7b52-807c-4fde-b1b0-0b6a3825cdf7,NORTH GUARD,alarm,5,landsat,success,complete
+NORTH GUARD_date2017-07-18_range10_modealarm_sensorlandsat,17def0eb-01a9-44ee-81e0-48b1d8385aeb,NORTH GUARD,alarm,10,landsat,success,complete
+NORTH GUARD_date2017-07-18_range15_modealarm_sensorlandsat,e3969106-e920-40f6-a860-c0e50a0cbf3a,NORTH GUARD,alarm,15,landsat,success,complete
+NORTH GUARD_date2017-07-18_range21_modealarm_sensorlandsat,762ec991-fe2c-4d2b-bf4b-08a148065ec0,NORTH GUARD,alarm,21,landsat,success,complete
+NORTH GUARD_date2017-07-18_range30_modealarm_sensorlandsat,d39f3b27-e5b1-47ba-a55c-17009cdd9f9e,NORTH GUARD,alarm,30,landsat,success,complete
+NORTH GUARD_date2017-07-18_range45_modealarm_sensorlandsat,1e1441aa-0f81-44e6-a915-027e3c5be9e1,NORTH GUARD,alarm,45,landsat,success,complete
+NORTH GUARD_date2017-07-18_range60_modealarm_sensorlandsat,9e78051f-ee1d-46d2-83ec-f8c7f51b80b0,NORTH GUARD,alarm,60,landsat,success,complete
+NORTH GUARD_date2017-07-18_range90_modealarm_sensorlandsat,938d44e1-a672-4d18-967f-1b345865f90c,NORTH GUARD,alarm,90,landsat,success,complete
+NORTH GUARD_date2017-11-27_range5_modecont_sensorsentinel-2,bc0a6ee7-3d6f-4b9f-8df9-54b33483340e,NORTH GUARD,cont,5,sentinel-2,success,complete
+NORTH GUARD_date2017-11-27_range10_modecont_sensorsentinel-2,586309d0-5ef8-4227-b05b-0b4b5a249acf,NORTH GUARD,cont,10,sentinel-2,success,complete
+NORTH GUARD_date2017-11-27_range15_modecont_sensorsentinel-2,c971cf7f-7dde-4a1b-b054-e0a29284e5dc,NORTH GUARD,cont,15,sentinel-2,success,complete
+NORTH GUARD_date2017-11-27_range21_modecont_sensorsentinel-2,e53804eb-b19f-41b0-9ccc-23a186b072d5,NORTH GUARD,cont,21,sentinel-2,success,complete
+NORTH GUARD_date2017-11-27_range30_modecont_sensorsentinel-2,523c754f-9e45-4653-bb76-4987c771c864,NORTH GUARD,cont,30,sentinel-2,success,complete
+NORTH GUARD_date2017-11-27_range45_modecont_sensorsentinel-2,7ebeef17-20dd-4980-baec-c94261d76906,NORTH GUARD,cont,45,sentinel-2,success,complete
+NORTH GUARD_date2017-11-27_range60_modecont_sensorsentinel-2,6f434118-901a-419d-a3c8-df2931abd6e7,NORTH GUARD,cont,60,sentinel-2,success,complete
+NORTH GUARD_date2017-11-27_range90_modecont_sensorsentinel-2,bb0fe353-8741-45ad-bf78-4b93aefcaae0,NORTH GUARD,cont,90,sentinel-2,success,complete
+NORTH GUARD_date2017-11-27_range5_modecont_sensorlandsat,41bc1f04-e502-43ad-b089-eead74576df6,NORTH GUARD,cont,5,landsat,success,complete
+NORTH GUARD_date2017-11-27_range10_modecont_sensorlandsat,71dece9b-e7b4-4699-aecc-7d7083361cf5,NORTH GUARD,cont,10,landsat,success,complete
+NORTH GUARD_date2017-11-27_range15_modecont_sensorlandsat,18d232f1-5f14-4817-9ac0-576bc86e2444,NORTH GUARD,cont,15,landsat,success,complete
+NORTH GUARD_date2017-11-27_range21_modecont_sensorlandsat,18fdd585-b232-4226-a687-696be0e185dd,NORTH GUARD,cont,21,landsat,success,complete
+NORTH GUARD_date2017-11-27_range30_modecont_sensorlandsat,c96cdde6-0441-42fe-9c63-fe5ade01cd1f,NORTH GUARD,cont,30,landsat,success,complete
+NORTH GUARD_date2017-11-27_range45_modecont_sensorlandsat,e5675135-29fa-4e6f-9c46-021ca20c6880,NORTH GUARD,cont,45,landsat,success,complete
+NORTH GUARD_date2017-11-27_range60_modecont_sensorlandsat,7e6913eb-f2a3-411e-85f2-e557033f248b,NORTH GUARD,cont,60,landsat,success,complete
+NORTH GUARD_date2017-11-27_range90_modecont_sensorlandsat,dc022c5b-4611-46e4-9b77-efcbb08a860c,NORTH GUARD,cont,90,landsat,success,complete
+GRANITE_date2017-07-08_range5_modealarm_sensorsentinel-2,033affc5-d5b0-4e61-894e-fc08156f3b11,GRANITE,alarm,5,sentinel-2,success,complete
+GRANITE_date2017-07-08_range10_modealarm_sensorsentinel-2,0c7b0cc2-db57-470a-bf14-3793ecafb90f,GRANITE,alarm,10,sentinel-2,success,complete
+GRANITE_date2017-07-08_range15_modealarm_sensorsentinel-2,2617d143-f348-4d3e-b3f8-09c2ee4c1ddb,GRANITE,alarm,15,sentinel-2,success,complete
+GRANITE_date2017-07-08_range21_modealarm_sensorsentinel-2,ca7a332d-b413-4681-b597-2636af1637f5,GRANITE,alarm,21,sentinel-2,success,complete
+GRANITE_date2017-07-08_range30_modealarm_sensorsentinel-2,5c7ba0f1-af28-4def-8993-0b32e6194ea8,GRANITE,alarm,30,sentinel-2,success,complete
+GRANITE_date2017-07-08_range45_modealarm_sensorsentinel-2,39345c1c-866f-4dd3-87fb-a0913822d72c,GRANITE,alarm,45,sentinel-2,success,complete
+GRANITE_date2017-07-08_range60_modealarm_sensorsentinel-2,8a22e732-1dd0-4634-99ca-93a85b467388,GRANITE,alarm,60,sentinel-2,success,complete
+GRANITE_date2017-07-08_range90_modealarm_sensorsentinel-2,11cb93b8-ba09-4681-bae4-48ef3e58d953,GRANITE,alarm,90,sentinel-2,success,complete
+GRANITE_date2017-07-08_range5_modealarm_sensorlandsat,b660fda7-40b7-44aa-8b32-4ee633e7defe,GRANITE,alarm,5,landsat,success,complete
+GRANITE_date2017-07-08_range10_modealarm_sensorlandsat,a38faf95-a500-4d6a-a3a7-66aeb1a807bb,GRANITE,alarm,10,landsat,success,complete
+GRANITE_date2017-07-08_range15_modealarm_sensorlandsat,02833e10-bb44-4a37-b69c-736cfbaf25cf,GRANITE,alarm,15,landsat,success,complete
+GRANITE_date2017-07-08_range21_modealarm_sensorlandsat,8a2cbfe2-fefe-4767-94b6-43936506e78b,GRANITE,alarm,21,landsat,success,complete
+GRANITE_date2017-07-08_range30_modealarm_sensorlandsat,fffa37e7-56f9-4a6b-8780-f23de9bf1652,GRANITE,alarm,30,landsat,success,complete
+GRANITE_date2017-07-08_range45_modealarm_sensorlandsat,fa0f9cbb-ca5b-4853-a688-39874a7238cd,GRANITE,alarm,45,landsat,success,complete
+GRANITE_date2017-07-08_range60_modealarm_sensorlandsat,2fce7d76-aeb1-4f36-8c93-fd96ae0bbf1b,GRANITE,alarm,60,landsat,success,complete
+GRANITE_date2017-07-08_range90_modealarm_sensorlandsat,a91f39f2-8f88-4e6e-90f7-942fa4cac622,GRANITE,alarm,90,landsat,success,complete
+GRANITE_date2017-07-11_range5_modecont_sensorsentinel-2,cd7f477a-4d9f-4ae1-a10a-6081088f0eec,GRANITE,cont,5,sentinel-2,success,complete
+GRANITE_date2017-07-11_range10_modecont_sensorsentinel-2,aff83372-8f1f-47a6-ac89-83cbf4275b2a,GRANITE,cont,10,sentinel-2,success,complete
+GRANITE_date2017-07-11_range15_modecont_sensorsentinel-2,645b3010-3b87-4398-b298-6b4f0baea821,GRANITE,cont,15,sentinel-2,success,complete
+GRANITE_date2017-07-11_range21_modecont_sensorsentinel-2,6819461a-d39c-4bc1-940e-aaa27b34f208,GRANITE,cont,21,sentinel-2,success,complete
+GRANITE_date2017-07-11_range30_modecont_sensorsentinel-2,a83ca998-4bb8-4655-a967-37aeab9d0d19,GRANITE,cont,30,sentinel-2,success,complete
+GRANITE_date2017-07-11_range45_modecont_sensorsentinel-2,4c6e5812-fdab-406f-9b0f-d6de84fd4e04,GRANITE,cont,45,sentinel-2,success,complete
+GRANITE_date2017-07-11_range60_modecont_sensorsentinel-2,1b656c23-cd54-44fa-8b43-868fdbf7abb9,GRANITE,cont,60,sentinel-2,success,complete
+GRANITE_date2017-07-11_range90_modecont_sensorsentinel-2,7e7d8afe-21f9-4a61-ad60-8f6461e19068,GRANITE,cont,90,sentinel-2,success,complete
+GRANITE_date2017-07-11_range5_modecont_sensorlandsat,d4ba4d5d-523b-4a9f-9727-fbcdfbe12a09,GRANITE,cont,5,landsat,success,complete
+GRANITE_date2017-07-11_range10_modecont_sensorlandsat,e016a16c-9d23-4178-b4a4-db4fe27a0c3b,GRANITE,cont,10,landsat,success,complete
+GRANITE_date2017-07-11_range15_modecont_sensorlandsat,acef06ec-9827-4d22-bc63-20007cc117eb,GRANITE,cont,15,landsat,success,complete
+GRANITE_date2017-07-11_range21_modecont_sensorlandsat,bd5ed8d7-ff8d-4afa-bf44-a655ea0d8833,GRANITE,cont,21,landsat,success,complete
+GRANITE_date2017-07-11_range30_modecont_sensorlandsat,340d071b-2723-43ca-a1a9-6f9c23791e6f,GRANITE,cont,30,landsat,success,complete
+GRANITE_date2017-07-11_range45_modecont_sensorlandsat,971a57c0-a5f4-4e7f-a725-afcb2d2c0e3c,GRANITE,cont,45,landsat,success,complete
+GRANITE_date2017-07-11_range60_modecont_sensorlandsat,ccb92cef-b1aa-437b-929a-e2c3bd553904,GRANITE,cont,60,landsat,success,complete
+GRANITE_date2017-07-11_range90_modecont_sensorlandsat,0bb22477-110b-4721-a6dc-c62f5d4f4748,GRANITE,cont,90,landsat,success,complete
+FORD LAKE_date2017-07-10_range5_modealarm_sensorsentinel-2,9d896b7a-2e13-47e4-9cc2-654f03a49cc9,FORD LAKE,alarm,5,sentinel-2,success,complete
+FORD LAKE_date2017-07-10_range10_modealarm_sensorsentinel-2,6ce7424b-c21a-480f-b8ea-b4e8987ceb6a,FORD LAKE,alarm,10,sentinel-2,success,complete
+FORD LAKE_date2017-07-10_range15_modealarm_sensorsentinel-2,e6c995cc-e2a6-4ebf-bca1-9100fdf669b2,FORD LAKE,alarm,15,sentinel-2,success,complete
+FORD LAKE_date2017-07-10_range21_modealarm_sensorsentinel-2,f48058fc-02b5-48b9-9159-56c3fcda129a,FORD LAKE,alarm,21,sentinel-2,success,complete
+FORD LAKE_date2017-07-10_range30_modealarm_sensorsentinel-2,e8ec9388-c9a4-46ca-a91e-447421aa49d7,FORD LAKE,alarm,30,sentinel-2,success,complete
+FORD LAKE_date2017-07-10_range45_modealarm_sensorsentinel-2,27f7070a-2102-4bf6-bd9e-c24b8c55d232,FORD LAKE,alarm,45,sentinel-2,success,complete
+FORD LAKE_date2017-07-10_range60_modealarm_sensorsentinel-2,2fe04bf8-dad4-4195-bde2-eb7107aceca4,FORD LAKE,alarm,60,sentinel-2,success,complete
+FORD LAKE_date2017-07-10_range90_modealarm_sensorsentinel-2,266981b2-1c29-44f8-a1d7-fce192fce785,FORD LAKE,alarm,90,sentinel-2,success,complete
+FORD LAKE_date2017-07-10_range5_modealarm_sensorlandsat,e436185c-686e-49d4-83fa-b0cbf6d179f3,FORD LAKE,alarm,5,landsat,success,complete
+FORD LAKE_date2017-07-10_range10_modealarm_sensorlandsat,c868aea6-521b-431f-a7c1-4748ba7dc00b,FORD LAKE,alarm,10,landsat,success,complete
+FORD LAKE_date2017-07-10_range15_modealarm_sensorlandsat,f51f92c9-30e6-4a2b-83db-4ec09597d6df,FORD LAKE,alarm,15,landsat,success,complete
+FORD LAKE_date2017-07-10_range21_modealarm_sensorlandsat,bf05e7f6-96c5-45ae-b2a5-f7ebdcf2e9d0,FORD LAKE,alarm,21,landsat,success,complete
+FORD LAKE_date2017-07-10_range30_modealarm_sensorlandsat,f52d62f9-65d7-4431-adc3-e8816715e700,FORD LAKE,alarm,30,landsat,success,complete
+FORD LAKE_date2017-07-10_range45_modealarm_sensorlandsat,ad044d76-bd95-4cf3-ba42-1f0990163a7e,FORD LAKE,alarm,45,landsat,success,complete
+FORD LAKE_date2017-07-10_range60_modealarm_sensorlandsat,4eec8fe0-9d50-4a7b-a36e-5af650538e04,FORD LAKE,alarm,60,landsat,success,complete
+FORD LAKE_date2017-07-10_range90_modealarm_sensorlandsat,6ca5f690-4a6e-42db-877c-fec2b25f9d67,FORD LAKE,alarm,90,landsat,success,complete
+FORD LAKE_date2017-07-11_range5_modecont_sensorsentinel-2,4db55c59-31b3-462a-bac3-18246cf36c21,FORD LAKE,cont,5,sentinel-2,success,complete
+FORD LAKE_date2017-07-11_range10_modecont_sensorsentinel-2,9a5f57f0-9fd9-4ab0-9319-a5f8f7752640,FORD LAKE,cont,10,sentinel-2,success,complete
+FORD LAKE_date2017-07-11_range15_modecont_sensorsentinel-2,4231f95e-b968-4f5e-a367-78391b0eed3f,FORD LAKE,cont,15,sentinel-2,success,complete
+FORD LAKE_date2017-07-11_range21_modecont_sensorsentinel-2,f8c41d45-15dd-4087-bac9-357d737b008a,FORD LAKE,cont,21,sentinel-2,success,complete
+FORD LAKE_date2017-07-11_range30_modecont_sensorsentinel-2,52adeca6-899a-47e4-b2a2-3654b6062970,FORD LAKE,cont,30,sentinel-2,success,complete
+FORD LAKE_date2017-07-11_range45_modecont_sensorsentinel-2,28d32f0d-e2b9-4eeb-8d20-fb75b4a79e1f,FORD LAKE,cont,45,sentinel-2,success,complete
+FORD LAKE_date2017-07-11_range60_modecont_sensorsentinel-2,02c40d70-9ad6-4621-93ff-84b95dc92be2,FORD LAKE,cont,60,sentinel-2,success,complete
+FORD LAKE_date2017-07-11_range90_modecont_sensorsentinel-2,eba61a01-9d42-433a-a10d-3da02a85d768,FORD LAKE,cont,90,sentinel-2,success,complete
+FORD LAKE_date2017-07-11_range5_modecont_sensorlandsat,441d00e9-9f62-4168-ae08-9549ed47f063,FORD LAKE,cont,5,landsat,success,complete
+FORD LAKE_date2017-07-11_range10_modecont_sensorlandsat,00870252-3a44-486e-8113-5fb3136046e1,FORD LAKE,cont,10,landsat,success,complete
+FORD LAKE_date2017-07-11_range15_modecont_sensorlandsat,cce4e48f-bff2-4f6f-a72e-9ca7772600c7,FORD LAKE,cont,15,landsat,success,complete
+FORD LAKE_date2017-07-11_range21_modecont_sensorlandsat,c75fc4ae-4863-4999-b15d-c6a42b059d63,FORD LAKE,cont,21,landsat,success,complete
+FORD LAKE_date2017-07-11_range30_modecont_sensorlandsat,c430b6a5-a029-4d05-9f77-4fcf149910bf,FORD LAKE,cont,30,landsat,success,complete
+FORD LAKE_date2017-07-11_range45_modecont_sensorlandsat,c7065deb-d872-4eb2-b657-15463c31d853,FORD LAKE,cont,45,landsat,success,complete
+FORD LAKE_date2017-07-11_range60_modecont_sensorlandsat,c72391b4-dc3d-4f16-8646-db0edb673c9b,FORD LAKE,cont,60,landsat,success,complete
+FORD LAKE_date2017-07-11_range90_modecont_sensorlandsat,91b1220a-085d-445a-a17a-b9cd0241f6f8,FORD LAKE,cont,90,landsat,success,complete
+YUCCA_date2016-11-05_range5_modealarm_sensorsentinel-2,2400b556-7796-446d-9a81-e1529d88d3d0,YUCCA,alarm,5,sentinel-2,success,complete
+YUCCA_date2016-11-05_range10_modealarm_sensorsentinel-2,7bd22448-8e5b-4273-9cc7-a3348b4a4bb7,YUCCA,alarm,10,sentinel-2,success,complete
+YUCCA_date2016-11-05_range15_modealarm_sensorsentinel-2,3ad62d38-fe15-47cb-8b5c-0179f9a5e4eb,YUCCA,alarm,15,sentinel-2,success,complete
+YUCCA_date2016-11-05_range21_modealarm_sensorsentinel-2,3b3dc099-d51d-4315-87c0-35f233895785,YUCCA,alarm,21,sentinel-2,success,complete
+YUCCA_date2016-11-05_range30_modealarm_sensorsentinel-2,7ad5892d-c1fb-4f30-a844-e260ef4bb18e,YUCCA,alarm,30,sentinel-2,success,complete
+YUCCA_date2016-11-05_range45_modealarm_sensorsentinel-2,fba8beed-b460-4b6d-afe2-5979f11df897,YUCCA,alarm,45,sentinel-2,success,complete
+YUCCA_date2016-11-05_range60_modealarm_sensorsentinel-2,38f34674-6a6d-4b16-b53c-1bf95e08aa0f,YUCCA,alarm,60,sentinel-2,success,complete
+YUCCA_date2016-11-05_range90_modealarm_sensorsentinel-2,1a3d96e3-5b13-4957-8f45-deb0b4602797,YUCCA,alarm,90,sentinel-2,success,failed
+YUCCA_date2016-11-05_range5_modealarm_sensorlandsat,eb6648ae-5c4c-478c-8854-2f8e2a5e597a,YUCCA,alarm,5,landsat,success,complete
+YUCCA_date2016-11-05_range10_modealarm_sensorlandsat,b7ca7da2-c39c-4294-a97a-5b7fa4c04038,YUCCA,alarm,10,landsat,success,complete
+YUCCA_date2016-11-05_range15_modealarm_sensorlandsat,4ef3f666-4b5a-4256-b6d2-b014b8157f34,YUCCA,alarm,15,landsat,success,complete
+YUCCA_date2016-11-05_range21_modealarm_sensorlandsat,4d911aff-0d59-45fd-a539-dfa8a5f15c04,YUCCA,alarm,21,landsat,success,complete
+YUCCA_date2016-11-05_range30_modealarm_sensorlandsat,f480c15c-a078-4cf2-b080-528774dc2cab,YUCCA,alarm,30,landsat,success,complete
+YUCCA_date2016-11-05_range45_modealarm_sensorlandsat,645d2ece-dd6d-49b0-98b2-408fb43ea05e,YUCCA,alarm,45,landsat,success,complete
+YUCCA_date2016-11-05_range60_modealarm_sensorlandsat,05bbcaa2-6cd8-4dbb-866c-b38c599bab73,YUCCA,alarm,60,landsat,success,complete
+YUCCA_date2016-11-05_range90_modealarm_sensorlandsat,b99a9ab7-a5fe-412c-9c79-3e2be1945029,YUCCA,alarm,90,landsat,success,complete
+YUCCA_date2016-11-15_range5_modecont_sensorsentinel-2,f3c3ca7f-c18b-4ca1-92d0-f54e456c2fb1,YUCCA,cont,5,sentinel-2,success,failed
+YUCCA_date2016-11-15_range10_modecont_sensorsentinel-2,6b374b5e-389c-4fda-8f2e-994539b1ca4b,YUCCA,cont,10,sentinel-2,success,failed
+YUCCA_date2016-11-15_range15_modecont_sensorsentinel-2,60a0f4a3-c3da-40c2-bfae-bcc4a2011631,YUCCA,cont,15,sentinel-2,success,complete
+YUCCA_date2016-11-15_range21_modecont_sensorsentinel-2,863ae900-d78f-4d21-9a9c-4a7c0e75858e,YUCCA,cont,21,sentinel-2,success,complete
+YUCCA_date2016-11-15_range30_modecont_sensorsentinel-2,eff3ec26-1b93-4f82-a967-72b558d2d7af,YUCCA,cont,30,sentinel-2,success,complete
+YUCCA_date2016-11-15_range45_modecont_sensorsentinel-2,dd6a1f8f-e247-48ff-be45-877f897bce77,YUCCA,cont,45,sentinel-2,success,complete
+YUCCA_date2016-11-15_range60_modecont_sensorsentinel-2,9ef2981b-faf5-4048-b803-113883d2445c,YUCCA,cont,60,sentinel-2,success,complete
+YUCCA_date2016-11-15_range90_modecont_sensorsentinel-2,dc9ef03a-e0af-4a26-872f-860aa100d3d0,YUCCA,cont,90,sentinel-2,success,failed
+YUCCA_date2016-11-15_range5_modecont_sensorlandsat,21e7be54-1947-445b-8bd3-e51564f0800e,YUCCA,cont,5,landsat,success,failed
+YUCCA_date2016-11-15_range10_modecont_sensorlandsat,08610738-7557-4e82-b832-75894d5a6792,YUCCA,cont,10,landsat,success,complete
+YUCCA_date2016-11-15_range15_modecont_sensorlandsat,b429054b-84d2-4bd3-85ad-f72a44afed4d,YUCCA,cont,15,landsat,success,complete
+YUCCA_date2016-11-15_range21_modecont_sensorlandsat,09104764-1e7d-4420-bd42-785c9208eaf2,YUCCA,cont,21,landsat,success,complete
+YUCCA_date2016-11-15_range30_modecont_sensorlandsat,687eb76c-e4b3-463c-9279-65ec291d08ca,YUCCA,cont,30,landsat,success,complete
+YUCCA_date2016-11-15_range45_modecont_sensorlandsat,dd347277-4fbe-465d-b6dd-b42483914798,YUCCA,cont,45,landsat,success,complete
+YUCCA_date2016-11-15_range60_modecont_sensorlandsat,808c70c7-1640-4134-9a5d-df6c4f9be6eb,YUCCA,cont,60,landsat,success,complete
+YUCCA_date2016-11-15_range90_modecont_sensorlandsat,beb1d4c0-9a98-455d-9374-6cc0d78a0082,YUCCA,cont,90,landsat,success,complete
+MULHOLLAND_date2016-02-25_range5_modealarm_sensorsentinel-2,afd9919f-e31e-47fe-bb55-6a34b15b04df,MULHOLLAND,alarm,5,sentinel-2,success,failed
+MULHOLLAND_date2016-02-25_range10_modealarm_sensorsentinel-2,21071bd6-8dd9-44a9-93a3-d95ad67aae79,MULHOLLAND,alarm,10,sentinel-2,success,failed
+MULHOLLAND_date2016-02-25_range15_modealarm_sensorsentinel-2,e050aab0-c6ed-49a0-81c8-561661b729f8,MULHOLLAND,alarm,15,sentinel-2,success,failed
+MULHOLLAND_date2016-02-25_range21_modealarm_sensorsentinel-2,cc4ef606-857b-4ad7-87a6-e224b2564e64,MULHOLLAND,alarm,21,sentinel-2,success,complete
+MULHOLLAND_date2016-02-25_range30_modealarm_sensorsentinel-2,ec4719b9-0e13-4882-95e5-06f9b331680e,MULHOLLAND,alarm,30,sentinel-2,success,complete
+MULHOLLAND_date2016-02-25_range45_modealarm_sensorsentinel-2,7809d1cb-6698-42a0-be9d-8f85ab6bfcda,MULHOLLAND,alarm,45,sentinel-2,success,complete
+MULHOLLAND_date2016-02-25_range60_modealarm_sensorsentinel-2,070a502d-5c60-43da-9194-11732d43a586,MULHOLLAND,alarm,60,sentinel-2,success,complete
+MULHOLLAND_date2016-02-25_range90_modealarm_sensorsentinel-2,2e7c583f-6bf0-47fa-b940-8fa53520d088,MULHOLLAND,alarm,90,sentinel-2,success,complete
+MULHOLLAND_date2016-02-25_range5_modealarm_sensorlandsat,dfcc3b08-e8d4-4fc3-b36d-0ea894fa900d,MULHOLLAND,alarm,5,landsat,success,failed
+MULHOLLAND_date2016-02-25_range10_modealarm_sensorlandsat,5a8ca8cf-f606-41c1-9255-d85529c5ed2a,MULHOLLAND,alarm,10,landsat,success,complete
+MULHOLLAND_date2016-02-25_range15_modealarm_sensorlandsat,350ef349-4625-4abc-8073-379862184823,MULHOLLAND,alarm,15,landsat,success,complete
+MULHOLLAND_date2016-02-25_range21_modealarm_sensorlandsat,89578342-05e0-4f43-9ae8-ba3c4d36dadd,MULHOLLAND,alarm,21,landsat,success,complete
+MULHOLLAND_date2016-02-25_range30_modealarm_sensorlandsat,1a30d3c6-3744-4359-bd19-1f2975fc6f14,MULHOLLAND,alarm,30,landsat,success,complete
+MULHOLLAND_date2016-02-25_range45_modealarm_sensorlandsat,4d6536b8-b17e-4164-9e5d-bb61aae9f3d4,MULHOLLAND,alarm,45,landsat,success,complete
+MULHOLLAND_date2016-02-25_range60_modealarm_sensorlandsat,5c1671c0-887f-4e5c-a4e4-faff700bbc91,MULHOLLAND,alarm,60,landsat,success,complete
+MULHOLLAND_date2016-02-25_range90_modealarm_sensorlandsat,2c6b09ef-8159-4aeb-a23b-19b63abc6974,MULHOLLAND,alarm,90,landsat,success,complete
+MULHOLLAND_date2016-02-28_range5_modecont_sensorsentinel-2,1240ef7e-c6e6-4ffe-962a-126956915349,MULHOLLAND,cont,5,sentinel-2,success,failed
+MULHOLLAND_date2016-02-28_range10_modecont_sensorsentinel-2,e4afab06-9038-4592-a6c1-3b5086d4d7f8,MULHOLLAND,cont,10,sentinel-2,success,failed
+MULHOLLAND_date2016-02-28_range15_modecont_sensorsentinel-2,cae39d74-7cbf-45b6-bfcb-4556dbf3ac8f,MULHOLLAND,cont,15,sentinel-2,success,complete
+MULHOLLAND_date2016-02-28_range21_modecont_sensorsentinel-2,1d5ab5f8-b7c7-4045-a6b8-32eb745e8a8c,MULHOLLAND,cont,21,sentinel-2,success,complete
+MULHOLLAND_date2016-02-28_range30_modecont_sensorsentinel-2,5f46de15-9a0f-4b59-826c-3636b8501687,MULHOLLAND,cont,30,sentinel-2,success,complete
+MULHOLLAND_date2016-02-28_range45_modecont_sensorsentinel-2,02c70363-2307-429d-b0fc-c25a7395634d,MULHOLLAND,cont,45,sentinel-2,success,complete
+MULHOLLAND_date2016-02-28_range60_modecont_sensorsentinel-2,7e2e5d11-dc5f-4fc6-a4e1-2f9b1b4488c0,MULHOLLAND,cont,60,sentinel-2,success,complete
+MULHOLLAND_date2016-02-28_range90_modecont_sensorsentinel-2,2634c9dc-541d-43bf-a5ce-dd628555aa9d,MULHOLLAND,cont,90,sentinel-2,success,complete
+MULHOLLAND_date2016-02-28_range5_modecont_sensorlandsat,b847c8b4-f73e-4d78-a1fe-c8f2c1e842a9,MULHOLLAND,cont,5,landsat,success,complete
+MULHOLLAND_date2016-02-28_range10_modecont_sensorlandsat,1545e6de-3594-45e2-aa4e-4595ae9ab881,MULHOLLAND,cont,10,landsat,success,complete
+MULHOLLAND_date2016-02-28_range15_modecont_sensorlandsat,f3deabe4-68a3-4825-9ca7-778e1d630f0e,MULHOLLAND,cont,15,landsat,success,complete
+MULHOLLAND_date2016-02-28_range21_modecont_sensorlandsat,e2593316-3b4a-4c7e-8e5a-bb0ca1667991,MULHOLLAND,cont,21,landsat,success,complete
+MULHOLLAND_date2016-02-28_range30_modecont_sensorlandsat,d68304ca-03a7-4dcf-a27f-bf593a57cf48,MULHOLLAND,cont,30,landsat,success,complete
+MULHOLLAND_date2016-02-28_range45_modecont_sensorlandsat,1ebfd578-afec-4a6e-a900-a87c4eef783b,MULHOLLAND,cont,45,landsat,success,complete
+MULHOLLAND_date2016-02-28_range60_modecont_sensorlandsat,2fcbe2b3-0646-4365-aad3-38810701fd7a,MULHOLLAND,cont,60,landsat,success,complete
+MULHOLLAND_date2016-02-28_range90_modecont_sensorlandsat,fa80ac90-575d-4b73-896a-76ea5dfc98d0,MULHOLLAND,cont,90,landsat,success,complete
+COAST_date2016-12-02_range5_modealarm_sensorsentinel-2,c6acb5b1-9912-4965-b904-048b071fbbd0,COAST,alarm,5,sentinel-2,success,complete
+COAST_date2016-12-02_range10_modealarm_sensorsentinel-2,b4655f4d-54a8-418b-8867-3e34b1a61ca9,COAST,alarm,10,sentinel-2,success,complete
+COAST_date2016-12-02_range15_modealarm_sensorsentinel-2,5da39e4b-b019-4840-a4a0-62165a52c1d5,COAST,alarm,15,sentinel-2,success,complete
+COAST_date2016-12-02_range21_modealarm_sensorsentinel-2,0a44a16c-7e2e-40d8-9bae-20028e4c5358,COAST,alarm,21,sentinel-2,success,complete
+COAST_date2016-12-02_range30_modealarm_sensorsentinel-2,422d70b5-1ccf-455b-ab48-4e6dbb80b167,COAST,alarm,30,sentinel-2,success,complete
+COAST_date2016-12-02_range45_modealarm_sensorsentinel-2,9e87224b-e1f9-4c1a-9cea-5fb2162bfbaf,COAST,alarm,45,sentinel-2,success,failed
+COAST_date2016-12-02_range60_modealarm_sensorsentinel-2,51245af9-f995-41e4-bc83-808616a90f4b,COAST,alarm,60,sentinel-2,success,failed
+COAST_date2016-12-02_range90_modealarm_sensorsentinel-2,4ca721ec-80f3-45f7-91d8-aceee2388a01,COAST,alarm,90,sentinel-2,success,failed
+COAST_date2016-12-02_range5_modealarm_sensorlandsat,7dcdd5f7-a2fb-4a14-ad49-02ea7ebc7833,COAST,alarm,5,landsat,success,failed
+COAST_date2016-12-02_range10_modealarm_sensorlandsat,d1a07502-d7f9-4aa7-ab12-0f21b8246a38,COAST,alarm,10,landsat,success,complete
+COAST_date2016-12-02_range15_modealarm_sensorlandsat,26e050eb-e1ed-44e6-bb23-a3a51442af7b,COAST,alarm,15,landsat,success,complete
+COAST_date2016-12-02_range21_modealarm_sensorlandsat,0c3327c5-5e24-4fe3-ba00-1265b2a20463,COAST,alarm,21,landsat,success,complete
+COAST_date2016-12-02_range30_modealarm_sensorlandsat,e53f6e82-0880-4e2d-9a05-0b7a8c00e0df,COAST,alarm,30,landsat,success,complete
+COAST_date2016-12-02_range45_modealarm_sensorlandsat,1f3c392c-eeda-4844-ae7b-7e2b9dc2e93d,COAST,alarm,45,landsat,success,complete
+COAST_date2016-12-02_range60_modealarm_sensorlandsat,0869ef65-4dca-41d0-a5a3-e5ea16ec430d,COAST,alarm,60,landsat,success,complete
+COAST_date2016-12-02_range90_modealarm_sensorlandsat,63cf8e4f-b27c-4277-a372-313308599b18,COAST,alarm,90,landsat,success,complete
+COAST_date2016-12-02_range5_modecont_sensorsentinel-2,7ea897aa-06c1-4c25-ab0a-89703c51ff87,COAST,cont,5,sentinel-2,success,complete
+COAST_date2016-12-02_range10_modecont_sensorsentinel-2,d57cf31e-b04a-48d3-88a4-c770839290c9,COAST,cont,10,sentinel-2,success,complete
+COAST_date2016-12-02_range15_modecont_sensorsentinel-2,110b5b6f-7e04-4764-ad89-3be2451bfb01,COAST,cont,15,sentinel-2,success,complete
+COAST_date2016-12-02_range21_modecont_sensorsentinel-2,5239ce0c-fd37-4e6d-b72f-e443eb807670,COAST,cont,21,sentinel-2,success,complete
+COAST_date2016-12-02_range30_modecont_sensorsentinel-2,cb6846c2-2ec3-465a-8a13-272d390fae98,COAST,cont,30,sentinel-2,success,complete
+COAST_date2016-12-02_range45_modecont_sensorsentinel-2,24d40a4e-bf98-41cd-8fa2-9a2ad4aef891,COAST,cont,45,sentinel-2,success,failed
+COAST_date2016-12-02_range60_modecont_sensorsentinel-2,43baee12-4a36-4897-8f09-d9ac2a4cf6f9,COAST,cont,60,sentinel-2,success,failed
+COAST_date2016-12-02_range90_modecont_sensorsentinel-2,37d5d4c5-594c-4f8a-8e6c-56b23daa5ac0,COAST,cont,90,sentinel-2,success,failed
+COAST_date2016-12-02_range5_modecont_sensorlandsat,bfecac65-87aa-4c05-97be-9839d461db25,COAST,cont,5,landsat,success,failed
+COAST_date2016-12-02_range10_modecont_sensorlandsat,3e98f706-32a4-4dbe-a195-ac4f13a0aead,COAST,cont,10,landsat,success,complete
+COAST_date2016-12-02_range15_modecont_sensorlandsat,091a70b3-be6b-468d-a0bb-2c1feeeec41a,COAST,cont,15,landsat,success,complete
+COAST_date2016-12-02_range21_modecont_sensorlandsat,c1bf33e9-e9aa-46e2-9969-0d220af94e9e,COAST,cont,21,landsat,success,complete
+COAST_date2016-12-02_range30_modecont_sensorlandsat,1352da2a-e275-4ed7-a3e4-45a1cc232388,COAST,cont,30,landsat,success,complete
+COAST_date2016-12-02_range45_modecont_sensorlandsat,acb35581-6211-42d8-9793-740550cb66dd,COAST,cont,45,landsat,success,complete
+COAST_date2016-12-02_range60_modecont_sensorlandsat,7a99cedc-8491-46be-a8ec-8bb2aba46f90,COAST,cont,60,landsat,success,complete
+COAST_date2016-12-02_range90_modecont_sensorlandsat,54feeec3-9b54-4b39-a824-9a631114816a,COAST,cont,90,landsat,success,complete
+LIBERTY CANYON_date2016-11-05_range5_modealarm_sensorsentinel-2,fd240898-713d-4833-aa08-b07678797c46,LIBERTY CANYON,alarm,5,sentinel-2,success,complete
+LIBERTY CANYON_date2016-11-05_range10_modealarm_sensorsentinel-2,ecad4ff8-5de9-4fbc-870f-571621dc2827,LIBERTY CANYON,alarm,10,sentinel-2,success,complete
+LIBERTY CANYON_date2016-11-05_range15_modealarm_sensorsentinel-2,2ecd31e6-e646-4237-8caf-df65148f48bf,LIBERTY CANYON,alarm,15,sentinel-2,success,complete
+LIBERTY CANYON_date2016-11-05_range21_modealarm_sensorsentinel-2,77d72cd1-594e-4d93-99ed-d12c3f2c7f3d,LIBERTY CANYON,alarm,21,sentinel-2,success,complete
+LIBERTY CANYON_date2016-11-05_range30_modealarm_sensorsentinel-2,38543ca5-f516-46cd-9c02-aa04d2a3748d,LIBERTY CANYON,alarm,30,sentinel-2,success,complete
+LIBERTY CANYON_date2016-11-05_range45_modealarm_sensorsentinel-2,cf1a82e2-5a5c-4f40-aaa8-14868673c354,LIBERTY CANYON,alarm,45,sentinel-2,success,complete
+LIBERTY CANYON_date2016-11-05_range60_modealarm_sensorsentinel-2,75b79a93-3a16-4238-baab-2539cbc4aef1,LIBERTY CANYON,alarm,60,sentinel-2,success,failed
+LIBERTY CANYON_date2016-11-05_range90_modealarm_sensorsentinel-2,78d8489c-0be2-4892-b42a-4570bdc8fc53,LIBERTY CANYON,alarm,90,sentinel-2,success,failed
+LIBERTY CANYON_date2016-11-05_range5_modealarm_sensorlandsat,66ece77f-2f29-41f2-894c-0ababb112e6d,LIBERTY CANYON,alarm,5,landsat,success,complete
+LIBERTY CANYON_date2016-11-05_range10_modealarm_sensorlandsat,a5c620b5-916c-4a74-a284-38cd9b50f9e5,LIBERTY CANYON,alarm,10,landsat,success,complete
+LIBERTY CANYON_date2016-11-05_range15_modealarm_sensorlandsat,a69eb3be-872d-4867-9685-c766dfa361cc,LIBERTY CANYON,alarm,15,landsat,success,complete
+LIBERTY CANYON_date2016-11-05_range21_modealarm_sensorlandsat,e621264b-fb19-4e79-950f-c8a931910ad1,LIBERTY CANYON,alarm,21,landsat,success,complete
+LIBERTY CANYON_date2016-11-05_range30_modealarm_sensorlandsat,c3229c8a-aa9c-4413-9f39-7fe42cb9d6de,LIBERTY CANYON,alarm,30,landsat,success,complete
+LIBERTY CANYON_date2016-11-05_range45_modealarm_sensorlandsat,99486fa7-2ef3-4a57-805f-c0b6fbda06c0,LIBERTY CANYON,alarm,45,landsat,success,complete
+LIBERTY CANYON_date2016-11-05_range60_modealarm_sensorlandsat,9d1c09d5-26a1-4245-8a85-e5f2aaf2cd01,LIBERTY CANYON,alarm,60,landsat,success,complete
+LIBERTY CANYON_date2016-11-05_range90_modealarm_sensorlandsat,6d1ce2cd-7061-41aa-8d3c-9c143294ce61,LIBERTY CANYON,alarm,90,landsat,success,complete
+LIBERTY CANYON_date2016-11-05_range5_modecont_sensorsentinel-2,891bf538-1b34-49c6-ac71-ba71e702c812,LIBERTY CANYON,cont,5,sentinel-2,success,complete
+LIBERTY CANYON_date2016-11-05_range10_modecont_sensorsentinel-2,ff787dfd-df34-4c2e-8377-3ac76234d080,LIBERTY CANYON,cont,10,sentinel-2,success,complete
+LIBERTY CANYON_date2016-11-05_range15_modecont_sensorsentinel-2,83939e54-c031-4080-a56d-b17ca4694845,LIBERTY CANYON,cont,15,sentinel-2,success,complete
+LIBERTY CANYON_date2016-11-05_range21_modecont_sensorsentinel-2,9647c4b7-b4a7-49bf-b4c3-ea49ce8f8b59,LIBERTY CANYON,cont,21,sentinel-2,success,complete
+LIBERTY CANYON_date2016-11-05_range30_modecont_sensorsentinel-2,710dd6c8-a720-4739-b73b-2dd0143efa81,LIBERTY CANYON,cont,30,sentinel-2,success,complete
+LIBERTY CANYON_date2016-11-05_range45_modecont_sensorsentinel-2,4bfcc7d8-7bd5-465f-85ef-c487068c74f0,LIBERTY CANYON,cont,45,sentinel-2,success,complete
+LIBERTY CANYON_date2016-11-05_range60_modecont_sensorsentinel-2,7147fcf8-9326-4460-9b89-4aea90b56857,LIBERTY CANYON,cont,60,sentinel-2,success,failed
+LIBERTY CANYON_date2016-11-05_range90_modecont_sensorsentinel-2,6b39eb07-26d7-4321-9ef9-55c24fc058b4,LIBERTY CANYON,cont,90,sentinel-2,success,failed
+LIBERTY CANYON_date2016-11-05_range5_modecont_sensorlandsat,cebd5057-c44b-437a-a4ef-e7295ef38e10,LIBERTY CANYON,cont,5,landsat,success,complete
+LIBERTY CANYON_date2016-11-05_range10_modecont_sensorlandsat,4640e710-8ce3-44e9-a1be-a74ee722dd25,LIBERTY CANYON,cont,10,landsat,success,complete
+LIBERTY CANYON_date2016-11-05_range15_modecont_sensorlandsat,aa32eca4-ebd3-44b6-acff-08b32255ad57,LIBERTY CANYON,cont,15,landsat,success,complete
+LIBERTY CANYON_date2016-11-05_range21_modecont_sensorlandsat,a58a6333-1e49-4e10-be96-fdcd151356ed,LIBERTY CANYON,cont,21,landsat,success,complete
+LIBERTY CANYON_date2016-11-05_range30_modecont_sensorlandsat,4449b7e4-7aec-4c52-8d21-f0b691ca6a0e,LIBERTY CANYON,cont,30,landsat,success,complete
+LIBERTY CANYON_date2016-11-05_range45_modecont_sensorlandsat,4a31759f-6196-4806-994a-d3eb9050081c,LIBERTY CANYON,cont,45,landsat,success,complete
+LIBERTY CANYON_date2016-11-05_range60_modecont_sensorlandsat,98fb7fee-f3bf-42af-9cf2-42c839ea4c00,LIBERTY CANYON,cont,60,landsat,success,complete
+LIBERTY CANYON_date2016-11-05_range90_modecont_sensorlandsat,b776d599-c978-45f0-93da-654846628e14,LIBERTY CANYON,cont,90,landsat,success,complete

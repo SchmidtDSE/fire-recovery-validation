@@ -17,6 +17,10 @@ def lookup_job(fire_name, fire_days, date_mode, sensor, fires):
 
     fire_event_name = row['fire_event_name'].values[0]
     job_id = row['job_id'].values[0]
+    job_status = row['job_status'].values[0]
+
+    if job_status != 'complete':
+        raise ValueError(f"Job {fire_event_name} did not complete (job_status='{job_status}')")
 
     return fire_event_name, job_id
 
